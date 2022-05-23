@@ -1,0 +1,5603 @@
+depressive disorder,1
+drug-induced liver injury,2
+mercury poisoning,3
+necrosis,4
+neoplasms,5
+"anemia, hemolytic",6
+attention deficit and disruptive behavior disorders,7
+autistic disorder,8
+cognition disorders,9
+cystitis,10
+heavy metal toxicity,11
+hemolysis,12
+hypertension,13
+lead poisoning,14
+learning disorders,15
+lung injury,16
+"micronuclei, chromosome-defective",17
+pneumonia,18
+anxiety disorders,19
+ataxia,20
+autoimmune diseases,21
+brain diseases,22
+brain edema,23
+brain injuries,24
+cardiomyopathies,25
+craniofacial abnormalities,26
+death,27
+"disease models, animal",28
+drug toxicity,29
+epilepsy,30
+"epilepsy, absence",31
+fetal growth retardation,32
+hyperkinesis,33
+"hypersensitivity, delayed",34
+kidney diseases,35
+"lead poisoning, nervous system",36
+memory disorders,37
+movement disorders,38
+myoclonus,39
+nerve degeneration,40
+prenatal exposure delayed effects,41
+"reflex, abnormal",42
+seizures,43
+splenomegaly,44
+status epilepticus,45
+weight loss,46
+carcinoma,47
+"liver neoplasms, experimental",48
+melanoma,49
+prostatic neoplasms,50
+"respiratory distress syndrome, adult",51
+urinary bladder neoplasms,52
+"abnormalities, drug-induced",53
+"abnormalities, multiple",54
+acne vulgaris,55
+activated protein c resistance,56
+acute kidney injury,57
+adenocarcinoma,58
+"adenoma, liver cell",59
+adrenal insufficiency,60
+adrenocortical hyperfunction,61
+albuminuria,62
+alcoholism,63
+alopecia,64
+amenorrhea,65
+amnesia,66
+anemia,67
+"anemia, iron-deficiency",68
+"anemia, macrocytic",69
+aneuploidy,70
+angioedema,71
+anorexia,72
+"arrhythmias, cardiac",73
+arterial occlusive diseases,74
+arteriosclerosis,75
+"arthritis, experimental",76
+asthenozoospermia,77
+atherosclerosis,78
+atrial septal defect 2,79
+atrophy,80
+attention deficit disorder with hyperactivity,81
+biliary dyskinesia,82
+birth weight,83
+blood coagulation disorders,84
+body weight changes,85
+bone diseases,86
+"bone diseases, developmental",87
+bone marrow diseases,88
+bone resorption,89
+brain ischemia,90
+breast diseases,91
+breast neoplasms,92
+bronchial hyperreactivity,93
+budd-chiari syndrome,94
+cadmium poisoning,95
+"candidiasis, vulvovaginal",96
+"carcinoma, endometrioid",97
+"carcinoma, hepatocellular",98
+carcinoma in situ,99
+cardiomegaly,100
+"cardiomyopathy, hypertrophic",101
+cardiovascular abnormalities,102
+cardiovascular diseases,103
+carotid artery thrombosis,104
+catalepsy,105
+"cell transformation, neoplastic",106
+cerebral hemorrhage,107
+cerebral infarction,108
+child behavior disorders,109
+chloracne,110
+cholangiocarcinoma,111
+choledochal cyst,112
+cholestasis,113
+"cholestasis, intrahepatic",114
+chromosome aberrations,115
+chronobiology disorders,116
+cleft lip,117
+cleft palate,118
+cocaine-related disorders,119
+colitis,120
+congenital abnormalities,121
+"congenital, hereditary, and neonatal diseases and abnormalities",122
+coronary artery disease,123
+coronary occlusion,124
+coxsackievirus infections,125
+cystadenoma,126
+cysts,127
+"diabetes mellitus, type 1",128
+"diabetes mellitus, type 2",129
+diabetic nephropathies,130
+diarrhea,131
+disorders of sex development,132
+disseminated intravascular coagulation,133
+dizziness,134
+drug hypersensitivity,135
+dyslipidemias,136
+dysmenorrhea,137
+dysostoses,138
+dyspepsia,139
+dysuria,140
+ear neoplasms,141
+eating disorders,142
+ebstein anomaly,143
+ectrodactyly,144
+edema,145
+"edema, cardiac",146
+embryo loss,147
+"encephalomyelitis, autoimmune, experimental",148
+endometrial neoplasms,149
+endometriosis,150
+epstein-barr virus infections,151
+eye abnormalities,152
+eye diseases,153
+fatigue,154
+fatty liver,155
+feminization,156
+fetal death,157
+fetal diseases,158
+fibrosis,159
+folic acid deficiency,160
+gallbladder diseases,161
+gallbladder neoplasms,162
+gallstones,163
+"genital diseases, female",164
+"genital diseases, male",165
+glucose intolerance,166
+glucose metabolism disorders,167
+glycosuria,168
+gonadal disorders,169
+growth disorders,170
+gynecomastia,171
+hamartoma,172
+hashimoto&apos;s encephalitis,173
+headache,174
+hearing disorders,175
+"heart defects, congenital",176
+heart diseases,177
+heart failure,178
+"heart septal defects, ventricular",179
+hematuria,180
+hemorrhage,181
+hepatomegaly,182
+herpes genitalis,183
+hirsutism,184
+hot flashes,185
+hydronephrosis,186
+hyperalgesia,187
+hyperglycemia,188
+hyperlipidemias,189
+hyperplasia,190
+hyperprolactinemia,191
+"hypertension, malignant",192
+"hypertension, renovascular",193
+hyperthyroidism,194
+hypertriglyceridemia,195
+hypertrophy,196
+"hypertrophy, left ventricular",197
+hypocalcemia,198
+hypokinesia,199
+hypospadias,200
+immune system diseases,201
+immunologic deficiency syndromes,202
+"infant, newborn, diseases",203
+infertility,204
+"infertility, female",205
+"infertility, male",206
+inflammation,207
+insulin resistance,208
+intestinal diseases,209
+intestinal neoplasms,210
+intracranial embolism and thrombosis,211
+intracranial hemorrhages,212
+iron overload,213
+"jaundice, obstructive",214
+jaw abnormalities,215
+"keratitis, herpetic",216
+kidney neoplasms,217
+lactation disorders,218
+leiomyoma,219
+"liver cirrhosis, experimental",220
+liver diseases,221
+liver neoplasms,222
+lung diseases,223
+lung neoplasms,224
+"lupus erythematosus, systemic",225
+lymphatic diseases,226
+lymphoma,227
+lymphopenia,228
+"mammary neoplasms, animal",229
+"mammary neoplasms, experimental",230
+manganese poisoning,231
+medulloblastoma,232
+melanosis,233
+mesothelioma,234
+metaplasia,235
+metrorrhagia,236
+microcephaly,237
+mood disorders,238
+musculoskeletal abnormalities,239
+myocardial infarction,240
+myocardial ischemia,241
+myocardial reperfusion injury,242
+myocarditis,243
+nausea,244
+neoplasm invasiveness,245
+neoplasm metastasis,246
+"neoplasms, experimental",247
+"neovascularization, pathologic",248
+nephritis,249
+nervous system diseases,250
+nervous system malformations,251
+neural tube defects,252
+neuronal migration disorders,253
+neurotoxicity syndromes,254
+olfaction disorders,255
+oligospermia,256
+"osteoporosis, postmenopausal",257
+ovarian cysts,258
+ovarian diseases,259
+ovarian neoplasms,260
+pain,261
+pancreatic neoplasms,262
+panic disorder,263
+paralysis,264
+parkinson disease,265
+peanut hypersensitivity,266
+peliosis hepatis,267
+pericardial effusion,268
+pigmentation disorders,269
+pituitary diseases,270
+pituitary neoplasms,271
+placenta diseases,272
+pneumococcal infections,273
+poisoning,274
+polycystic ovary syndrome,275
+polyuria,276
+porphyria cutanea tarda,277
+"porphyrias, hepatic",278
+precancerous conditions,279
+pre-eclampsia,280
+premature birth,281
+prenatal injuries,282
+prolactinoma,283
+prostatic diseases,284
+prostatic hyperplasia,285
+prostatic intraepithelial neoplasia,286
+prostatitis,287
+proteinuria,288
+pruritus,289
+psychotic disorders,290
+"puberty, delayed",291
+"puberty, precocious",292
+pulmonary embolism,293
+pyelonephritis,294
+respiratory system abnormalities,295
+salivary gland diseases,296
+sarcoma,297
+scoliosis,298
+sexual and gender disorders,299
+"sinus thrombosis, intracranial",300
+skin diseases,301
+skin neoplasms,302
+skin ulcer,303
+sleep initiation and maintenance disorders,304
+somatosensory disorders,305
+spermatocele,306
+streptococcal infections,307
+stroke,308
+substance-related disorders,309
+substance withdrawal syndrome,310
+tachycardia,311
+"tachycardia, ventricular",312
+taste disorders,313
+testicular diseases,314
+tetany,315
+thromboangiitis obliterans,316
+thromboembolism,317
+thrombophilia,318
+thrombophlebitis,319
+thrombosis,320
+thyroid diseases,321
+tibial fractures,322
+torsades de pointes,323
+tricuspid atresia,324
+ureteral obstruction,325
+urethral stricture,326
+urinary bladder calculi,327
+urinary retention,328
+urination disorders,329
+urogenital abnormalities,330
+uterine cervical neoplasms,331
+uterine diseases,332
+uterine hemorrhage,333
+uterine neoplasms,334
+vaginal diseases,335
+vascular malformations,336
+"vasospasm, intracranial",337
+venous thromboembolism,338
+venous thrombosis,339
+ventricular dysfunction,340
+"ventricular dysfunction, left",341
+ventricular fibrillation,342
+vestibular diseases,343
+vision disorders,344
+vomiting,345
+wasting syndrome,346
+weight gain,347
+xanthomatosis,348
+"abortion, spontaneous",349
+bone neoplasms,350
+brain infarction,351
+congenital diaphragmatic hernia,352
+eosinophilia,353
+exanthema,354
+fanconi syndrome,355
+"fibromatosis, aggressive",356
+gastrointestinal neoplasms,357
+gastrointestinal stromal tumors,358
+glioma,359
+glomerulonephritis,360
+"hearing loss, sensorineural",361
+hepatitis,362
+"hepatitis, autoimmune",363
+hypophosphatemia,364
+"leukemia, experimental",365
+"leukemia, myelogenous, chronic, bcr-abl positive",366
+"leukemia, myeloid",367
+lichenoid eruptions,368
+liver cirrhosis,369
+"liver failure, acute",370
+muscle cramp,371
+"muscular dystrophy, animal",372
+"neoplasms, hormone-dependent",373
+"neuroectodermal tumors, primitive, peripheral",374
+osteolysis,375
+osteopetrosis,376
+peripheral nervous system diseases,377
+precursor cell lymphoblastic leukemia-lymphoma,378
+purpura,379
+renal insufficiency,380
+small cell lung carcinoma,381
+stomach neoplasms,382
+"thrombocythemia, essential",383
+thyroid neoplasms,384
+vasculitis,385
+aberrant crypt foci,386
+angina pectoris,387
+anoxia,388
+antisocial personality disorder,389
+aortic aneurysm,390
+burns,391
+cerebrovascular disorders,392
+"child development disorders, pervasive",393
+colonic neoplasms,394
+coronary disease,395
+cryptorchidism,396
+"depressive disorder, major",397
+"diabetes mellitus, experimental",398
+diabetic angiopathies,399
+diabetic neuropathies,400
+"dyskinesia, drug-induced",401
+dysthymic disorder,402
+dystocia,403
+"epilepsies, myoclonic",404
+erectile dysfunction,405
+fetal nutrition disorders,406
+firesetting behavior,407
+glioblastoma,408
+"glomerulosclerosis, focal segmental",409
+hiv wasting syndrome,410
+hyperandrogenism,411
+hypercholesterolemia,412
+hyperinsulinism,413
+hyperphagia,414
+hypoglycemia,415
+hypogonadism,416
+hypopituitarism,417
+hypotension,418
+impulse control disorders,419
+klinefelter syndrome,420
+leydig cell tumor,421
+lithiasis,422
+"lymphoma, non-hodgkin",423
+malaria,424
+"melanoma, experimental",425
+mental disorders,426
+metabolic syndrome x,427
+muscular atrophy,428
+"nephritis, interstitial",429
+non-alcoholic fatty liver disease,430
+obesity,431
+"plaque, atherosclerotic",432
+polycythemia,433
+reperfusion injury,434
+salivary gland neoplasms,435
+sebaceous gland neoplasms,436
+"sexual dysfunction, physiological",437
+"sexual dysfunctions, psychological",438
+"shock, hemorrhagic",439
+"shock, traumatic",440
+"sleep apnea, obstructive",441
+splenic diseases,442
+stomach diseases,443
+varicocele,444
+vascular calcification,445
+virilism,446
+voice disorders,447
+"abdomen, acute",448
+abdominal pain,449
+abruptio placentae,450
+accelerated idioventricular rhythm,451
+acid-base imbalance,452
+acidosis,453
+acute coronary syndrome,454
+agoraphobia,455
+agranulocytosis,456
+aids dementia complex,457
+"akathisia, drug-induced",458
+"alveolitis, extrinsic allergic",459
+anaphylaxis,460
+aneurysm,461
+"aneurysm, dissecting",462
+"aneurysm, ruptured",463
+"angina, unstable",464
+anisocoria,465
+anterior spinal artery syndrome,466
+anterior wall myocardial infarction,467
+anti-glomerular basement membrane disease,468
+anuria,469
+aortic diseases,470
+aortic rupture,471
+aphasia,472
+apnea,473
+arthralgia,474
+arthritis,475
+asthma,476
+athetosis,477
+atresia of small intestine,478
+atrial fibrillation,479
+atrial flutter,480
+atrioventricular block,481
+auditory perceptual disorders,482
+autonomic nervous system diseases,483
+basal ganglia cerebrovascular disease,484
+basal ganglia diseases,485
+basal ganglia hemorrhage,486
+bipolar disorder,487
+blindness,488
+blood platelet disorders,489
+botulism,490
+bradycardia,491
+"brain damage, chronic",492
+brain stem infarctions,493
+bronchial diseases,494
+bronchial spasm,495
+bronchiolitis obliterans,496
+brown-sequard syndrome,497
+bundle-branch block,498
+"cardiac complexes, premature",499
+"cardiomyopathy, dilated",500
+"carotid artery, internal, dissection",501
+catatonia,502
+cellulitis,503
+central nervous system cysts,504
+central nervous system diseases,505
+cerebellar diseases,506
+chest pain,507
+chills,508
+chorea,509
+churg-strauss syndrome,510
+cluster headache,511
+"colitis, ischemic",512
+colonic diseases,513
+color vision defects,514
+coma,515
+compartment syndromes,516
+confusion,517
+"constriction, pathologic",518
+coronary aneurysm,519
+coronary stenosis,520
+coronary thrombosis,521
+coronary vasospasm,522
+cough,523
+cranial nerve diseases,524
+cryoglobulinemia,525
+"death, sudden",526
+"death, sudden, cardiac",527
+deglutition disorders,528
+delirium,529
+demyelinating diseases,530
+developmental disabilities,531
+diabetes insipidus,532
+disorders of excessive somnolence,533
+drug eruptions,534
+dyspnea,535
+dystonia,536
+emphysema,537
+encephalomalacia,538
+"encephalomyelitis, acute disseminated",539
+endarteritis,540
+endocarditis,541
+endophthalmitis,542
+enteritis,543
+enterocolitis,544
+"epilepsy, tonic-clonic",545
+epistaxis,546
+exophthalmos,547
+eye hemorrhage,548
+eyelid diseases,549
+facial injuries,550
+facial pain,551
+fetal distress,552
+"fetal membranes, premature rupture",553
+fever,554
+fibromuscular dysplasia,555
+finger injuries,556
+fistula,557
+flank pain,558
+gastroenteritis,559
+gastrointestinal hemorrhage,560
+gastroschisis,561
+gingival diseases,562
+gingival recession,563
+granuloma,564
+"granuloma, foreign-body",565
+"granuloma, lethal midline",566
+hallucinations,567
+hearing loss,568
+"hearing loss, bilateral",569
+"hearing loss, sudden",570
+heart arrest,571
+"heart rupture, post-infarction",572
+"heart septal defects, atrial",573
+heart valve diseases,574
+heat stroke,575
+helicobacter infections,576
+hematoma,577
+"hematoma, epidural, spinal",578
+"hematoma, subdural",579
+"hematoma, subdural, acute",580
+hemolytic-uremic syndrome,581
+hemoperitoneum,582
+hepatic encephalopathy,583
+heroin dependence,584
+hiv infections,585
+hydranencephaly,586
+hyperammonemia,587
+hypercalcemia,588
+hyperkalemia,589
+"hypertension, pulmonary",590
+hypertensive encephalopathy,591
+hypesthesia,592
+hyphema,593
+hypokalemia,594
+hypokalemic periodic paralysis,595
+hypothermia,596
+hypothyroidism,597
+"hypoxia, brain",598
+"hypoxia-ischemia, brain",599
+iliac aneurysm,600
+"infant, premature, diseases",601
+infarction,602
+"infarction, posterior cerebral artery",603
+infection,604
+intestinal obstruction,605
+intracranial arterial diseases,606
+intracranial thrombosis,607
+intraoperative complications,608
+intussusception,609
+ischemia,610
+"ischemic attack, transient",611
+jaundice,612
+keratitis,613
+"kidney failure, chronic",614
+"kidney tubular necrosis, acute",615
+kleeblattschaedel syndrome,616
+labyrinth diseases,617
+lacrimal duct obstruction,618
+language development disorders,619
+laryngeal diseases,620
+laryngeal edema,621
+lateral medullary syndrome,622
+lethargy,623
+leukocytosis,624
+leukoencephalopathies,625
+"leukoencephalopathy, progressive multifocal",626
+"limb deformities, congenital",627
+lip diseases,628
+liver failure,629
+long qt syndrome,630
+low back pain,631
+"lung diseases, interstitial",632
+magnesium deficiency,633
+meconium aspiration syndrome,634
+mediastinal emphysema,635
+meningitis,636
+mental disorders diagnosed in childhood,637
+mesenteric vascular disease,638
+mesenteric vascular occlusion,639
+migraine disorders,640
+mitral valve insufficiency,641
+mobius syndrome,642
+mononeuropathies,643
+motor skills disorders,644
+mouth abnormalities,645
+mouth diseases,646
+moyamoya disease,647
+multiple organ failure,648
+muscle hypertonia,649
+muscle rigidity,650
+muscle spasticity,651
+muscle weakness,652
+mutism,653
+myasthenia gravis,654
+mydriasis,655
+myocardial stunning,656
+nasal obstruction,657
+neonatal abstinence syndrome,658
+"neoplasms, fibrous tissue",659
+neurobehavioral manifestations,660
+neuroleptic malignant syndrome,661
+neuromuscular diseases,662
+neutropenia,663
+"nose deformities, acquired",664
+nose diseases,665
+nose neoplasms,666
+obsessive-compulsive disorder,667
+"obstetric labor, premature",668
+ocular motility disorders,669
+ophthalmoplegia,670
+optic nerve diseases,671
+oral fistula,672
+orbital cellulitis,673
+orbital diseases,674
+osteomyelitis,675
+osteonecrosis,676
+pancreatitis,677
+panniculitis,678
+papilledema,679
+paranasal sinus diseases,680
+paranoid disorders,681
+paresis,682
+paresthesia,683
+peptic ulcer perforation,684
+periodontal diseases,685
+peripheral vascular diseases,686
+peritonitis,687
+personality disorders,688
+photosensitivity disorders,689
+placenta accreta,690
+pneumopericardium,691
+pneumothorax,692
+poland syndrome,693
+postoperative complications,694
+pregnancy complications,695
+"pregnancy complications, cardiovascular",696
+"pregnancy complications, hematologic",697
+priapism,698
+psychomotor agitation,699
+psychomotor disorders,700
+"psychoses, substance-induced",701
+puerperal disorders,702
+pulmonary arterial hypertension,703
+pulmonary edema,704
+pulmonary emphysema,705
+pulmonary infarction,706
+pupil disorders,707
+"purpura, schoenlein-henoch",708
+"purpura, thrombotic thrombocytopenic",709
+putaminal hemorrhage,710
+pyoderma gangrenosum,711
+quadriplegia,712
+raynaud disease,713
+reactive attachment disorder,714
+reflex sympathetic dystrophy,715
+renal artery obstruction,716
+respiration disorders,717
+"respiratory distress syndrome, newborn",718
+respiratory insufficiency,719
+respiratory tract fistula,720
+retinal artery occlusion,721
+retinal diseases,722
+retroperitoneal fibrosis,723
+rhabdomyolysis,724
+rhinitis,725
+schizophrenia,726
+"scleroderma, systemic",727
+scotoma,728
+self mutilation,729
+sensation disorders,730
+shock,731
+"shock, cardiogenic",732
+"sialometaplasia, necrotizing",733
+sialorrhea,734
+sinoatrial block,735
+"sinus arrest, cardiac",736
+sinusitis,737
+"skin diseases, vascular",738
+sleep deprivation,739
+sleep disorders,740
+spasm,741
+speech disorders,742
+spinal cord ischemia,743
+splenic infarction,744
+stereotypic movement disorder,745
+stomach ulcer,746
+stomatognathic diseases,747
+strabismus,748
+subarachnoid hemorrhage,749
+subcutaneous emphysema,750
+sudden infant death,751
+syncope,752
+"syphilis, congenital",753
+systemic vasculitis,754
+"tachycardia, sinus",755
+"tachycardia, supraventricular",756
+takotsubo cardiomyopathy,757
+temporomandibular joint disorders,758
+temporomandibular joint dysfunction syndrome,759
+thrombocytopenia,760
+thrombocytosis,761
+tic disorders,762
+tooth erosion,763
+torticollis,764
+tremor,765
+trichotillomania,766
+ulcer,767
+unconsciousness,768
+"upper extremity deformities, congenital",769
+urinary incontinence,770
+uterine rupture,771
+vascular diseases,772
+vascular headaches,773
+"vasculitis, central nervous system",774
+venous insufficiency,775
+vertebrobasilar insufficiency,776
+wegener granulomatosis,777
+xerostomia,778
+cerebral palsy,779
+dementia,780
+"mercury poisoning, nervous system",781
+nephrosis,782
+neurologic manifestations,783
+"trauma, nervous system",784
+adenocarcinoma of lung,785
+"adenocarcinoma, papillary",786
+adenoma,787
+"adenoma, bile duct",788
+ageusia,789
+agricultural workers&apos; diseases,790
+alcohol withdrawal delirium,791
+alzheimer disease,792
+amblyopia,793
+"anemia, aplastic",794
+"anemia, hemolytic, autoimmune",795
+"anemia, megaloblastic",796
+"anemia, sickle cell",797
+"anemia, sideroblastic",798
+anencephaly,799
+anus neoplasms,800
+"aortic aneurysm, abdominal",801
+"arthritis, psoriatic",802
+astrocytoma,803
+brain neoplasms,804
+"carcinoma, renal cell",805
+"carcinoma, squamous cell",806
+cataract,807
+central nervous system neoplasms,808
+cerebellar ataxia,809
+chromosome breakage,810
+colorectal neoplasms,811
+corneal opacity,812
+coronary restenosis,813
+diabetes mellitus,814
+ectodermal dysplasia,815
+endometrial hyperplasia,816
+esophageal achalasia,817
+esophageal neoplasms,818
+exfoliation syndrome,819
+"fatty liver, alcoholic",820
+fibrosarcoma,821
+flushing,822
+gastritis,823
+gastrointestinal diseases,824
+"genital neoplasms, male",825
+genomic instability,826
+glaucoma,827
+glycosylphosphatidylinositol deficiency,828
+hemangioma,829
+hematologic diseases,830
+hepatoblastoma,831
+"histiocytoma, malignant fibrous",832
+hiv seropositivity,833
+hydrocephalus,834
+hyperhomocysteinemia,835
+laryngeal neoplasms,836
+leukemia,837
+"leukemia, myeloid, acute",838
+leukemic infiltration,839
+lice infestations,840
+"lower extremity deformities, congenital",841
+"lymphoma, b-cell",842
+"lymphoma, t-cell",843
+lymphoproliferative disorders,844
+"malaria, falciparum",845
+maxillofacial abnormalities,846
+meningioma,847
+microsatellite instability,848
+mouth neoplasms,849
+mucositis,850
+multiple chemical sensitivity,851
+muscular diseases,852
+nasopharyngeal neoplasms,853
+neurilemmoma,854
+neurodegenerative diseases,855
+occupational diseases,856
+oligodendroglioma,857
+osteomalacia,858
+osteoporosis,859
+papilloma,860
+pharyngeal neoplasms,861
+polyneuropathies,862
+psoriasis,863
+psychophysiologic disorders,864
+retinal degeneration,865
+retinoblastoma,866
+scabies,867
+spinal cord diseases,868
+spinal dysraphism,869
+"sprue, tropical",870
+thymus neoplasms,871
+tongue neoplasms,872
+toxoplasmosis,873
+uremia,874
+wilms tumor,875
+abdominal neoplasms,876
+"acidosis, lactic",877
+"acidosis, respiratory",878
+acrodynia,879
+acute disease,880
+acute lung injury,881
+"adenoma, islet cell",882
+adrenal gland neoplasms,883
+alcohol-related disorders,884
+alkalosis,885
+"amnesia, retrograde",886
+anisometropia,887
+apraxias,888
+arnold-chiari malformation,889
+arteritis,890
+ascites,891
+astigmatism,892
+ataxia telangiectasia,893
+back pain,894
+"blindness, cortical",895
+"bone diseases, metabolic",896
+"brain diseases, metabolic",897
+"breast neoplasms, male",898
+camptocormia,899
+"carcinoma, ductal, breast",900
+"carcinoma, non-small-cell lung",901
+"carcinoma, pancreatic ductal",902
+"carcinoma, transitional cell",903
+cardiovirus infections,904
+cartilage diseases,905
+cecal diseases,906
+cholecystitis,907
+cholelithiasis,908
+choroid diseases,909
+conduct disorder,910
+consciousness disorders,911
+corneal diseases,912
+craniosynostoses,913
+cystic fibrosis,914
+dandy-walker syndrome,915
+dermatitis,916
+"dermatitis, allergic contact",917
+"dermatitis, atopic",918
+"dermatitis, irritant",919
+dermatofibrosarcoma,920
+dermatomyositis,921
+diabetes complications,922
+diabetic cardiomyopathies,923
+diabetic ketoacidosis,924
+diabetic retinopathy,925
+double outlet right ventricle,926
+drug overdose,927
+dysarthria,928
+dyskinesias,929
+dyspareunia,930
+dysphonia,931
+ear diseases,932
+embolism,933
+"embolism, fat",934
+endocardial cushion defects,935
+endocrine system diseases,936
+enuresis,937
+"epidermal necrolysis, toxic",938
+"epilepsies, partial",939
+"epilepsy, complex partial",940
+"epilepsy, generalized",941
+"epilepsy, reflex",942
+"epilepsy, rolandic",943
+"epilepsy, temporal lobe",944
+erythema multiforme,945
+"esophagitis, peptic",946
+essential tremor,947
+female urogenital diseases,948
+fetal resorption,949
+fibroadenoma,950
+"fibromatosis, abdominal",951
+gait ataxia,952
+"gait disorders, neurologic",953
+"glaucoma, angle-closure",954
+"glomerulonephritis, membranous",955
+gout,956
+granulosa cell tumor of the ovary,957
+hair diseases,958
+hemorrhagic disorders,959
+"hepatitis, chronic",960
+hernia,961
+hyperemia,962
+hypergammaglobulinemia,963
+"hyperlipidemia, familial combined",964
+hyperlipoproteinemias,965
+hyperlipoproteinemia type ii,966
+hyperlipoproteinemia type iv,967
+hyperoxaluria,968
+hypersensitivity,969
+hypertelorism,970
+hyperuricemia,971
+hyponatremia,972
+hypoplastic left heart syndrome,973
+immunoproliferative disorders,974
+inappropriate adh syndrome,975
+"influenza, human",976
+intellectual disability,977
+intracranial embolism,978
+intracranial hypertension,979
+keloid,980
+ketosis,981
+leukopenia,982
+lipid metabolism disorders,983
+lipidoses,984
+lipomyelomeningocele,985
+"lupus erythematosus, cutaneous",986
+"lymphangiectasis, intestinal",987
+"lymphoma, t-cell, cutaneous",988
+macular edema,989
+malformations of cortical development,990
+massive hepatic necrosis,991
+"melanoma, amelanotic",992
+melas syndrome,993
+meningocele,994
+meningomyelocele,995
+micrognathism,996
+migraine with aura,997
+migraine without aura,998
+mitochondrial diseases,999
+mitochondrial myopathies,1000
+"mixed tumor, mullerian",1001
+multiple myeloma,1002
+muscle hypotonia,1003
+musculoskeletal diseases,1004
+myelodysplastic syndromes,1005
+"myoclonic epilepsy, juvenile",1006
+myoglobinuria,1007
+myositis,1008
+"neoplasm recurrence, local",1009
+"nephrosis, lipoid",1010
+nephrotic syndrome,1011
+nerve sheath neoplasms,1012
+neurogenic bowel,1013
+neurogenic inflammation,1014
+neuromuscular manifestations,1015
+"niemann-pick disease, type c",1016
+nocturnal enuresis,1017
+"nystagmus, congenital",1018
+"nystagmus, pathologic",1019
+optic neuritis,1020
+"pain, postoperative",1021
+pancreatic pseudocyst,1022
+pancytopenia,1023
+"panniculitis, peritoneal",1024
+papillomavirus infections,1025
+"parkinson disease, secondary",1026
+parkinsonian disorders,1027
+pericarditis,1028
+pheochromocytoma,1029
+pleural effusion,1030
+pleural neoplasms,1031
+poems syndrome,1032
+polymyositis,1033
+"porphyria, acute intermittent",1034
+postoperative hemorrhage,1035
+protein deficiency,1036
+pseudolymphoma,1037
+pseudotumor cerebri,1038
+"red-cell aplasia, pure",1039
+renal hypouricemia,1040
+retinitis pigmentosa,1041
+reye syndrome,1042
+rhabdomyosarcoma,1043
+schistosomiasis japonica,1044
+schistosomiasis mansoni,1045
+"scleroderma, localized",1046
+"seizures, febrile",1047
+"signs and symptoms, digestive",1048
+skin abnormalities,1049
+"spasms, infantile",1050
+spina bifida cystica,1051
+spina bifida occulta,1052
+spinal cord injuries,1053
+stevens-johnson syndrome,1054
+"stress disorders, post-traumatic",1055
+stupor,1056
+stuttering,1057
+syndrome,1058
+systemic carnitine deficiency,1059
+tension-type headache,1060
+tinnitus,1061
+tongue diseases,1062
+"translocation, genetic",1063
+transposition of great vessels,1064
+"twins, conjoined",1065
+unverricht-lundborg syndrome,1066
+urinary bladder diseases,1067
+"urinary bladder, neurogenic",1068
+uterine prolapse,1069
+valproic acid antenatal infection,1070
+"vasculitis, leukocytoclastic, cutaneous",1071
+abducens nerve diseases,1072
+alcohol withdrawal seizures,1073
+"anemia, hypochromic",1074
+"arthritis, gouty",1075
+"arthritis, rheumatoid",1076
+azotemia,1077
+behcet syndrome,1078
+calcinosis,1079
+"cardiomyopathy, alcoholic",1080
+central nervous system infections,1081
+cholangitis,1082
+"dermatitis, exfoliative",1083
+duodenal ulcer,1084
+end stage liver disease,1085
+extravasation of diagnostic and therapeutic materials,1086
+facial paralysis,1087
+fibromyalgia,1088
+gingival hyperplasia,1089
+gingival hypertrophy,1090
+gingival overgrowth,1091
+gingivitis,1092
+graft vs host disease,1093
+guillain-barre syndrome,1094
+"hemoglobinuria, paroxysmal",1095
+hemostatic disorders,1096
+hepatic veno-occlusive disease,1097
+"hepatitis b, chronic",1098
+hepatitis c,1099
+hyperbilirubinemia,1100
+"hypertension, renal",1101
+hypertrichosis,1102
+hypervitaminosis a,1103
+immune suppression,1104
+"jaundice, neonatal",1105
+keratoconjunctivitis sicca,1106
+kidney calculi,1107
+metabolic diseases,1108
+"metal metabolism, inborn errors",1109
+monosomy,1110
+multicystic dysplastic kidney,1111
+"myoclonic epilepsies, progressive",1112
+"nails, malformed",1113
+nephrocalcinosis,1114
+"nephrosis, congenital",1115
+neuralgia,1116
+oral ulcer,1117
+organophosphate poisoning,1118
+osteosarcoma,1119
+"pain, intractable",1120
+"pancreatitis, chronic",1121
+pemphigus,1122
+polyploidy,1123
+posterior leukoencephalopathy syndrome,1124
+precursor t-cell lymphoblastic leukemia-lymphoma,1125
+premenstrual syndrome,1126
+"protozoan infections, animal",1127
+"purpura, thrombocytopenic, idiopathic",1128
+recurrence,1129
+retinal vein occlusion,1130
+"scleroderma, diffuse",1131
+serotonin syndrome,1132
+spermatic cord torsion,1133
+"stomatitis, aphthous",1134
+sturge-weber syndrome,1135
+thrombotic microangiopathies,1136
+"thyroid cancer, follicular",1137
+tourette syndrome,1138
+trisomy,1139
+urolithiasis,1140
+uveitis,1141
+"uveitis, posterior",1142
+vacuolar myopathy,1143
+vascular system injuries,1144
+vitamin b 12 deficiency,1145
+xerophthalmia,1146
+"abnormalities, severe teratoid",1147
+airway obstruction,1148
+alcohol-induced disorders,1149
+bile duct diseases,1150
+biliary tract diseases,1151
+"cardiac output, high",1152
+crohn disease,1153
+"drug-induced liver injury, chronic",1154
+headache disorders,1155
+hyperesthesia,1156
+hyperventilation,1157
+hypoalbuminemia,1158
+hypovolemia,1159
+kidney papillary necrosis,1160
+male urogenital diseases,1161
+methemoglobinemia,1162
+oliguria,1163
+osteoarthritis,1164
+postoperative nausea and vomiting,1165
+purpura fulminans,1166
+respiratory hypersensitivity,1167
+respiratory tract infections,1168
+spondylosis,1169
+ureteral neoplasms,1170
+urologic diseases,1171
+urticaria,1172
+abscess,1173
+accutane embryopathy,1174
+"acidosis, renal tubular",1175
+acneiform eruptions,1176
+acrodermatitis,1177
+"acth deficiency, isolated",1178
+actinomycetales infections,1179
+acute-phase reaction,1180
+adams-stokes syndrome,1181
+"adenocarcinoma, bronchiolo-alveolar",1182
+adenoviridae infections,1183
+adrenal cortex diseases,1184
+adrenal gland diseases,1185
+"adrenal hyperplasia, congenital",1186
+adrenocortical adenoma,1187
+adrenocortical carcinoma,1188
+"affective disorders, psychotic",1189
+aids-related opportunistic infections,1190
+akinetic mutism,1191
+alopecia areata,1192
+altitude sickness,1193
+amphetamine-related disorders,1194
+amyopathic dermatomyositis,1195
+amyotrophic lateral sclerosis,1196
+"anemia, hypoplastic, congenital",1197
+"anemia, refractory, with excess of blasts",1198
+"angioedemas, hereditary",1199
+anorexia nervosa,1200
+anotia,1201
+anti-neutrophil cytoplasmic antibody-associated vasculitis,1202
+aortic valve stenosis,1203
+aortitis,1204
+"aphasia, broca",1205
+arsenic poisoning,1206
+"arthritis, juvenile rheumatoid",1207
+aspergillosis,1208
+asthenia,1209
+atypical hemolytic uremic syndrome,1210
+azoospermia,1211
+bacteremia,1212
+bacterial infections,1213
+berylliosis,1214
+biliary tract neoplasms,1215
+blast crisis,1216
+blastomycosis,1217
+blepharospasm,1218
+blue toe syndrome,1219
+"bone diseases, infectious",1220
+bone marrow neoplasms,1221
+brachial plexus neuritis,1222
+brain abscess,1223
+"brain hemorrhage, traumatic",1224
+bronchial neoplasms,1225
+bronchitis,1226
+"bronchitis, chronic",1227
+bronchopneumonia,1228
+bronchopulmonary dysplasia,1229
+burkitt lymphoma,1230
+cachexia,1231
+candidiasis,1232
+"candidiasis, chronic mucocutaneous",1233
+"candidiasis, invasive",1234
+"candidiasis, oral",1235
+capillary leak syndrome,1236
+"carcinoma, bronchogenic",1237
+"carcinoma, ehrlich tumor",1238
+"carcinoma, large cell",1239
+"carcinoma, lewis lung",1240
+"carcinoma, lobular",1241
+"carcinoma, small cell",1242
+"carcinoma, squamous cell of head and neck",1243
+carcinosarcoma,1244
+"cardiac output, low",1245
+cardiac tamponade,1246
+carotid artery injuries,1247
+carotid stenosis,1248
+cataplexy,1249
+cavernous sinus thrombosis,1250
+celiac disease,1251
+central nervous system fungal infections,1252
+"cerebral hemorrhage, traumatic",1253
+cheilitis,1254
+"cholangitis, sclerosing",1255
+chorioamnionitis,1256
+cicatrix,1257
+cochlear diseases,1258
+"colitis, ulcerative",1259
+community-acquired infections,1260
+conjunctival diseases,1261
+conjunctivitis,1262
+constipation,1263
+contusions,1264
+corneal ulcer,1265
+craniocerebral trauma,1266
+cross infection,1267
+cryptococcosis,1268
+cushing syndrome,1269
+cyanosis,1270
+cysticercosis,1271
+cytochrome-c oxidase deficiency,1272
+deafness,1273
+deficiency diseases,1274
+dehydration,1275
+delayed graft function,1276
+dental caries,1277
+"dermatitis, contact",1278
+"diabetes insipidus, nephrogenic",1279
+diabetic foot,1280
+diffuse axonal injury,1281
+diplopia,1282
+discitis,1283
+disease progression,1284
+dissociative disorders,1285
+dog diseases,1286
+dysgerminoma,1287
+echinococcosis,1288
+eczema,1289
+encephalitis,1290
+"endocarditis, bacterial",1291
+"endocarditis, subacute bacterial",1292
+endolymphatic hydrops,1293
+endomyocardial fibrosis,1294
+endotoxemia,1295
+enterobacteriaceae infections,1296
+"enterocolitis, necrotizing",1297
+"enterocolitis, neutropenic",1298
+"enterocolitis, pseudomembranous",1299
+eosinophilia-myalgia syndrome,1300
+epidural abscess,1301
+erythema,1302
+erythema nodosum,1303
+esophageal diseases,1304
+esophagitis,1305
+eye injuries,1306
+facial dermatoses,1307
+facies,1308
+fallopian tube neoplasms,1309
+fasciculation,1310
+fat necrosis,1311
+fibrocystic breast disease,1312
+fibroma,1313
+focal nodular hyperplasia,1314
+foreign-body reaction,1315
+gas poisoning,1316
+"genital neoplasms, female",1317
+germinoma,1318
+giant cell arteritis,1319
+"glaucoma, open-angle",1320
+gliosis,1321
+"glomerulonephritis, iga",1322
+"glomerulonephritis, membranoproliferative",1323
+goiter,1324
+gonadal dysgenesis,1325
+gram-negative bacterial infections,1326
+gram-positive bacterial infections,1327
+"granuloma, laryngeal",1328
+"granuloma, respiratory tract",1329
+granulomatous allergic angiitis,1330
+granulosa cell tumor,1331
+graves disease,1332
+graves ophthalmopathy,1333
+hand-foot syndrome,1334
+head and neck neoplasms,1335
+"hearing loss, cisplatin-induced, susceptibility to",1336
+"hearing loss, conductive",1337
+"hearing loss, high-frequency",1338
+"hearing loss, unilateral",1339
+heart block,1340
+heart injuries,1341
+hemangioendothelioma,1342
+"hemangioma, cavernous",1343
+hemiplegia,1344
+hemoglobinuria,1345
+hemoptysis,1346
+hepatic insufficiency,1347
+"hepatitis, animal",1348
+hepatitis b,1349
+hepatolenticular degeneration,1350
+hereditary angioedema types i and ii,1351
+"hernia, diaphragmatic",1352
+hiccup,1353
+hidradenitis suppurativa,1354
+"high serum cholesterol, familial",1355
+"histiocytic disorders, malignant",1356
+histiocytosis,1357
+"histiocytosis, langerhans-cell",1358
+histoplasmosis,1359
+hoarseness,1360
+hodgkin disease,1361
+huntington disease,1362
+hyperaldosteronism,1363
+hypercalciuria,1364
+hypereosinophilic syndrome,1365
+hyperpigmentation,1366
+"hypersensitivity, immediate",1367
+hypersplenism,1368
+"hypertension, portal",1369
+"hypertrophy, right ventricular",1370
+hypoalphalipoproteinemias,1371
+"hypomagnesemia 2, renal",1372
+hypomagnesemia primary,1373
+hypoproteinemia,1374
+"hypotension, orthostatic",1375
+ichthyosis,1376
+idiopathic intracranial hypertension with papilledema,1377
+ileal diseases,1378
+ileus,1379
+"infarction, middle cerebral artery",1380
+inflammatory bowel diseases,1381
+intervertebral disc degeneration,1382
+intestinal polyps,1383
+intracranial aneurysm,1384
+iridocyclitis,1385
+iron metabolism disorders,1386
+isotretinoin embryopathy like syndrome,1387
+jaw diseases,1388
+joint diseases,1389
+kashin-beck disease,1390
+kidney cortex necrosis,1391
+kleine-levin syndrome,1392
+lacrimal apparatus diseases,1393
+laryngostenosis,1394
+latent tuberculosis,1395
+leiomyosarcoma,1396
+leishmaniasis,1397
+"leishmaniasis, cutaneous",1398
+"leishmaniasis, mucocutaneous",1399
+"leishmaniasis, visceral",1400
+"leprosy, lepromatous",1401
+"leukemia, lymphocytic, chronic, b-cell",1402
+"leukemia, lymphoid",1403
+"leukemia, myelomonocytic, chronic",1404
+"leukemia, promyelocytic, acute",1405
+"leukomalacia, periventricular",1406
+leukorrhea,1407
+lichen planus,1408
+lipodystrophy,1409
+"liver abscess, amebic",1410
+"liver cirrhosis, biliary",1411
+"liver diseases, alcoholic",1412
+"lung diseases, fungal",1413
+"lung diseases, obstructive",1414
+lupus nephritis,1415
+lymphatic metastasis,1416
+lymphedema,1417
+lymphocele,1418
+"lymphoma, aids-related",1419
+"lymphoma, large b-cell, diffuse",1420
+"lymphoma, t-cell, peripheral",1421
+macrostomia,1422
+malnutrition,1423
+mastitis,1424
+mastodynia,1425
+maxillary sinus neoplasms,1426
+mediastinitis,1427
+meningeal neoplasms,1428
+"meningitis, aseptic",1429
+"meningitis, bacterial",1430
+"meningitis, cryptococcal",1431
+"meningitis, listeria",1432
+"meningitis, pneumococcal",1433
+meningoencephalitis,1434
+menkes kinky hair syndrome,1435
+menorrhagia,1436
+menstruation disturbances,1437
+microphthalmos,1438
+microstomia,1439
+microvascular angina,1440
+miller fisher syndrome,1441
+miosis,1442
+motion sickness,1443
+motor neuron disease,1444
+multiple pulmonary nodules,1445
+multiple sclerosis,1446
+"multiple sclerosis, chronic progressive",1447
+mushroom poisoning,1448
+mycobacterium infections,1449
+"mycobacterium infections, nontuberculous",1450
+mycoses,1451
+"myelinolysis, central pontine",1452
+myopia,1453
+"myositis, inclusion body",1454
+myxedema,1455
+narcolepsy,1456
+neointima,1457
+"neoplasms, germ cell and embryonal",1458
+"neoplasms, glandular and epithelial",1459
+"neoplasms, unknown primary",1460
+nephrolithiasis,1461
+neurasthenia,1462
+neuritis,1463
+neuroblastoma,1464
+neurocysticercosis,1465
+neuroectodermal tumors,1466
+neuromuscular junction diseases,1467
+neurotic disorders,1468
+neutrophil chemotactic response,1469
+night blindness,1470
+nocardiosis,1471
+nonseminomatous germ cell tumor,1472
+occipital horn syndrome,1473
+ocular hypertension,1474
+ocular hypotension,1475
+onychomycosis,1476
+opportunistic infections,1477
+osteosclerosis,1478
+ovarian epithelial cancer,1479
+pancreatic diseases,1480
+"panniculitis, lupus erythematosus",1481
+"paraganglioma, extra-adrenal",1482
+"paraparesis, tropical spastic",1483
+paraproteinemias,1484
+paronychia,1485
+pellagra,1486
+"pemphigoid, bullous",1487
+penile diseases,1488
+perceptual disorders,1489
+periodontitis,1490
+peripheral arterial disease,1491
+phlebitis,1492
+pica,1493
+picornaviridae infections,1494
+pituitary apoplexy,1495
+placental insufficiency,1496
+plasmacytoma,1497
+pleural diseases,1498
+"pneumonia, bacterial",1499
+"pneumonia, pneumococcal",1500
+"pneumonia, staphylococcal",1501
+polyarteritis nodosa,1502
+"polycystic kidney, autosomal dominant",1503
+polycystic kidney diseases,1504
+polycythemia vera,1505
+polyomavirus infections,1506
+"polyradiculoneuropathy, chronic inflammatory demyelinating",1507
+poultry diseases,1508
+precursor b-cell lymphoblastic leukemia-lymphoma,1509
+pre-excitation syndromes,1510
+"pregnancy complications, infectious",1511
+primary myelofibrosis,1512
+prion diseases,1513
+proctitis,1514
+protein c deficiency,1515
+pseudomonas infections,1516
+psoas abscess,1517
+"pulmonary disease, chronic obstructive",1518
+pulmonary fibrosis,1519
+pulpitis,1520
+pyomyositis,1521
+rectal neoplasms,1522
+respiratory sounds,1523
+retroperitoneal liposarcoma,1524
+rhabdoviridae infections,1525
+rheumatic diseases,1526
+rheumatic fever,1527
+"rippling muscle disease, 1",1528
+rosacea,1529
+sacroiliitis,1530
+sagittal sinus thrombosis,1531
+"salmonella infections, animal",1532
+sarcoidosis,1533
+"sarcoma, ewing",1534
+"sarcoma, synovial",1535
+sarcopenia,1536
+sciatic neuropathy,1537
+scleral diseases,1538
+scleritis,1539
+scleromyxedema,1540
+sclerosis,1541
+scrapie,1542
+scurvy,1543
+sepsis,1544
+"shock, septic",1545
+shoulder pain,1546
+shwartzman phenomenon,1547
+sjogren&apos;s syndrome,1548
+"skin diseases, bacterial",1549
+"sleep apnea, central",1550
+somatoform disorders,1551
+spinocerebellar degenerations,1552
+staphylococcal infections,1553
+staphylococcal skin infections,1554
+starvation,1555
+status asthmaticus,1556
+stiff-person syndrome,1557
+stomatitis,1558
+striae distensae,1559
+striatonigral degeneration,1560
+surgical wound dehiscence,1561
+"syncope, vasovagal",1562
+"tachycardia, atrioventricular nodal reentry",1563
+"tachycardia, reciprocating",1564
+telangiectasis,1565
+teratoma,1566
+testicular neoplasms,1567
+"thrombocytopenic purpura, autoimmune",1568
+thyrotoxicosis,1569
+tinea versicolor,1570
+tissue adhesions,1571
+tooth injuries,1572
+tooth loss,1573
+"toxoplasmosis, cerebral",1574
+tracheal diseases,1575
+tracheal neoplasms,1576
+trypanosomiasis,1577
+tuberculosis,1578
+"tuberculosis, central nervous system",1579
+"tuberculosis, gastrointestinal",1580
+"tuberculosis, lymph node",1581
+"tuberculosis, meningeal",1582
+"tuberculosis, multidrug-resistant",1583
+"tuberculosis, pleural",1584
+"tuberculosis, pulmonary",1585
+"tuberculosis, spinal",1586
+tuberous sclerosis,1587
+urethral neoplasms,1588
+urethritis,1589
+urinary tract infections,1590
+urogenital neoplasms,1591
+urologic neoplasms,1592
+uveomeningoencephalitic syndrome,1593
+vaginal neoplasms,1594
+ventricular flutter,1595
+ventricular outflow obstruction,1596
+ventricular premature complexes,1597
+ventricular remodeling,1598
+vertigo,1599
+viremia,1600
+virus diseases,1601
+vitamin b 6 deficiency,1602
+vitiligo,1603
+vocal cord paralysis,1604
+vulvar diseases,1605
+waldenstrom macroglobulinemia,1606
+water-electrolyte imbalance,1607
+wolff-parkinson-white syndrome,1608
+wounds and injuries,1609
+"wounds, penetrating",1610
+arrest of spermatogenesis,1611
+"arthritis, infectious",1612
+chlamydia infections,1613
+"glycosuria, renal",1614
+renal aminoacidurias,1615
+"angina pectoris, variant",1616
+hemangiosarcoma,1617
+"leukemia, erythroblastic, acute",1618
+leukostasis,1619
+lipoma,1620
+liposarcoma,1621
+"neoplasms, adipose tissue",1622
+peritoneal fibrosis,1623
+persistent fetal circulation syndrome,1624
+splenic neoplasms,1625
+vascular neoplasms,1626
+coloboma,1627
+corneal neovascularization,1628
+fetal weight,1629
+hereditary sensory and motor neuropathy,1630
+"muscular atrophy, spinal",1631
+nervous system neoplasms,1632
+respiratory tract diseases,1633
+tobacco use disorder,1634
+achalasia addisonianism alacrimia syndrome,1635
+amyloidosis,1636
+"anus, imperforate",1637
+bladder exstrophy,1638
+blepharoptosis,1639
+blister,1640
+cheyne-stokes respiration,1641
+"cholestasis, extrahepatic",1642
+"conjunctivitis, allergic",1643
+cryptogenic organizing pneumonia,1644
+cutis marmorata telangiectatica congenita,1645
+digestive system abnormalities,1646
+down syndrome,1647
+eclampsia,1648
+endocrine gland neoplasms,1649
+eosinophilic granuloma,1650
+epidermolysis bullosa,1651
+epilepsia partialis continua,1652
+"fatigue syndrome, chronic",1653
+fecal impaction,1654
+fetal hydantoin syndrome,1655
+"foot deformities, congenital",1656
+ganglioneuroblastoma,1657
+"hand deformities, congenital",1658
+"hernia, umbilical",1659
+holoprosencephaly,1660
+hyperhidrosis,1661
+"hyperparathyroidism, secondary",1662
+hypopigmentation,1663
+iga deficiency,1664
+immunoblastic lymphadenopathy,1665
+isaacs syndrome,1666
+lymphocytosis,1667
+median neuropathy,1668
+megacolon,1669
+mesenchymoma,1670
+mucocutaneous lymph node syndrome,1671
+myotonia congenita,1672
+myotonic dystrophy,1673
+neuroaxonal dystrophies,1674
+"neuroectodermal tumor, melanotic",1675
+"neuroectodermal tumors, primitive",1676
+ornithine carbamoyltransferase deficiency disease,1677
+peroneal neuropathies,1678
+polydactyly,1679
+"pregnancy, prolonged",1680
+"reflex, babinski",1681
+serum sickness,1682
+"skin diseases, papulosquamous",1683
+systemic necrotizing angiitis,1684
+"tachycardia, ectopic junctional",1685
+thymus hyperplasia,1686
+tibial neuropathy,1687
+trigeminal neuralgia,1688
+ulnar neuropathies,1689
+vitamin d deficiency,1690
+cryptosporidiosis,1691
+subdural effusion,1692
+acquired immunodeficiency syndrome,1693
+adrenal cortex neoplasms,1694
+alstrom syndrome,1695
+brucellosis,1696
+carotid artery diseases,1697
+corynebacterium infections,1698
+delayed emergence from anesthesia,1699
+dystonic disorders,1700
+leprosy,1701
+"leprosy, borderline",1702
+"leprosy, multibacillary",1703
+"leprosy, tuberculoid",1704
+"lipodystrophy, familial partial",1705
+"meningitis, meningococcal",1706
+meningococcal infections,1707
+mycobacterium avium-intracellulare infection,1708
+panuveitis,1709
+phosphorus metabolism disorders,1710
+plant poisoning,1711
+pleurisy,1712
+retinal vasculitis,1713
+tooth demineralization,1714
+"tuberculosis, renal",1715
+agammaglobulinemia,1716
+alcoholic intoxication,1717
+"alcohol-induced disorders, nervous system",1718
+alexander disease,1719
+"amnesia, transient global",1720
+amyotrophic lateral sclerosis 1,1721
+anophthalmos,1722
+aortopulmonary septal defect,1723
+aphonia,1724
+"arthropathy, neurogenic",1725
+body temperature changes,1726
+body weight,1727
+bone marrow failure syndromes,1728
+bulimia,1729
+calculi,1730
+capgras syndrome,1731
+carcinoid tumor,1732
+"carcinoma, basal cell",1733
+cardiomyopathy dilated with woolly hair and keratoderma,1734
+chalazion,1735
+"cholestasis, intrahepatic of pregnancy",1736
+"cholestasis, progressive familial intrahepatic 1",1737
+clubfoot,1738
+congenital hypothyroidism,1739
+conotruncal cardiac defects,1740
+coronary vessel anomalies,1741
+"desmoid disease, hereditary",1742
+desmoplastic small round cell tumor,1743
+digestive system diseases,1744
+"dilatation, pathologic",1745
+endocardial fibroelastosis,1746
+epididymitis,1747
+"epilepsy, benign neonatal",1748
+erythromelalgia,1749
+esophageal and gastric varices,1750
+esophageal atresia,1751
+familial primary gastric lymphoma,1752
+fetal alcohol syndrome,1753
+foot dermatoses,1754
+foot ulcer,1755
+galactorrhea,1756
+hand dermatoses,1757
+"headache disorders, primary",1758
+"hearing loss, noise-induced",1759
+hematologic neoplasms,1760
+hemosiderosis,1761
+"hepatitis, alcoholic",1762
+"hepatitis c, chronic",1763
+hepatorenal syndrome,1764
+hydrothorax,1765
+inflammatory breast neoplasms,1766
+irritable bowel syndrome,1767
+lens diseases,1768
+leukemia l1210,1769
+lewy body disease,1770
+liver abscess,1771
+"liver cirrhosis, alcoholic",1772
+morphine dependence,1773
+mucocele,1774
+"neoplasms, bone tissue",1775
+nephrosclerosis,1776
+"neuralgia, postherpetic",1777
+neurodermatitis,1778
+optic atrophy,1779
+"optic atrophy, hereditary, leber",1780
+"optic neuropathy, ischemic",1781
+"pancreatitis, acute necrotizing",1782
+"pancreatitis, alcoholic",1783
+paraplegia,1784
+pelvic pain,1785
+peripheral nerve injuries,1786
+phantom limb,1787
+pharyngitis,1788
+phobic disorders,1789
+photophobia,1790
+phyllodes tumor,1791
+polyradiculoneuropathy,1792
+porphyrias,1793
+proctocolitis,1794
+"qt interval, variation in",1795
+radiation injuries,1796
+radiculopathy,1797
+rem sleep behavior disorder,1798
+restless legs syndrome,1799
+reticulocytosis,1800
+"sarcoma, kaposi",1801
+"schizophrenia, paranoid",1802
+schizotypal personality disorder,1803
+serositis,1804
+sick sinus syndrome,1805
+"signs and symptoms, respiratory",1806
+sleep bruxism,1807
+soft tissue neoplasms,1808
+somnambulism,1809
+spinal diseases,1810
+spinocerebellar ataxias,1811
+spondylarthropathies,1812
+"spondylitis, ankylosing",1813
+succinic semialdehyde dehydrogenase deficiency,1814
+superior vena cava syndrome,1815
+"supranuclear palsy, progressive",1816
+sweat gland diseases,1817
+synovitis,1818
+tauopathies,1819
+"telangiectasia, hereditary hemorrhagic",1820
+tetralogy of fallot,1821
+thalamic diseases,1822
+thyroiditis,1823
+trochlear nerve diseases,1824
+ureteral diseases,1825
+vacterl association,1826
+vasoplegia,1827
+"ventricular dysfunction, right",1828
+"vision, low",1829
+vitamin e deficiency,1830
+bulimia nervosa,1831
+ecchymosis,1832
+"hematoma, epidural, cranial",1833
+"keratoderma, palmoplantar",1834
+marijuana abuse,1835
+tics,1836
+bruxism,1837
+"delirium, dementia, amnestic, cognitive disorders",1838
+fragile x syndrome,1839
+lymphadenitis,1840
+"multiple sclerosis, relapsing-remitting",1841
+"myasthenic syndromes, congenital",1842
+pick disease of the brain,1843
+renal osteodystrophy,1844
+trismus,1845
+paraquat lung,1846
+ataxia with vitamin e deficiency,1847
+bird diseases,1848
+carbon tetrachloride poisoning,1849
+"carcinoma, signet ring cell",1850
+eales disease,1851
+muscular dystrophies,1852
+"renal insufficiency, chronic",1853
+retinal hemorrhage,1854
+retinopathy of prematurity,1855
+short bowel syndrome,1856
+sigmoid neoplasms,1857
+aortic valve insufficiency,1858
+"arrhythmia, sinus",1859
+brugada syndrome,1860
+carpal tunnel syndrome,1861
+darier disease,1862
+"dementia, vascular",1863
+herpes simplex,1864
+hyperglycemic hyperosmolar nonketotic coma,1865
+hypernatremia,1866
+hyperparathyroidism,1867
+meniere disease,1868
+mobility limitation,1869
+nocturia,1870
+panophthalmitis,1871
+parathyroid neoplasms,1872
+polyhydramnios,1873
+"schizophrenia, catatonic",1874
+seasonal affective disorder,1875
+sexually transmitted diseases,1876
+shellfish poisoning,1877
+"sleep disorders, circadian rhythm",1878
+soft tissue infections,1879
+"substance abuse, intravenous",1880
+syphilis,1881
+tachypnea,1882
+tooth diseases,1883
+bowen&apos;s disease,1884
+chronic disease,1885
+foot diseases,1886
+"hyperkeratosis, epidermolytic",1887
+keratosis,1888
+acantholysis,1889
+acquired ichthyosis,1890
+"adenocarcinoma, clear cell",1891
+"adenocarcinoma, mucinous",1892
+anodontia,1893
+arteriovenous malformations,1894
+atrial septal defect ostium primum,1895
+barrett esophagus,1896
+"carcinoma, adenosquamous",1897
+"carcinoma, embryonal",1898
+caudal regression syndrome,1899
+cervical intraepithelial neoplasia,1900
+choriocarcinoma,1901
+colic,1902
+cystadenocarcinoma,1903
+ectropion,1904
+femur head necrosis,1905
+"keratosis, actinic",1906
+lentigo,1907
+"lichen planus, oral",1908
+"metabolism, inborn errors",1909
+paraparesis,1910
+parovarian cyst,1911
+pterygium,1912
+retroperitoneal neoplasms,1913
+teratocarcinoma,1914
+uterine cervical diseases,1915
+uterine cervical dysplasia,1916
+uveal neoplasms,1917
+vaginal discharge,1918
+vitreous hemorrhage,1919
+xeroderma pigmentosum,1920
+acrodermatitis enteropathica,1921
+adenomatous polyps,1922
+arachnoiditis,1923
+ascorbic acid deficiency,1924
+athletic injuries,1925
+bartter syndrome,1926
+blepharitis,1927
+"bulbar palsy, progressive",1928
+calcium metabolism disorders,1929
+"carcinoma, papillary",1930
+charcot-marie-tooth disease,1931
+"charcot-marie-tooth disease, axonal, type 2n",1932
+common cold,1933
+complex regional pain syndromes,1934
+condylomata acuminata,1935
+disease susceptibility,1936
+duodenal neoplasms,1937
+dysgeusia,1938
+escherichia coli infections,1939
+esophageal squamous cell carcinoma,1940
+haemophilus infections,1941
+htlv-i infections,1942
+hypocapnia,1943
+hypoprothrombinemias,1944
+klebsiella infections,1945
+"leukemia-lymphoma, adult t-cell",1946
+"leukemia, monocytic, acute",1947
+"leukemia, t-cell",1948
+"meningitis, haemophilus",1949
+mycosis fungoides,1950
+nail diseases,1951
+oculomotor nerve diseases,1952
+oligohydramnios,1953
+"osteoarthritis, hip",1954
+otitis media,1955
+paraganglioma,1956
+paraneoplastic syndromes,1957
+parotid neoplasms,1958
+peptic ulcer,1959
+polyradiculopathy,1960
+prinzmetal&apos;s variant angina,1961
+prosthesis-related infections,1962
+proteus infections,1963
+pseudoxanthoma elasticum,1964
+pulmonary eosinophilia,1965
+rectal diseases,1966
+retinitis,1967
+salmonella infections,1968
+sarcoma 180,1969
+"scleroderma, limited",1970
+serratia infections,1971
+spondylitis,1972
+suppuration,1973
+thiamine deficiency,1974
+tumor lysis syndrome,1975
+uveal melanoma,1976
+"uveitis, anterior",1977
+vestibulocochlear nerve diseases,1978
+vipoma,1979
+argyria,1980
+hyperlysinemias,1981
+insect bites and stings,1982
+"ophthalmoplegia, chronic progressive external",1983
+saccharopinuria,1984
+"aortic aneurysm, familial thoracic 1",1985
+arthrogryposis,1986
+mptp poisoning,1987
+myxoma,1988
+opioid-related disorders,1989
+osteoporotic fractures,1990
+pressure ulcer,1991
+spinal cord compression,1992
+spinal fractures,1993
+"tobacco addiction, susceptibility to",1994
+vulvar neoplasms,1995
+aortic valve disease 1,1996
+"bone diseases, endocrine",1997
+cattle diseases,1998
+gamma aminobutyric acid transaminase deficiency,1999
+gastroesophageal reflux,2000
+genetic predisposition to disease,2001
+hyperphosphatemia,2002
+hypoparathyroidism,2003
+"hypophosphatemic rickets, x-linked dominant",2004
+osteochondrodysplasias,2005
+parathyroid diseases,2006
+pseudohypoparathyroidism,2007
+rickets,2008
+achlorhydria,2009
+adenomatous polyposis coli,2010
+adrenoleukodystrophy,2011
+"alkalosis, respiratory",2012
+amaurosis fugax,2013
+"amnesia, anterograde",2014
+anterior compartment syndrome,2015
+antiphospholipid syndrome,2016
+aortic coarctation,2017
+asphyxia,2018
+"asthma, aspirin-induced",2019
+"asthma, occupational",2020
+brain death,2021
+bronchiolitis,2022
+"carcinoma, ductal",2023
+causalgia,2024
+"ceroid lipofuscinosis, neuronal 1, infantile",2025
+chickenpox,2026
+choanal atresia,2027
+"cholestasis, benign recurrent intrahepatic 1",2028
+chordoma,2029
+chromosomal instability,2030
+contracture,2031
+"cystitis, interstitial",2032
+dengue,2033
+"diabetes mellitus, lipoatrophic",2034
+distal myopathies,2035
+diverticulum,2036
+duane retraction syndrome,2037
+dysgnathia complex,2038
+"dyspnea, paroxysmal",2039
+ectromelia,2040
+embolism and thrombosis,2041
+encephalocele,2042
+ependymoma,2043
+episodic ataxia with nystagmus,2044
+esophageal stenosis,2045
+facial nerve diseases,2046
+"factor 8 deficiency, acquired",2047
+familial apoceruloplasmin deficiency,2048
+familial hdl deficiency,2049
+fanconi anemia,2050
+fecal incontinence,2051
+food hypersensitivity,2052
+foot deformities,2053
+gagging,2054
+galactorrhea-hyperprolactinemia,2055
+gastric fistula,2056
+gastroparesis,2057
+gaucher disease,2058
+gerstmann syndrome,2059
+giant lymph node hyperplasia,2060
+glossopharyngeal nerve diseases,2061
+"graft occlusion, vascular",2062
+"granulomatosis, orofacial",2063
+heartburn,2064
+hemangioblastoma,2065
+hematemesis,2066
+"hematoma, subdural, chronic",2067
+hemospermia,2068
+hemothorax,2069
+"hernia, hiatal",2070
+histiocytic sarcoma,2071
+hiv-associated lipodystrophy syndrome,2072
+hyperacusis,2073
+"hypercholesterolemia, familial",2074
+hyperlipoproteinemia type iii,2075
+hyperlipoproteinemia type v,2076
+"hypertension, pregnancy-induced",2077
+hypertensive nephropathy,2078
+hypoglossal nerve diseases,2079
+hypolipoproteinemias,2080
+iatrogenic disease,2081
+intervertebral disc disease,2082
+intervertebral disc displacement,2083
+intestinal atresia,2084
+intestinal pseudo-obstruction,2085
+"intracranial hemorrhage, traumatic",2086
+jejunal diseases,2087
+kartagener syndrome,2088
+"keratosis, seborrheic",2089
+"kidney diseases, cystic",2090
+labor pain,2091
+laryngismus,2092
+laryngopharyngeal reflux,2093
+"leukemia, plasma cell",2094
+"lupus erythematosus, discoid",2095
+"lymphoma, b-cell, marginal zone",2096
+"lymphoma, follicular",2097
+"lymphoma, mantle-cell",2098
+"mastocytosis, systemic",2099
+melena,2100
+meningism,2101
+"mesothelioma, malignant",2102
+mild cognitive impairment,2103
+myotonia,2104
+myotonic disorders,2105
+nasopharyngeal carcinoma,2106
+neck pain,2107
+"neoplasms, neuroepithelial",2108
+"neoplasms, second primary",2109
+"neurofibroma, plexiform",2110
+optic nerve glioma,2111
+"osteoarthritis, knee",2112
+"pemphigoid, benign mucous membrane",2113
+peptic ulcer hemorrhage,2114
+polymyalgia rheumatica,2115
+porokeratosis,2116
+postpartum hemorrhage,2117
+potassium deficiency,2118
+primary sclerosing cholangitis,2119
+prurigo,2120
+pulmonary alveolar proteinosis,2121
+pulmonary valve insufficiency,2122
+renal colic,2123
+respiratory paralysis,2124
+respiratory syncytial virus infections,2125
+retrograde degeneration,2126
+"rhinitis, allergic, perennial",2127
+schnitzler syndrome,2128
+sezary syndrome,2129
+silicosis,2130
+sitosterolemia,2131
+sjogren-larsson syndrome,2132
+skin manifestations,2133
+smith-lemli-opitz syndrome,2134
+"spastic paraplegia type 5a, recessive",2135
+spinal cord neoplasms,2136
+spinal neoplasms,2137
+spondylolysis,2138
+steatorrhea,2139
+"still&apos;s disease, adult-onset",2140
+supratentorial neoplasms,2141
+tangier disease,2142
+testicular hydrocele,2143
+"thyroid cancer, medullary",2144
+"thyroid cancer, papillary",2145
+toothache,2146
+trigeminal nerve diseases,2147
+"truncus arteriosus, persistent",2148
+ureteral calculi,2149
+"urinary bladder, overactive",2150
+urinary calculi,2151
+vagus nerve diseases,2152
+vestibular neuronitis,2153
+vlcad deficiency,2154
+wallerian degeneration,2155
+werner syndrome,2156
+wheat hypersensitivity,2157
+zollinger-ellison syndrome,2158
+ciliophora infections,2159
+"dermatitis, occupational",2160
+fish diseases,2161
+formaldehyde poisoning,2162
+"pneumonia, aspiration",2163
+warts,2164
+anovulation,2165
+harlequin type ichthyosis,2166
+"ichthyosis, lamellar",2167
+"lamellar ichthyosis, type 2",2168
+pneumoconiosis,2169
+persian gulf syndrome,2170
+sex chromosome aberrations,2171
+"leukemia, prolymphocytic, t-cell",2172
+"lymphoma, primary effusion",2173
+"rhabdomyosarcoma, alveolar",2174
+"rhabdomyosarcoma, embryonal",2175
+alveolar bone loss,2176
+"carcinoma, medullary",2177
+chondrocalcinosis,2178
+coronavirus infections,2179
+"ductus arteriosus, patent",2180
+dyssomnias,2181
+folliculitis,2182
+hydrops fetalis,2183
+hyperamylasemia,2184
+hypoaldosteronism,2185
+ileitis,2186
+intestinal perforation,2187
+mastocytosis,2188
+"ossification, heterotopic",2189
+ovarian hyperstimulation syndrome,2190
+paroxysmal hemicrania,2191
+pseudohypoaldosteronism,2192
+pulmonary heart disease,2193
+sciatica,2194
+"surfactant metabolism dysfunction, pulmonary, 3",2195
+tendinopathy,2196
+tricuspid valve insufficiency,2197
+acquired hyperostosis syndrome,2198
+cone-rod dystrophy 3,2199
+femoral fractures,2200
+giant cell tumor of bone,2201
+macular degeneration,2202
+"macular degeneration, age-related, 2",2203
+retinitis pigmentosa 19,2204
+stargardt disease 1,2205
+aids-related kaposi sarcoma,2206
+"aneurysm, false",2207
+language disorders,2208
+neuroendocrine tumors,2209
+onycholysis,2210
+"plaque, amyloid",2211
+"thyroid cancer, anaplastic",2212
+tonsillar neoplasms,2213
+acute generalized exanthematous pustulosis,2214
+articulation disorders,2215
+connective tissue diseases,2216
+diabetes insipidus primary central,2217
+esotropia,2218
+facial neuralgia,2219
+hemifacial spasm,2220
+intracranial arteriovenous malformations,2221
+leukemoid reaction,2222
+parapsoriasis,2223
+"purpura, thrombocytopenic",2224
+"radiation injuries, experimental",2225
+tyrosinemias,2226
+water intoxication,2227
+atrial premature complexes,2228
+bidirectional tachycardia,2229
+chagas cardiomyopathy,2230
+cytomegalovirus retinitis,2231
+eye pain,2232
+gonorrhea,2233
+myoclonic dystonia,2234
+pelvic inflammatory disease,2235
+penile induration,2236
+"tachycardia, ectopic atrial",2237
+"tachycardia, paroxysmal",2238
+5q- syndrome,2239
+achalasia microcephaly,2240
+acquired angioedema,2241
+acrocephalosyndactylia,2242
+acromegaly,2243
+addison disease,2244
+"adenocarcinoma, follicular",2245
+"adenomatosis, pulmonary",2246
+agnosia,2247
+agraphia,2248
+aids-related complex,2249
+airway remodeling,2250
+"alexia, pure",2251
+"anemia, pernicious",2252
+"anemia, refractory",2253
+"angina, stable",2254
+anomia,2255
+"anxiety, separation",2256
+"aortic aneurysm, thoracic",2257
+apparent mineralocorticoid excess,2258
+"apraxia, ideomotor",2259
+"arthritis, reactive",2260
+ascaridida infections,2261
+asperger syndrome,2262
+"aspergillosis, allergic bronchopulmonary",2263
+bile duct neoplasms,2264
+binge-eating disorder,2265
+blepharophimosis,2266
+borderline personality disorder,2267
+brachial plexus neuropathies,2268
+burning mouth syndrome,2269
+"burns, chemical",2270
+bursitis,2271
+campylobacter infections,2272
+"cardiomyopathy, restrictive",2273
+cerebellar neoplasms,2274
+cerebral arterial diseases,2275
+cerebral ventriculitis,2276
+cerebrospinal fluid otorrhea,2277
+cerebrospinal fluid rhinorrhea,2278
+child nutrition disorders,2279
+"cholecystitis, acute",2280
+choledocholithiasis,2281
+"cholestasis, progressive familial intrahepatic 3",2282
+chondrodysplasia punctata,2283
+chondrosarcoma,2284
+choristoma,2285
+choroid hemorrhage,2286
+chromosome 17 deletion,2287
+"chromosome 7, monosomy",2288
+chronic pain,2289
+coccidioidomycosis,2290
+coccidiosis,2291
+collagen diseases,2292
+"colonic diseases, functional",2293
+"colorectal neoplasms, hereditary nonpolyposis",2294
+combat disorders,2295
+corneal dystrophy avellino type,2296
+corneal edema,2297
+corneal perforation,2298
+crest syndrome,2299
+cutaneous fistula,2300
+cytomegalovirus infections,2301
+decerebrate state,2302
+dental plaque,2303
+"dermatitis, phototoxic",2304
+dermatomycoses,2305
+dextrocardia,2306
+dirofilariasis,2307
+diurnal enuresis,2308
+"diverticulitis, colonic",2309
+dry eye syndromes,2310
+dupuytren contracture,2311
+dystonia musculorum deformans,2312
+edema of the optic disc,2313
+"elephantiasis, filarial",2314
+"embolism, air",2315
+"embolism, cholesterol",2316
+empty sella syndrome,2317
+"encephalitis, herpes simplex",2318
+encephalomyelitis,2319
+enterobiasis,2320
+"epileptic encephalopathy, lennox-gastaut type",2321
+erythema migrans,2322
+esophageal motility disorders,2323
+euthyroid sick syndromes,2324
+exotropia,2325
+eye neoplasms,2326
+facial nerve injuries,2327
+factitious disorders,2328
+failed back surgery syndrome,2329
+failure to thrive,2330
+familial mediterranean fever,2331
+"fasciitis, plantar",2332
+femoral neuropathy,2333
+fetal hypoxia,2334
+fetishism (psychiatric),2335
+fissure in ano,2336
+flatulence,2337
+"fractures, bone",2338
+frontotemporal dementia,2339
+gangrene,2340
+"genetic diseases, inborn",2341
+gliosarcoma,2342
+"granuloma, plasma cell",2343
+growth hormone-secreting pituitary adenoma,2344
+halitosis,2345
+"heart failure, diastolic",2346
+"heart failure, systolic",2347
+helminthiasis,2348
+"helminthiasis, animal",2349
+hemianopsia,2350
+hemobilia,2351
+hemophilia a,2352
+"hepatitis, viral, human",2353
+hepatopulmonary syndrome,2354
+"hernia, abdominal",2355
+herpes zoster,2356
+horner syndrome,2357
+horse diseases,2358
+hypercapnia,2359
+hypochondriasis,2360
+hypohidrosis,2361
+hypopharyngeal neoplasms,2362
+hypotrichosis,2363
+hypoventilation,2364
+"ichthyosis, x-linked",2365
+inflammatory bowel disease 13,2366
+intermittent claudication,2367
+intestinal fistula,2368
+intestinal polyposis,2369
+"intracranial hemorrhage, hypertensive",2370
+intrahepatic cholangiocarcinoma,2371
+iris diseases,2372
+iritis,2373
+juvenile pauciarticular chronic arthritis,2374
+klatskin&apos;s tumor,2375
+kluver-bucy syndrome,2376
+kyphosis,2377
+lambert-eaton myasthenic syndrome,2378
+leg ulcer,2379
+"leukemia, b-cell",2380
+"leukemia, myeloid, chronic, atypical, bcr-abl negative",2381
+"leukemia, myelomonocytic, acute",2382
+"leukemia, radiation-induced",2383
+leukoplakia,2384
+"leukoplakia, oral",2385
+liddle syndrome,2386
+lipomatosis,2387
+livedo reticularis,2388
+loiasis,2389
+"lupus vasculitis, central nervous system",2390
+lyme disease,2391
+"lymphohistiocytosis, hemophagocytic",2392
+"lymphoma, large-cell, anaplastic",2393
+"lymphoma, large-cell, immunoblastic",2394
+lymphomatoid granulomatosis,2395
+macroglossia,2396
+malabsorption syndromes,2397
+"malaria, cerebral",2398
+"malaria, vivax",2399
+malignant carcinoid syndrome,2400
+malignant mesenchymal tumor,2401
+marfan syndrome,2402
+maxillary diseases,2403
+meige syndrome,2404
+meningeal carcinomatosis,2405
+microscopic polyangiitis,2406
+mitochondrial cytopathy,2407
+mitochondrial encephalopathy,2408
+mitochondrial myopathy with lactic acidosis,2409
+mitral valve stenosis,2410
+monkey diseases,2411
+mucopolysaccharidosis iii,2412
+multiple system atrophy,2413
+"muscular dystrophy, duchenne",2414
+mycoplasma infections,2415
+mycotoxicosis,2416
+myelitis,2417
+"myelitis, transverse",2418
+myokymia,2419
+nematode infections,2420
+"neoplasms, radiation-induced",2421
+nerve compression syndromes,2422
+neuromyelitis optica,2423
+night terrors,2424
+nonpuerperal galactorrhea,2425
+no-reflow phenomenon,2426
+olfactory nerve diseases,2427
+oligomenorrhea,2428
+onchocerciasis,2429
+oral submucous fibrosis,2430
+orbital pseudotumor,2431
+orthostatic intolerance,2432
+osteitis deformans,2433
+otitis media with effusion,2434
+oxyuriasis,2435
+pallor,2436
+paranasal sinus neoplasms,2437
+"paraparesis, spastic",2438
+paraphilias,2439
+parasitemia,2440
+parasitic diseases,2441
+pars planitis,2442
+pelvic infection,2443
+"pemphigus, benign familial",2444
+penile neoplasms,2445
+"pericarditis, constrictive",2446
+persistent vegetative state,2447
+peters anomaly,2448
+pharyngeal diseases,2449
+pityriasis rubra pilaris,2450
+"pleural effusion, malignant",2451
+pneumocephalus,2452
+"pneumonia, pneumocystis",2453
+polymorphic catecholergic ventricular tachycardia,2454
+post-exercise hypotension,2455
+postural orthostatic tachycardia syndrome,2456
+prader-willi syndrome,2457
+"pregnancy complications, neoplastic",2458
+"pregnancy, ectopic",2459
+primary ovarian insufficiency,2460
+prostatism,2461
+prosthesis failure,2462
+pseudobulbar palsy,2463
+pulmonary aspergillosis,2464
+pulmonary veno-occlusive disease,2465
+pyelitis,2466
+pyuria,2467
+radial neuropathy,2468
+rapidly progressive glomerulonephritis with pulmonary hemorrhage,2469
+respiratory aspiration,2470
+retinal dysplasia,2471
+retroviridae infections,2472
+rheumatic heart disease,2473
+rheumatoid vasculitis,2474
+"rhinitis, allergic, seasonal",2475
+rupture,2476
+"rupture, spontaneous",2477
+"sarcoma, clear cell",2478
+"sarcoma, experimental",2479
+schizophrenia and disorders with psychotic features,2480
+"schizophrenia, childhood",2481
+"schizophrenia, disorganized",2482
+seminoma,2483
+severe acute respiratory syndrome,2484
+"severe cutaneous adverse reaction, susceptibility to",2485
+sialadenitis,2486
+simian acquired immunodeficiency syndrome,2487
+situs inversus,2488
+"skin diseases, infectious",2489
+"skin diseases, vesiculobullous",2490
+"sleep disorders, intrinsic",2491
+sleep-wake transition disorders,2492
+smith-magenis syndrome,2493
+sneezing,2494
+snoring,2495
+spermatogenic failure 6,2496
+sphincter of oddi dysfunction,2497
+spinal cord vascular diseases,2498
+spinal stenosis,2499
+sporotrichosis,2500
+"strongyle infections, equine",2501
+sunburn,2502
+sunct syndrome,2503
+sweet syndrome,2504
+syndactyly,2505
+systemic candidiasis,2506
+systemic inflammatory response syndrome,2507
+tendon injuries,2508
+tetanus,2509
+thoracic neoplasms,2510
+"thyroiditis, autoimmune",2511
+tinea,2512
+tinea capitis,2513
+tinea pedis,2514
+tonic pupil,2515
+tonsillitis,2516
+tooth abrasion,2517
+tooth discoloration,2518
+"toxoplasmosis, congenital",2519
+"toxoplasmosis, ocular",2520
+tracheal stenosis,2521
+trichinellosis,2522
+trichostrongyloidiasis,2523
+trophoblastic neoplasms,2524
+"trypanosomiasis, african",2525
+"tuberculosis, osteoarticular",2526
+"typhus, endemic flea-borne",2527
+urethral obstruction,2528
+urinary bladder fistula,2529
+urinary bladder neck obstruction,2530
+"urinary incontinence, stress",2531
+uterine cervicitis,2532
+vaginitis,2533
+vesico-ureteral reflux,2534
+vesicovaginal fistula,2535
+vitamin a deficiency,2536
+warfarin syndrome,2537
+wernicke encephalopathy,2538
+afibrinogenemia congenital,2539
+aids-associated nephropathy,2540
+auditory neuropathy,2541
+"carcinoma, islet cell",2542
+cholecystolithiasis,2543
+"cholestasis, benign recurrent intrahepatic 2",2544
+"cholestasis, progressive familial intrahepatic 2",2545
+"coproporphyria, hereditary",2546
+extensively drug-resistant tuberculosis,2547
+fanconi like syndrome,2548
+insulinoma,2549
+nocturnal myoclonus syndrome,2550
+polydipsia,2551
+surgical wound infection,2552
+varicose ulcer,2553
+angiomatosis,2554
+dislocations,2555
+"epilepsy, post-traumatic",2556
+fascioliasis,2557
+gingival hemorrhage,2558
+"goiter, nodular",2559
+immune complex diseases,2560
+"intestinal diseases, parasitic",2561
+"lung diseases, parasitic",2562
+mite infestations,2563
+speech disturbance - use of faulty phrasing and unrelated words,2564
+strongyloidiasis,2565
+asbestosis,2566
+hyperoxia,2567
+neoplastic processes,2568
+"neuritis, autoimmune, experimental",2569
+opisthorchiasis,2570
+diverticulitis,2571
+gallbladder disease 1,2572
+retinal detachment,2573
+"anemia, sideroblastic spinocerebellar ataxia",2574
+appendiceal neoplasms,2575
+beta-thalassemia,2576
+foot injuries,2577
+hand injuries,2578
+antley-bixler syndrome phenotype,2579
+"candidiasis, cutaneous",2580
+afibrinogenemia,2581
+alpha 1-antitrypsin deficiency,2582
+"anemia, hypochromic microcytic",2583
+antithrombin iii deficiency,2584
+"asthma, exercise-induced",2585
+"blood loss, surgical",2586
+critical illness,2587
+croup,2588
+decompression sickness,2589
+endometritis,2590
+familial cerebral cavernous malformation,2591
+"fractures, closed",2592
+friedreich ataxia,2593
+"head injuries, closed",2594
+hemochromatosis,2595
+hereditary angioedema type iii,2596
+leriche syndrome,2597
+mixed connective tissue disease,2598
+multi-centric castleman&apos;s disease,2599
+nasal polyps,2600
+optic nerve injuries,2601
+parasomnias,2602
+postphlebitic syndrome,2603
+primary amyloidosis,2604
+primary graft dysfunction,2605
+protozoan infections,2606
+retrobulbar hemorrhage,2607
+"sarcoma, myeloid",2608
+"subarachnoid hemorrhage, traumatic",2609
+toxemia,2610
+vulvitis,2611
+adjustment disorders,2612
+anus diseases,2613
+body dysmorphic disorders,2614
+"bone demineralization, pathologic",2615
+dermatitis herpetiformis,2616
+granuloma annulare,2617
+hashimoto disease,2618
+hyperthyroxinemia,2619
+"jaundice, chronic idiopathic",2620
+"lead poisoning, nervous system, childhood",2621
+listeriosis,2622
+"liver diseases, parasitic",2623
+mitochondrial encephalomyopathies,2624
+neurosyphilis,2625
+pneumocystis infections,2626
+"porphyria, variegate",2627
+rectal fistula,2628
+"urinary incontinence, urge",2629
+urinoma,2630
+bacteriuria,2631
+balkan nephropathy,2632
+"dysentery, bacillary",2633
+salmonella food poisoning,2634
+vibrio infections,2635
+acinetobacter infections,2636
+anthrax,2637
+bordetella infections,2638
+brachydactyly with hypertension,2639
+dent disease,2640
+flavobacteriaceae infections,2641
+glossalgia,2642
+"hyperostosis, cortical, congenital",2643
+"impotence, vasculogenic",2644
+moraxellaceae infections,2645
+neisseriaceae infections,2646
+obstetric labor complications,2647
+osteitis,2648
+"osteoarthropathy, secondary hypertrophic",2649
+otitis,2650
+pulmonary atresia,2651
+rickettsia infections,2652
+typhoid fever,2653
+congenital hyperinsulinism,2654
+"diabetes mellitus, permanent neonatal",2655
+"diabetes mellitus, transient neonatal, 2",2656
+diabetic coma,2657
+"hyperinsulinemic hypoglycemia, familial, 1",2658
+"hypoglycemia, leucine-induced",2659
+cantu syndrome,2660
+"cardiomyopathy, dilated, 1o",2661
+sleep apnea syndromes,2662
+hemangiopericytoma,2663
+keratoacanthoma,2664
+zellweger syndrome,2665
+"carcinoma 256, walker",2666
+homocystinuria,2667
+imerslund-grasbeck syndrome,2668
+subacute combined degeneration,2669
+enterovirus infections,2670
+"encephalitis, viral",2671
+herpesviridae infections,2672
+herpes zoster ophthalmicus,2673
+herpes zoster oticus,2674
+malignant hyperthermia,2675
+miyoshi myopathy,2676
+multiple endocrine neoplasia,2677
+nutritional and metabolic diseases,2678
+"retinal necrosis syndrome, acute",2679
+temporomandibular ankylosis,2680
+"lipid metabolism, inborn errors",2681
+gallbladder disease 4,2682
+murine acquired immunodeficiency syndrome,2683
+post-dural puncture headache,2684
+burkholderia infections,2685
+chylothorax,2686
+kidney disorder involving deposition of calcium and oxalate or phosphate in the renal tubules,2687
+"polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract",2688
+refsum disease,2689
+triglyceride storage disease with impaired long-chain fatty acid oxidation,2690
+"mastocytosis, cutaneous",2691
+myeloproliferative disorders,2692
+"chromosome 22, microdeletion 22 q11",2693
+low tension glaucoma,2694
+filariasis,2695
+leukocyte disorders,2696
+d-bifunctional protein deficiency,2697
+spinal curvatures,2698
+isobutyryl-coa dehydrogenase deficiency,2699
+"acyl-coa dehydrogenase family, member 9, deficiency of",2700
+medium chain acyl coa dehydrogenase deficiency,2701
+short chain acyl coa dehydrogenase deficiency,2702
+2-methylbutyryl-coa dehydrogenase deficiency,2703
+neuronal ceroid-lipofuscinoses,2704
+jet lag syndrome,2705
+"muscular dystrophy, facioscapulohumeral",2706
+"osteochondritis dissecans, short stature, and early-onset osteoarthritis",2707
+"spondyloepimetaphyseal dysplasia, aggrecan type",2708
+"spondyloepiphyseal dysplasia, kimberley type",2709
+acute chest syndrome,2710
+beta ketothiolase deficiency,2711
+common bile duct diseases,2712
+frostbite,2713
+hemorrhoids,2714
+herpes labialis,2715
+hyaline membrane disease,2716
+hip fractures,2717
+paroxysmal nonkinesigenic dyskinesia,2718
+allanson pantzar mcleod syndrome,2719
+barotrauma,2720
+chilblains,2721
+evan&apos;s syndrome,2722
+eyelid neoplasms,2723
+fasciitis,2724
+glossitis,2725
+glycogen storage disease type v,2726
+"hearing loss, mixed conductive-sensorineural",2727
+"infarction, anterior cerebral artery",2728
+"microvascular complications of diabetes, susceptibility to, 1",2729
+"microvascular complications of diabetes, susceptibility to, 3",2730
+parasystole,2731
+"pleurodynia, epidemic",2732
+"pneumonia, lipid",2733
+"pneumonia, viral",2734
+pneumoperitoneum,2735
+polyps,2736
+renal tubular dysgenesis,2737
+segmental glomerulosclerosis,2738
+tietze&apos;s syndrome,2739
+ascariasis,2740
+cat diseases,2741
+flea infestations,2742
+hookworm infections,2743
+hymenolepiasis,2744
+oxyurida infections,2745
+tick infestations,2746
+trichuriasis,2747
+cayler cardiofacial syndrome,2748
+aggressive periodontitis,2749
+chromosome 13q trisomy,2750
+"dementia, multi-infarct",2751
+"esophageal spasm, diffuse",2752
+"fluorosis, dental",2753
+foodborne diseases,2754
+fusariosis,2755
+heart rupture,2756
+"hematoma, subdural, spinal",2757
+"hyperglycinemia, nonketotic",2758
+job&apos;s syndrome,2759
+myofascial pain syndromes,2760
+"neural tube defect, folate-sensitive",2761
+"parasitic diseases, animal",2762
+schistosomiasis,2763
+schistosomiasis haematobia,2764
+acrocallosal syndrome,2765
+"anemia, diamond-blackfan",2766
+nasopharyngitis,2767
+thalassemia,2768
+puerperal infection,2769
+duodenitis,2770
+pilonidal sinus,2771
+peroxisomal acyl-coa oxidase deficiency,2772
+spondyloenchondrodysplasia,2773
+malonic aciduria,2774
+methylmalonic acidemia,2775
+"mental retardation, x-linked 63",2776
+"myopathy, congenital, with fiber-type disproportion",2777
+nemaline myopathy 3,2778
+"abortion, habitual",2779
+"aortic aneurysm, familial thoracic 6",2780
+chylous ascites,2781
+idiopathic pulmonary fibrosis,2782
+"leukemia, hairy cell",2783
+"leukemia, myelomonocytic, juvenile",2784
+"neoplasms, multiple primary",2785
+nephrogenic fibrosing dermopathy,2786
+pancreatic islet cell tumors,2787
+thymoma,2788
+juvenile-onset dystonia,2789
+smoke inhalation injury,2790
+"neoplasms, mesothelial",2791
+atrial septal defect 5,2792
+"cardiomyopathy, familial hypertrophic, 1",2793
+"cardiomyopathy, familial hypertrophic, 11",2794
+refractive errors,2795
+acetabular dysplasia,2796
+"deafness, autosomal dominant 20",2797
+cecal neoplasms,2798
+muscle neoplasms,2799
+"cardiomyopathy, dilated, 1aa",2800
+hysteria,2801
+takayasu arteritis,2802
+myositis ossificans,2803
+heterotaxy syndrome,2804
+osler-rendu-weber syndrome 2,2805
+aminoacylase 1 deficiency,2806
+aicardi syndrome,2807
+nelson syndrome,2808
+pituitary acth hypersecretion,2809
+severe combined immunodeficiency due to adenosine deaminase deficiency,2810
+cone-rod dystrophy 9,2811
+weill-marchesani syndrome,2812
+weill-marchesani-like syndrome,2813
+"ehlers-danlos syndrome, type vii, autosomal recessive",2814
+acromicric dysplasia,2815
+geleophysic dysplasia 1,2816
+"ectopia lentis 2, isolated, autosomal recessive",2817
+aicardi-goutieres syndrome,2818
+dyschromatosis symmetrica hereditaria 1,2819
+"coenzyme q10 deficiency, primary, 1",2820
+"spinocerebellar ataxia, autosomal recessive 9",2821
+"hypercalciuria, absorptive, 2",2822
+colonic polyps,2823
+asphyxia neonatorum,2824
+"echinococcosis, hepatic",2825
+giardiasis,2826
+autonomic dysreflexia,2827
+facial asymmetry,2828
+chromosome fragility,2829
+"hypertension, essential",2830
+"parkinson disease, late-onset",2831
+"adiponectin, serum level of, quantitative trait locus 2",2832
+"adiponectin, serum level of, quantitative trait locus 3",2833
+"diabetes, gestational",2834
+"dystonia, dopa-responsive",2835
+neurodegeneration with brain iron accumulation (nbia),2836
+"parkinson disease, juvenile, autosomal recessive",2837
+phencyclidine abuse,2838
+"segawa syndrome, autosomal recessive",2839
+shy-drager syndrome,2840
+transvestism,2841
+gambling,2842
+heart murmurs,2843
+hyperemesis gravidarum,2844
+"neoplasms, squamous cell",2845
+thyroid hormone resistance syndrome,2846
+gait apraxia,2847
+smooth muscle tumor,2848
+"aging, premature",2849
+"protoporphyria, erythropoietic",2850
+adenylosuccinate lyase deficiency,2851
+"mental retardation, x-linked, associated with fragile site fraxe",2852
+spinocerebellar ataxia 28,2853
+aspartylglucosaminuria,2854
+ciguatera poisoning,2855
+klippel-trenaunay-weber syndrome,2856
+glycogen storage disease type iii,2857
+"dysentery, amebic",2858
+"lipodystrophy, congenital generalized, type 1",2859
+"rhizomelic chondrodysplasia punctata, type 3",2860
+congenital myasthenic syndrome ib,2861
+acquired cjd,2862
+"anemia, neonatal",2863
+autoimmune lymphoproliferative syndrome,2864
+craniofacial dysostosis,2865
+parotitis,2866
+soft tissue injuries,2867
+conversion disorder,2868
+echolalia,2869
+"mental retardation, x-linked",2870
+primary hyperoxaluria type 1,2871
+"amino acid metabolism, inborn errors",2872
+bell palsy,2873
+flavivirus infections,2874
+"hemorrhagic fever, american",2875
+"hemorrhagic fever, crimean",2876
+hemorrhagic fever with renal syndrome,2877
+hepatitis a,2878
+hypertensive retinopathy,2879
+lassa fever,2880
+orthomyxoviridae infections,2881
+paramyxoviridae infections,2882
+phlebotomus fever,2883
+reoviridae infections,2884
+rift valley fever,2885
+"sarcoidosis, pulmonary",2886
+subacute sclerosing panencephalitis,2887
+joubert syndrome 3,2888
+chromoblastomycosis,2889
+"hyperoxaluria, primary",2890
+kernicterus,2891
+mental fatigue,2892
+pancreatic adenoma,2893
+"pancreatic cancer, adult",2894
+sulfhemoglobinemia,2895
+"immunodeficiency with hyper-igm, type 2",2896
+combined oxidative phosphorylation deficiency 6,2897
+eosinophilic pustular folliculitis,2898
+glycogen storage disease,2899
+laryngomalacia,2900
+nesidioblastosis,2901
+preeclamptic toxemia,2902
+ureaplasma infections,2903
+west nile fever,2904
+wound infection,2905
+acth-secreting pituitary adenoma,2906
+leber congenital amaurosis 4,2907
+"autoimmune polyendocrinopathy syndrome, type 1",2908
+"polyendocrinopathies, autoimmune",2909
+"autoimmune disease, susceptibility to, 1",2910
+"adenylate kinase deficiency, hemolytic anemia due to",2911
+reticular dysgenesis,2912
+severe combined immunodeficiency,2913
+lichen nitidus,2914
+cardiac conduction defect,2915
+long qt syndrome 11,2916
+laryngitis,2917
+"abortion, threatened",2918
+lymphangioleiomyomatosis,2919
+omphalocele exstrophy imperforate anus,2920
+pityriasis lichenoides,2921
+salpingitis,2922
+"bile acid synthesis defect, congenital, 2",2923
+cestode infections,2924
+diphyllobothriasis,2925
+taeniasis,2926
+trematode infections,2927
+"breast-ovarian cancer, familial, susceptibility to, 1",2928
+"depression, postpartum",2929
+empyema,2930
+fever of unknown origin,2931
+myoma,2932
+pedophilia,2933
+polycystic liver disease,2934
+macrocephaly,2935
+"dermatitis, photoallergic",2936
+diffuse alopecia,2937
+felty syndrome,2938
+"hyperparathyroidism, primary",2939
+hypothalamic diseases,2940
+"porphyria, acute hepatic",2941
+vulvodynia,2942
+"protoporphyria, erythropoietic, x-linked",2943
+x-linked sideroblastic anemia,2944
+abdominal abscess,2945
+amebiasis,2946
+bacteroides infections,2947
+borrelia infections,2948
+bronchiectasis,2949
+central nervous system bacterial infections,2950
+clostridium infections,2951
+entamoebiasis,2952
+heart septal defects,2953
+"hyperthyroxinemia, familial dysalbuminemic",2954
+hypoparathyroidism familial isolated,2955
+"leukemia, biphenotypic, acute",2956
+lyme neuroborreliosis,2957
+nocardia infections,2958
+pulmonary atelectasis,2959
+trichomonas infections,2960
+trichomonas vaginitis,2961
+"zinc, elevated plasma",2962
+"eye diseases, hereditary",2963
+mucinoses,2964
+urethral diseases,2965
+"alcohol sensitivity, acute",2966
+hyperprolinemia type 2,2967
+pyridoxine-dependent epilepsy,2968
+glycogen storage disease xii,2969
+"hematoma, subdural, intracranial",2970
+fructose intolerance,2971
+congenital disorder of glycosylation type 1k,2972
+"congenital disorder of glycosylation, type ip",2973
+congenital disorder of glycosylation type 1g,2974
+congenital disorder of glycosylation type 1i,2975
+congenital disorder of glycosylation type 1d,2976
+congenital disorder of glycosylation type 1c,2977
+congenital disorder of glycosylation type 1h,2978
+congenital disorder of glycosylation type 1l,2979
+"plasma cell granuloma, pulmonary",2980
+cystinuria,2981
+glucosephosphate dehydrogenase deficiency,2982
+hemarthrosis,2983
+lafora disease,2984
+"myasthenia gravis, autoimmune, experimental",2985
+"thrombotic thrombocytopenic purpura, acquired",2986
+"ichthyosiform erythroderma, brocq congenital, nonbullous form",2987
+periapical diseases,2988
+fibrous dysplasia of bone,2989
+"hypophosphatasia, adult",2990
+"hypophosphatasia, childhood",2991
+"hypophosphatasia, infantile",2992
+osteoporosis-pseudoglioma syndrome,2993
+allergic rhinitis,2994
+"amyotrophic lateral sclerosis 2, juvenile",2995
+"hereditary spastic paralysis, infantile onset ascending",2996
+primary lateral sclerosis juvenile,2997
+frontonasal dysplasia 3,2998
+frontonasal dysplasia 1,2999
+frontonasal dysplasia 2,3000
+parietal foramina,3001
+parietal foramina 2,3002
+"bile acid synthesis defect, congenital, 4",3003
+"amelogenesis imperfecta, hypoplastic/hypomaturation, x-linked 1",3004
+osteopathia striata cranial sclerosis,3005
+persistent mullerian duct syndrome,3006
+"alport syndrome, mental retardation, midface hypoplasia, and elliptocytosis",3007
+megaloblastic anemia 1,3008
+adenosine monophosphate deaminase deficiency,3009
+"bone cysts, aneurysmal",3010
+angelman syndrome,3011
+amyotrophic lateral sclerosis 9,3012
+ergotism,3013
+"hypobetalipoproteinemia, familial, 2",3014
+"spherocytosis, type 1",3015
+"cardiac arrhythmia, ankyrin-b-related",3016
+chondrocalcinosis 2,3017
+"craniometaphyseal dysplasia, autosomal dominant",3018
+tooth abnormalities,3019
+dental enamel hypoplasia,3020
+dental pulp calcification,3021
+nutrition disorders,3022
+gnathodiaphyseal dysplasia,3023
+"muscular dystrophy, limb-girdle, type 2l",3024
+scott syndrome,3025
+eye infections,3026
+"hemangioma, capillary infantile",3027
+"hyalinosis, systemic",3028
+"dermatitis, seborrheic",3029
+paratuberculosis,3030
+abdominal obesity metabolic syndrome,3031
+"mental retardation, x-linked, syndromic, fried type",3032
+"familial benign hypercalcemia, type 3",3033
+hermansky pudlak syndrome 2,3034
+"spastic paraplegia 50, autosomal recessive",3035
+"spastic paraplegia 48, autosomal recessive",3036
+turcot syndrome,3037
+hypotrichosis simplex,3038
+"granuloma, pyogenic",3039
+hutchinson&apos;s melanotic freckle,3040
+"amyloidosis, familial visceral",3041
+intestinal volvulus,3042
+"hypertriglyceridemia, familial",3043
+"hypercholesterolemia, autosomal dominant, type b",3044
+"hypobetalipoproteinemia, familial, apolipoprotein b",3045
+hyperlipoproteinemia type i,3046
+"alzheimer disease, familial",3047
+alzheimer disease type 2,3048
+cerebral amyloid angiopathy,3049
+lipoprotein glomerulopathy,3050
+"macular degeneration, age-related, 1",3051
+sea-blue histiocyte syndrome,3052
+candidemia,3053
+"cerebral amyloid angiopathy, app-related",3054
+"cerebral hemorrhage with amyloidosis, hereditary, dutch type",3055
+colonic pseudo-obstruction,3056
+fungemia,3057
+labyrinthitis,3058
+"meningitis, fungal",3059
+mucormycosis,3060
+zygomycosis,3061
+early-onset ataxia with oculomotor apraxia and hypoalbuminemia,3062
+"carcinoma, adenoid cystic",3063
+"diabetes insipidus, neurogenic",3064
+androgen-insensitivity syndrome,3065
+aspermia,3066
+"bulbospinal neuronopathy, x-linked recessive",3067
+epispadias,3068
+"hypospadias 1, x-linked",3069
+sexual precocity,3070
+"heterotopia, periventricular, autosomal recessive",3071
+erythema chronicum migrans,3072
+hyperargininemia,3073
+impetigo,3074
+pruritus vulvae,3075
+"slowed nerve conduction velocity, autosomal dominant",3076
+"mental retardation, x-linked 46",3077
+"epileptic encephalopathy, early infantile, 8",3078
+adenocarcinoma of esophagus,3079
+coffin-siris syndrome,3080
+joubert syndrome 8,3081
+bardet-biedl syndrome,3082
+retinitis pigmentosa 55,3083
+"leukodystrophy, metachromatic",3084
+mucopolysaccharidosis vi,3085
+"chondrodysplasia punctata, brachytelephalangic",3086
+"epileptic encephalopathy, early infantile, 1",3087
+"lissencephaly, x-linked, 2",3088
+"mental retardation, x-linked, with or without seizures, arx-related",3089
+partington x-linked mental retardation syndrome,3090
+proud syndrome,3091
+farber lipogranulomatosis,3092
+"tuberculoma, intracranial",3093
+congenital central hypoventilation syndrome,3094
+acanthamoeba keratitis,3095
+babesiosis,3096
+argininosuccinic aciduria,3097
+anterior segment mesenchymal dysgenesis,3098
+canavan disease,3099
+"microcephaly 5, primary, autosomal recessive",3100
+"sarcoma, alveolar soft part",3101
+citrullinemia,3102
+bohring syndrome,3103
+"cerebellar ataxia, cayman type",3104
+jeune syndrome,3105
+"atrial fibrillation, familial 1",3106
+inflammatory bowel disease 10,3107
+aicar transformylase/imp cyclohydrolase deficiency,3108
+"spastic paraplegia 3, autosomal dominant",3109
+"dermatitis, atopic, 1",3110
+"wounds, nonpenetrating",3111
+parkinson disease 9,3112
+emaciation,3113
+alternating hemiplegia of childhood,3114
+"migraine, familial hemiplegic, 2",3115
+dystonia 12,3116
+brody myopathy,3117
+"deafness, autosomal recessive 12",3118
+"mental retardation, x-linked, with epilepsy",3119
+"cutis laxa, autosomal recessive, type iia",3120
+wrinkly skin syndrome,3121
+"renal tubular acidosis, distal, autosomal recessive",3122
+"renal tubular acidosis, distal, with progressive nerve deafness",3123
+"spinal muscular atrophy, distal, x-linked 3",3124
+"mitochondrial complex v (atp synthase) deficiency, nuclear type 1;mc5dn1 mitochondrial complex v (atp synthase) deficiency, atpaf2 type",3125
+seckel syndrome 1,3126
+alpha-thalassemia myelodysplasia syndrome,3127
+atr-x syndrome,3128
+"mental retardation-hypotonic facies syndrome, x-linked, 1",3129
+thoracic diseases,3130
+spinocerebellar ataxia 10,3131
+machado-joseph disease,3132
+"3-methylglutaconic aciduria, type i",3133
+spermatogenic failure 5,3134
+"genetic diseases, x-linked",3135
+nephrogenic syndrome of inappropriate antidiuresis,3136
+atrioventricular septal defect 3,3137
+caudal duplication anomaly,3138
+oligodontia-colorectal cancer syndrome,3139
+"spermatogenic failure, nonobstructive, y-linked",3140
+"hypoproteinemia, hypercatabolic",3141
+krause-kivlin syndrome,3142
+congenital disorder of glycosylation type 2d,3143
+"ehlers-danlos syndrome, progeroid form",3144
+"hypercholanemia, familial",3145
+choroidal neovascularization,3146
+retinal neovascularization,3147
+"rhinitis, vasomotor",3148
+"encephalopathy, bovine spongiform",3149
+"myopathy, myofibrillar 6, mfm6",3150
+nevi and melanomas,3151
+acitretin embryopathy,3152
+alien hand syndrome,3153
+chorioretinitis,3154
+infant nutrition disorders,3155
+larva migrans,3156
+olfactory nerve injuries,3157
+papillon-lefevre disease,3158
+secernentea infections,3159
+sparganosis,3160
+williams syndrome,3161
+maple syrup urine disease,3162
+bamforth syndrome,3163
+butyrylcholinesterase deficiency,3164
+"paralysis, obstetric",3165
+pseudocholinesterase deficiency,3166
+"sweating, gustatory",3167
+"chondrosarcoma, mesenchymal",3168
+t-lymphocytopenia,3169
+"hypercarotenemia and vitamin a deficiency, autosomal dominant",3170
+"microphthalmia, syndromic 2",3171
+bjornstad syndrome,3172
+finnish lethal neonatal metabolic syndrome,3173
+leigh disease,3174
+mitochondrial complex iii deficiency,3175
+brachydactyly type a1,3176
+chromosome 2q37 deletion syndrome,3177
+absence of tibia,3178
+"headache disorders, secondary",3179
+"obesity, morbid",3180
+"wilms tumor, aniridia, genitourinary anomalies, mental retardation, and obesity syndrome",3181
+spinocerebellar ataxia 31,3182
+"bestrophinopathy, autosomal recessive",3183
+"macular dystrophy, concentric annular",3184
+"macular dystrophy, vitelliform, adult-onset",3185
+retinitis pigmentosa 50,3186
+vitelliform macular dystrophy,3187
+vitreoretinochoroidopathy,3188
+"cataract, cortical, juvenile-onset",3189
+"cataract, autosomal dominant",3190
+"cataract, autosomal dominant, multiple types 1",3191
+mandibular diseases,3192
+"myopathies, structural, congenital",3193
+"myopathy, centronuclear, 2",3194
+"leukemia, megakaryoblastic, acute",3195
+"maturity-onset diabetes of the young, type 11",3196
+bloom syndrome,3197
+"agammaglobulinemia 4, autosomal recessive",3198
+albinism with hemorrhagic diathesis and pigmented reticuloendothelial cells,3199
+body mass index quantitative trait locus 4,3200
+ovarian dysgenesis 2,3201
+"microphthalmia, syndromic 6",3202
+orofacial cleft 11,3203
+"hamartoma syndrome, multiple",3204
+juvenile polyposis syndrome,3205
+"polyposis syndrome, hereditary mixed, 2",3206
+brachydactyly type a2,3207
+"chondrodysplasia, acromesomelic, with genital anomalies",3208
+pulmonary edema of mountaineers,3209
+bisphosphoglycerate mutase deficiency,3210
+cardiofaciocutaneous syndrome,3211
+costello syndrome,3212
+leopard syndrome 3,3213
+noonan syndrome,3214
+noonan syndrome 7,3215
+hereditary breast and ovarian cancer syndrome,3216
+"breast-ovarian cancer, familial, susceptibility to, 2",3217
+"fanconi anemia, complementation group d1",3218
+"fanconi anemia, complementation group j",3219
+"mental retardation, x-linked 93",3220
+"lipodystrophy, congenital generalized, type 2",3221
+"neuronopathy, distal hereditary motor, type va",3222
+spastic paraplegia 17,3223
+"bartter syndrome, type 4a",3224
+biotinidase deficiency,3225
+bruton type agammaglobulinemia,3226
+"hypogammaglobulinemia and isolated growth hormone deficiency, x-linked",3227
+mosaic variegated aneuploidy syndrome,3228
+premature chromatid separation trait,3229
+mitochondrial dna depletion syndrome 3 (hepatocerebral type),3230
+mitochondrial dna depletion syndrome 7 (hepatocerebral type),3231
+"progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 3",3232
+"sensory ataxic neuropathy, dysarthria, and ophthalmoparesis",3233
+combined oxidative phosphorylation deficiency 7,3234
+tn syndrome,3235
+late-onset retinal degeneration,3236
+complement component c1r/c1s deficiency,3237
+complement component 2 deficiency,3238
+"macular degeneration, age-related, 9",3239
+complement component 5 deficiency,3240
+complement component 6 deficiency,3241
+complement component 7 deficiency,3242
+"complement component 8 deficiency, type i",3243
+"complement component 8 deficiency, type ii",3244
+"hyperchlorhidrosis, isolated",3245
+osteopetrosis with renal tubular acidosis,3246
+retinitis pigmentosa 17,3247
+"cerebellar ataxia, mental retardation, and dysequilibrium syndrome 3",3248
+anaplasia,3249
+"carcinoma, intraductal, noninfiltrating",3250
+"night blindness, congenital stationary, type 2b",3251
+"hemiplegic migraine, familial type 1",3252
+"migraine, familial hemiplegic, 1",3253
+brugada syndrome 3,3254
+timothy syndrome,3255
+aland island eye disease,3256
+"cone-rod dystrophy, x-linked, 3",3257
+"night blindness, congenital stationary, type 2a",3258
+"hypokalemic periodic paralysis, type 1",3259
+malignant hyperthermia susceptibility type 5,3260
+"thyrotoxic periodic paralysis, susceptibility to, 1",3261
+retinal cone dystrophy 4,3262
+brugada syndrome 4,3263
+"episodic ataxia, type 5",3264
+"spherocytosis, hereditary",3265
+adiposis dolorosa,3266
+myocardial bridging,3267
+"syphilis, secondary",3268
+desbuquois syndrome,3269
+"diabetes mellitus, noninsulin-dependent, 1",3270
+limb-girdle muscular dystrophy type 2a,3271
+"candidiasis, familial, 2",3272
+mental retardation and microcephaly with pontine and cerebellar hypoplasia,3273
+opitz-kaveggia syndrome,3274
+"autoimmune lymphoproliferative syndrome, type iia",3275
+"lymphoma, non-hodgkin, familial",3276
+"creatine deficiency, x-linked",3277
+"leukoencephalitis, acute hemorrhagic",3278
+sprains and strains,3279
+"ventricular tachycardia, catecholaminergic polymorphic, 1, with or without atrial dysfunction and/or dilated cardiomyopathy",3280
+"ventricular tachycardia, catecholaminergic polymorphic, 2",3281
+"hyperparathyroidism, neonatal severe primary",3282
+"hypocalciuric hypercalcemia, familial, type 1",3283
+acatalasia,3284
+cri-du-chat syndrome,3285
+opsoclonus-myoclonus syndrome,3286
+"purpura, hyperglobulinemic",3287
+spermatogenic failure 7,3288
+"lipodystrophy, congenital generalized, type 3",3289
+"chromosome 3, monosomy 3p25",3290
+"creatine phosphokinase, elevated serum",3291
+long qt syndrome 9,3292
+"muscular dystrophies, limb-girdle",3293
+"muscular dystrophy, limb-girdle, type 1c",3294
+noonan syndrome-like disorder with or without juvenile myelomonocytic leukemia,3295
+"46, xy sex reversal 5",3296
+"mental retardation, autosomal recessive 3",3297
+coach syndrome,3298
+joubert syndrome 9,3299
+"meckel syndrome, type 6",3300
+cerulean cataract,3301
+hennekam lymphangiectasia lymphedema syndrome,3302
+"deafness, autosomal dominant 44",3303
+"mycobacterium tuberculosis, susceptibility to",3304
+eosinophilic esophagitis,3305
+cerebral cavernous malformations 2,3306
+"hemangioma, cavernous, central nervous system",3307
+peritoneal neoplasms,3308
+von hippel-lindau disease,3309
+chagas disease,3310
+"diabetes mellitus, insulin-dependent, 22",3311
+pulmonary valve stenosis,3312
+otorhinolaryngologic diseases,3313
+"cataract, total congenital",3314
+"neuropathy, hereditary sensory, with spastic paraplegia, autosomal recessive",3315
+nephropathy with pretibial epidermolysis bullosa and deafness,3316
+common variable immunodeficiency,3317
+immunodeficiency due to defect in cd3-zeta,3318
+methylmalonic aciduria due to transcobalamin receptor defect,3319
+actinomycosis,3320
+bacillaceae infections,3321
+plasmodium falciparum blood infection level,3322
+platelet glycoprotein iv deficiency,3323
+"severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-positive, nk cell-negative",3324
+"severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-positive, nk cell-positive",3325
+"immunodeficiency with hyper-igm, type 3",3326
+"immunodeficiency with hyper-igm, type 1",3327
+measles,3328
+cd59 deficiency,3329
+"dermatitis, perioral",3330
+"agammaglobulinemia 6, autosomal recessive",3331
+radiodermatitis,3332
+"cd8 deficiency, familial",3333
+c syndrome,3334
+"anemia, dyserythropoietic, congenital",3335
+"corneal dystrophy, thiel-behnke type",3336
+meier-gorlin syndrome,3337
+"prostate cancer, familial",3338
+"mental retardation, autosomal dominant 3",3339
+"usher syndrome, type 1d",3340
+"ectodermal dysplasia, ectrodactyly, and macular dystrophy",3341
+juvenile macular degeneration and hypotrichosis,3342
+cone-rod dystrophy 15,3343
+"melanoma, cutaneous malignant, susceptibility to, 3",3344
+"microcephaly 3, primary, autosomal recessive",3345
+"epileptic encephalopathy, early infantile, 2",3346
+rett syndrome,3347
+"multiple endocrine neoplasia, type iv",3348
+beckwith-wiedemann syndrome,3349
+li-fraumeni syndrome,3350
+melanoma astrocytoma syndrome,3351
+"melanoma, cutaneous malignant, susceptibility to, 2",3352
+melanoma-pancreatic cancer syndrome,3353
+vulvar lichen sclerosus,3354
+hypotrichosis 2,3355
+specific granule deficiency,3356
+"maturity-onset diabetes of the young, type 8, with exocrine dysfunction",3357
+exocrine pancreatic insufficiency,3358
+"microcephaly 6, primary, autosomal recessive",3359
+seckel syndrome 4,3360
+"microcephaly 4, primary, autosomal recessive",3361
+joubert syndrome 5,3362
+leber congenital amaurosis 10,3363
+"meckel syndrome, type 4",3364
+senior-loken syndrome 6,3365
+retinitis pigmentosa 26,3366
+coproporphyria,3367
+hyperalphalipoproteinemia 1,3368
+conotruncal heart malformations,3369
+"heterotaxy, visceral, 2, autosomal",3370
+basal laminar drusen,3371
+complement factor h deficiency,3372
+"macular degeneration, age-related, 4",3373
+complement factor i deficiency,3374
+nemaline myopathy 7,3375
+"lymphoma, extranodal nk-t-cell",3376
+"cystic fibrosis, modifier of, 1",3377
+"properdin deficiency, x-linked",3378
+bronchiectasis with or without elevated sweat chloride 1,3379
+congenital bilateral aplasia of vas deferens,3380
+hereditary pancreatitis,3381
+congenital myasthenic syndrome with episodic apnea,3382
+"charge association--coloboma, heart anomaly, choanal atresia, retardation, genital and ear anomalies",3383
+charge syndrome,3384
+kallmann syndrome,3385
+"scoliosis, idiopathic, susceptibility to, 3",3386
+"asthma-related traits, susceptibility to, 7",3387
+choroideremia,3388
+"frontotemporal dementia, chromosome 3-linked",3389
+frontotemporal lobar degeneration,3390
+"cataract, posterior polar, 3",3391
+"multiple pterygium syndrome, lethal type",3392
+"myasthenic syndrome, congenital, fast-channel",3393
+"myasthenic syndrome, congenital, postsynaptic slow-channel",3394
+"epilepsy, nocturnal frontal lobe, type 4",3395
+"epilepsy, frontal lobe",3396
+"epilepsy, nocturnal frontal lobe, type 1",3397
+"myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency",3398
+"epilepsy, nocturnal frontal lobe, type 3",3399
+multiple pterygium syndrome,3400
+"ehlers-danlos syndrome, musculocontractural type",3401
+joint instability,3402
+spondyloepiphyseal dysplasia with congenital joint dislocations,3403
+"macular dystrophy, corneal type 1",3404
+cocoon syndrome,3405
+"usher syndrome, type ij",3406
+bare lymphocyte syndrome 2,3407
+north american indian childhood cirrhosis,3408
+wolfram syndrome,3409
+"cervical dystonia, primary",3410
+cold-induced sweating syndrome 1,3411
+"myotonia congenita, autosomal dominant",3412
+"myotonia congenita, autosomal recessive",3413
+epilepsy juvenile absence,3414
+dent disease 1,3415
+"hypophosphatemic rickets, x-linked recessive",3416
+low molecular weight proteinuria with hypercalciuria and nephrocalcinosis,3417
+"nephrolithiasis, x-linked recessive, with renal failure",3418
+"osteopetrosis,  autosomal recessive 4",3419
+"bartter syndrome, type 4b",3420
+"bartter syndrome, type 3",3421
+"ichthyosis, leukocyte vacuoles, alopecia, and sclerosing cholangitis",3422
+"hypomagnesemia 3, renal",3423
+"hypomagnesemia 5, renal, with ocular involvement",3424
+dengue hemorrhagic fever,3425
+"candidiasis familial chronic mucocutaneous, autosomal recessive",3426
+"ceroid lipofuscinosis, neuronal 3, juvenile",3427
+"ceroid lipofuscinosis, neuronal 5",3428
+"ceroid lipofuscinosis, neuronal, 6",3429
+"ceroid lipofuscinosis, neuronal 8",3430
+"ceroid lipofuscinosis, neuronal 9",3431
+"usher syndrome, type iiia",3432
+familial dilated cardiomyopathy,3433
+"cardiomyopathy, dilated, 1c",3434
+"melanoma, cutaneous malignant, susceptibility to, 1",3435
+dystrophia myotonica 2,3436
+carney complex,3437
+homocarnosinosis,3438
+achromatopsia 2,3439
+achromatopsia 3,3440
+jalili syndrome,3441
+"myopathy, congenital, compton-north",3442
+cortical dysplasia-focal epilepsy syndrome,3443
+pitt-hopkins syndrome,3444
+"deafness, autosomal dominant 9",3445
+"congenital disorder of glycosylation, type 2g",3446
+"congenital disorder of glycosylation, type iij",3447
+"congenital disorder of glycosylation, type iii",3448
+congenital disorder of glycosylation type 2e,3449
+"congenital disorder of glycosylation, type iih",3450
+metaphyseal chondrodysplasia schmid type,3451
+marshall syndrome,3452
+"stickler syndrome, type 2",3453
+"deafness, autosomal dominant 13",3454
+"deafness, autosomal recessive 53",3455
+nance sweeney chondrodysplasia,3456
+otospondylomegaepiphyseal dysplasia,3457
+pierre robin syndrome with fetal chondrodysplasia,3458
+"stickler syndrome, type 3",3459
+"epidermolysis bullosa, junctional, non-herlitz type",3460
+knobloch syndrome,3461
+ehlers-danlos syndrome type 1,3462
+"ehlers-danlos syndrome, type vii, autosomal dominant",3463
+osteogenesis imperfecta,3464
+"osteogenesis imperfecta, type 2a",3465
+"osteogenesis imperfecta, type 3",3466
+"osteogenesis imperfecta, type 4",3467
+"ehlers-danlos syndrome, cardiac valvular form",3468
+achondrogenesis type 2,3469
+"epiphyseal dysplasia, multiple, with myopia and conductive deafness",3470
+hyaloideoretinal degeneration of wagner,3471
+kniest dysplasia,3472
+legg-calve-perthes disease,3473
+osteoarthritis with mild chondrodysplasia,3474
+"platyspondylic lethal skeletal dysplasia, torrance type",3475
+"spondyloepiphyseal dysplasia, congenita",3476
+"spondylometaphyseal dysplasia, kozlowski type",3477
+spondyloperipheral dysplasia,3478
+"stickler syndrome, type 1",3479
+"stickler syndrome, type i, nonsyndromic ocular",3480
+strudwick syndrome,3481
+ehlers-danlos syndrome type 3,3482
+"ehlers danlos syndrome type 4, autosomal dominant",3483
+"angiopathy, hereditary, with nephropathy, aneurysms, and muscle cramps",3484
+brain small vessel disease with hemorrhage,3485
+familial porencephaly,3486
+"alport syndrome, recessive type",3487
+"hematuria, benign familial",3488
+"nephritis, hereditary",3489
+"alport syndrome, x-linked",3490
+"leiomyoma, epithelioid",3491
+"leiomyomatosis, diffuse, with alport syndrome",3492
+ehlers-danlos syndrome type 2,3493
+bethlem myopathy,3494
+ossification of the posterior longitudinal ligament of the spine,3495
+scleroatonic muscular dystrophy,3496
+"myosclerosis, autosomal recessive",3497
+"epidermolysis bullosa dystrophica, autosomal recessive",3498
+"epidermolysis bullosa dystrophica, pasini type",3499
+"epidermolysis bullosa, pretibial",3500
+epidermolysis bullosa pruriginosa,3501
+epidermolysis bullosa with congenital localized absence of skin and deformity of nails,3502
+"nail disorder, nonsyndromic congenital, 8",3503
+transient bullous dermolysis of the newborn,3504
+"corneal dystrophy, fuchs&apos; endothelial, 1",3505
+"corneal dystrophy, posterior polymorphous, 1",3506
+"corneal dystrophy, posterior polymorphous, 2",3507
+"epiphyseal dysplasia, multiple, 2",3508
+"epiphyseal dysplasia, multiple, 3",3509
+carnevale syndrome,3510
+malpuech facial clefting syndrome,3511
+oculopalatoskeletal syndrome,3512
+endplate acetylcholinesterase deficiency,3513
+"epiphyseal dysplasia, multiple, 1",3514
+fairbank disease,3515
+pseudoachondroplasia,3516
+digeorge syndrome,3517
+"exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis",3518
+mitochondrial complex iv deficiency,3519
+pasteurellaceae infections,3520
+carboxypeptidase n deficiency,3521
+alveolar capillary dysplasia,3522
+carbamoyl-phosphate synthase i deficiency disease,3523
+carnitine palmitoyl transferase 1a deficiency,3524
+"carnitine palmitoyltransferase ii deficiency, infantile",3525
+"carnitine palmitoyltransferase ii deficiency, late-onset",3526
+"carnitine palmitoyltransferase ii deficiency, lethal neonatal",3527
+leber congenital amaurosis,3528
+pigmented paravenous chorioretinal atrophy,3529
+retinal telangiectasis,3530
+retinitis pigmentosa 12,3531
+"mental retardation, autosomal recessive 2",3532
+"histiocytoma, angiomatoid fibrous",3533
+rubinstein-taybi syndrome,3534
+"atrioventricular septal defect, partial, with heterotaxy syndrome",3535
+intraoperative awareness,3536
+crisponi syndrome,3537
+"purine-pyrimidine metabolism, inborn errors",3538
+"osteogenesis imperfecta, type 7",3539
+cone-rod dystrophy 2,3540
+alpha-b crystallinopathy,3541
+"cataract, congenital zonular, with sutural opacities",3542
+"cataract, lamellar 2",3543
+"microphthalmia, isolated, with cataract 4",3544
+"cataract, congenital nuclear, autosomal recessive 3",3545
+"cataract, congenital, cerulean type, 2",3546
+"cataract, coppock-like",3547
+"cataract, sutural, with punctate and cerulean opacities",3548
+"cataract, congenital nuclear, autosomal recessive 2",3549
+"cataract, congenital, cerulean type, 3",3550
+cataract congenital dominant non nuclear,3551
+"cataract, crystalline aculeiform",3552
+"neoplasm, residual",3553
+"surfactant metabolism dysfunction, pulmonary, 4",3554
+"surfactant metabolism dysfunction, pulmonary, 1",3555
+"neutrophilia, hereditary",3556
+silver-russell syndrome,3557
+"cardiomyopathy, dilated, 1m",3558
+"cardiomyopathy, familial hypertrophic, 12",3559
+"cerebral amyloid angiopathy, familial",3560
+"macular degeneration, age-related, 11",3561
+gastric antral vascular ectasia,3562
+"congenital cataracts, facial dysmorphism, and neuropathy",3563
+gamma-cystathionase deficiency,3564
+"diabetes mellitus, insulin-dependent, 12",3565
+pilomatrixoma,3566
+"cystinosis, late-onset juvenile or adolescent nephropathic type",3567
+"cystinosis, ocular nonnephropathic",3568
+nephropathic cystinosis,3569
+neuraminidase deficiency with beta-galactosidase deficiency,3570
+keratosis palmoplantaris with periodontopathia and onychogryposis,3571
+"ceroid lipofuscinosis, neuronal, 10",3572
+"optic atrophy, autosomal dominant",3573
+"tuberculosis, miliary",3574
+pycnodysostosis,3575
+"mental retardation, x-linked, with short stature, hypogonadism, and abnormal gait",3576
+three m syndrome 1,3577
+"basal ganglia disease, biotin-responsive",3578
+chronic periodontitis,3579
+trimethylaminuria,3580
+whim syndrome,3581
+methemoglobinemia type iv,3582
+nadh cytochrome b5 reductase deficiency,3583
+"granulomatous disease, chronic",3584
+"granulomatous disease, chronic, autosomal recessive, cytochrome b-negative",3585
+"granulomatous disease, chronic, x-linked",3586
+"heredodegenerative disorders, nervous system",3587
+familial cylindromatosis,3588
+"trichoepithelioma, multiple familial, 1",3589
+"46, xy disorders of sex development",3590
+lipoid congenital adrenal hyperplasia,3591
+congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency,3592
+glucocorticoid-remediable aldosteronism,3593
+18-hydroxylase deficiency,3594
+"adrenal hyperplasia, congenital, type 5",3595
+aromatase deficiency,3596
+sexual infantilism,3597
+ischemic contracture,3598
+skin and connective tissue diseases,3599
+upper extremity deep vein thrombosis,3600
+"glaucoma 1, open angle, a",3601
+"glaucoma 3, primary congenital, a",3602
+"glaucoma, primary open angle",3603
+congenital adrenal hyperplasia due to 21 hydroxylase deficiency,3604
+"xanthomatosis, cerebrotendinous",3605
+"vitamin d hydroxylation-deficient rickets, type 1a",3606
+coumarin resistance,3607
+"drug metabolism, poor, cyp2c19-related",3608
+invasive pulmonary aspergillosis,3609
+neuroaspergillosis,3610
+paracoccidioidomycosis,3611
+exsanguination,3612
+"drug metabolism, poor, cyp2d6-related",3613
+"vitamin d hydroxylation-deficient rickets, type 1b",3614
+"hemangioma, capillary",3615
+uterine cervical incompetence,3616
+ventricular septal rupture,3617
+"lamellar ichthyosis, type 3",3618
+bietti&apos;s crystalline dystrophy,3619
+"spastic paraplegia, hereditary",3620
+chondroma,3621
+d-2-hydroxyglutaric aciduria 1,3622
+leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation,3623
+dopamine beta hydroxylase deficiency,3624
+woodhouse sakati syndrome,3625
+mirror movements 1,3626
+dyslexia,3627
+"reticuloendotheliosis, familial, with eosinophilia",3628
+severe combined immunodeficiency with sensitivity to ionizing radiation,3629
+"corneal dystrophy, congenital stromal",3630
+dysplastic nevus syndrome,3631
+"neuronopathy, distal hereditary motor, type viib",3632
+perry syndrome,3633
+"lissencephaly, x-linked, 1",3634
+pentosuria,3635
+"xeroderma pigmentosum, complementation group e",3636
+aromatic amino acid decarboxylase deficiency,3637
+"liposarcoma, myxoid",3638
+"spondylometaepiphyseal dysplasia, short limb-hand type",3639
+warsaw breakage syndrome,3640
+peutz-jeghers syndrome,3641
+wagr syndrome,3642
+hypotonia-cystinuria syndrome,3643
+chromosome xp11.3 deletion syndrome,3644
+"epilepsy, partial, with variable foci",3645
+"cardiomyopathy, dilated, 1i",3646
+"myopathy, myofibrillar, 1",3647
+"scapuloperoneal syndrome, neurogenic, kaeser type",3648
+"deafness, autosomal dominant 5",3649
+"deafness, autosomal recessive 31",3650
+"usher syndrome, type iid",3651
+"deafness, autosomal recessive 59",3652
+desmosterolosis,3653
+"46,xy gonadal dysgenesis, complete or partial, dhh-related",3654
+"46,xy gonadal dysgenesis, partial, with minifascicular neuropathy",3655
+"deafness, autosomal dominant 1",3656
+premature ovarian failure 2a,3657
+"auditory neuropathy, autosomal dominant, 1",3658
+pleuropulmonary blastoma,3659
+"mental retardation, fra12a type",3660
+"nephroblastomatosis, fetal ascites, macrosomia and wilms tumor",3661
+dyskeratosis congenita,3662
+hoyeraal hreidarsson syndrome,3663
+pyruvate dehydrogenase e2 deficiency,3664
+"spondylocostal dysostosis 1, autosomal recessive",3665
+"amelogenesis imperfecta, type iv",3666
+trichodentoosseous syndrome,3667
+"cardiomyopathy, dilated, 3b",3668
+dimethylglycine dehydrogenase deficiency,3669
+human herpesvirus 6 encephalitis,3670
+"hypophosphatemia, familial",3671
+"hypophosphatemic rickets, autosomal recessive, 1",3672
+dystrophia myotonica 1,3673
+"ciliary dyskinesia, primary, 13",3674
+"ciliary dyskinesia, primary, 10",3675
+"ciliary dyskinesia, primary, 7",3676
+"primary ciliary dyskinesia, 3",3677
+"ciliary dyskinesia, primary, 9",3678
+"3-methylglutaconic aciduria, type v",3679
+dysentery,3680
+"charcot-marie-tooth disease, dominant intermediate b",3681
+"myopathy, centronuclear, 1",3682
+hereditary sensory and autonomic neuropathies,3683
+immunodeficiency-centromeric instability-facial anomalies syndrome 1,3684
+"hyper-ige recurrent infection syndrome, autosomal recessive",3685
+"pena shokeir syndrome, type 1",3686
+"congenital disorder of glycosylation, type im",3687
+congenital disorder of glycosylation type 1j,3688
+diffuse panbronchiolitis,3689
+congenital disorder of glycosylation type 1e,3690
+"congenital disorder of glycosylation, type io",3691
+paroxysmal ventricular fibrillation,3692
+varicose veins,3693
+dihydropyrimidine dehydrogenase deficiency,3694
+dihydropyrimidinase deficiency,3695
+"psychoses, alcoholic",3696
+westphal disease,3697
+"tremor hereditary essential, 1",3698
+novelty seeking personality trait,3699
+benign essential blepharospasm,3700
+"arrhythmogenic right ventricular dysplasia, familial, 11",3701
+hypotrichosis and recurrent skin vesicles,3702
+keratosis palmoplantaris striata 1,3703
+"arrhythmogenic right ventricular dysplasia, familial, 10",3704
+"cardiomyopathy, dilated, 1bb",3705
+"arrhythmogenic right ventricular dysplasia, familial, 8",3706
+"epidermolysis bullosa, lethal acantholytic",3707
+keratosis palmoplantaris striata ii,3708
+skin fragility-woolly hair syndrome,3709
+"deafness, autosomal dominant 39, with dentinogenesis imperfecta 1",3710
+"dentin dysplasia, type ii",3711
+dentinogenesis imperfecta,3712
+"dentinogenesis imperfecta, shields type 3",3713
+left ventricular noncompaction 1,3714
+thyroid dyshormonogenesis 6,3715
+thyroid dyshormonogenesis 5,3716
+dyggve-melchior-clausen syndrome,3717
+smith-mccort dysplasia,3718
+asphyxiating thoracic dystrophy 3,3719
+short rib-polydactyly syndrome,3720
+"short rib-polydactyly syndrome, verma-naumoff type",3721
+"limb-girdle muscular dystrophy, type 2b",3722
+"myopathy, distal, with anterior tibial onset",3723
+familial paroxysmal dystonia,3724
+"chondrodysplasia punctata 2, x-linked dominant",3725
+"erythrocytosis, familial, 2",3726
+hirschsprung disease,3727
+lipoid proteinosis of urbach and wiethe,3728
+"ectodermal dysplasia 1, anhidrotic",3729
+"tooth agenesis, selective, x-linked, 1",3730
+"ectodermal dysplasia 3, anhidrotic",3731
+"ectodermal dysplasia, hypohidrotic, autosomal recessive",3732
+"waardenburg syndrome, type 4",3733
+"waardenburg syndrome, type 4a",3734
+"waardenburg syndrome, type 4b",3735
+abcd syndrome,3736
+doyne honeycomb retinal dystrophy,3737
+"cutis laxa, autosomal recessive, type ia",3738
+craniofrontonasal dysplasia,3739
+frontonasal dysplasia,3740
+"hypomagnesemia 4, renal",3741
+"polycystic kidney, autosomal recessive",3742
+"erythrocytosis, familial, 3",3743
+"charcot-marie-tooth disease, type 1d",3744
+"charcot-marie-tooth disease, type 4e",3745
+"prostate cancer, hereditary, 12",3746
+kleefstra syndrome,3747
+wolcott-rallison syndrome,3748
+leukoencephalopathy with vanishing white matter,3749
+"myoclonic epilepsy, familial infantile",3750
+cyclic neutropenia,3751
+"neutropenia, severe congenital, 1, autosomal dominant",3752
+"aortic stenosis, supravalvular",3753
+cutis laxa,3754
+"cutis laxa, autosomal dominant 1",3755
+stargardt disease 3,3756
+"muscular dystrophy, emery-dreifuss",3757
+bowen-conradi syndrome,3758
+schizencephaly,3759
+amelogenesis imperfecta,3760
+"amelogenesis imperfecta, type ib",3761
+"amelogenesis imperfecta, type ic",3762
+glycogen storage disease xiii,3763
+arterial calcification of infancy,3764
+"hypophosphatemic rickets, autosomal recessive, 2",3765
+"erythrocytosis, familial, 4",3766
+elliptocytosis 1,3767
+"spherocytosis, type 5",3768
+"colorectal cancer, hereditary nonpolyposis, type 8",3769
+"diarrhea 5, with tufting enteropathy, congenital",3770
+lynch syndrome i (site-specific colonic cancer),3771
+absent corpus callosum cataract immunodeficiency,3772
+"cataract, age-related cortical, 2",3773
+prostate cancer/brain cancer susceptibility,3774
+"microvascular complications of diabetes, susceptibility to, 2",3775
+"polycythemia, primary familial and congenital",3776
+lethal congenital contracture syndrome 2,3777
+cerebrooculofacioskeletal syndrome 4,3778
+cerebrooculofacioskeletal syndrome 2,3779
+"trichothiodystrophy, photosensitive;ttdp ichthyosiform erythroderma with hair abnormality and mental and growth",3780
+"xeroderma pigmentosum, complementation group d",3781
+"xeroderma pigmentosum, complementation group b",3782
+"xeroderma pigmentosum, complementation group f",3783
+xfe progeroid syndrome,3784
+cerebrooculofacioskeletal syndrome 1,3785
+"xeroderma pigmentosum, complementation group g",3786
+cockayne syndrome,3787
+de sanctis-cacchione syndrome,3788
+uv-sensitive syndrome 1,3789
+roberts syndrome,3790
+sc phocomelia syndrome,3791
+"deafness, autosomal recessive 36, with or without vestibular involvement",3792
+pyometra,3793
+"deafness, autosomal recessive 35",3794
+multiple acyl coenzyme a dehydrogenase deficiency,3795
+ethylmalonic encephalopathy,3796
+"myeloproliferative disorder, chronic, with eosinophilia",3797
+ellis-van creveld syndrome,3798
+weyers acrofacial dysostosis,3799
+pontocerebellar hypoplasia type 1,3800
+"exostoses, multiple hereditary",3801
+"exostoses, multiple, type i",3802
+"exostoses, multiple, type ii",3803
+branchio-oto-renal syndrome,3804
+branchiootorenal syndrome 1,3805
+otofaciocervical syndrome,3806
+"cardiomyopathy, dilated, 1j",3807
+"deafness, autosomal dominant 10",3808
+myelodysplastic-myeloproliferative diseases,3809
+factor x deficiency,3810
+factor xi deficiency,3811
+factor xii deficiency,3812
+factor xiii deficiency,3813
+"prothrombin deficiency, congenital",3814
+factor v deficiency,3815
+thrombophilia due to activated protein c resistance,3816
+"thrombophilia, hereditary",3817
+factor vii deficiency,3818
+hemophilia b,3819
+"thrombophilia, x-linked, due to factor ix defect",3820
+"spastic paraplegia 35, autosomal recessive",3821
+"leukodystrophy, hypomyelinating, 5",3822
+"neuropathy, hereditary sensory and autonomic, type iib",3823
+raine syndrome,3824
+"toe syndactyly, telecanthus, and anogenital and renal malformations",3825
+"amelogenesis imperfecta, type iii",3826
+megalocytic interstitial nephritis,3827
+"fanconi anemia, complementation group b",3828
+"vacterl association with hydrocephaly, x-linked",3829
+"fanconi anemia, complementation group c",3830
+"fanconi anemia, complementation group d2",3831
+"fanconi anemia, complementation group e",3832
+"fanconi anemia, complementation group f",3833
+"fanconi anemia, complementation group i",3834
+synpolydactyly 2,3835
+"cutis laxa, recessive",3836
+"macular degeneration, age-related, 3",3837
+arachnodactyly,3838
+ectopia lentis,3839
+"ectopia lentis 1, isolated, autosomal dominant",3840
+mass syndrome,3841
+shprintzen golberg craniosynostosis,3842
+stiff skin syndrome,3843
+congenital contractural arachnodactyly,3844
+"fructose-1,6-diphosphatase deficiency",3845
+"parkinson disease 15, autosomal recessive early-onset",3846
+"fibrosis of extraocular muscles, congenital, 3a, with or without extraocular involvement",3847
+poikiloderma of kindler,3848
+"leukocyte adhesion deficiency, type iii",3849
+"amyloidosis, familial",3850
+aarskog syndrome,3851
+"charcot-marie-tooth disease, type 4h",3852
+aplasia of lacrimal and salivary glands,3853
+lacrimoauriculodentodigital syndrome,3854
+spinocerebellar ataxia 27,3855
+carcinoid heart disease,3856
+periapical periodontitis,3857
+"hypophosphatemic rickets, autosomal dominant",3858
+"tumoral calcinosis, hyperphosphatemic, familial",3859
+"deafness, congenital, with inner ear agenesis, microtia, and microdontia",3860
+22q11 deletion syndrome,3861
+multiple synostoses syndrome 3,3862
+antley-bixler syndrome without genital anomalies or disordered steroidogenesis,3863
+jackson-weiss syndrome,3864
+osteoglophonic dwarfism,3865
+pfeiffer type acrocephalosyndactyly,3866
+trigonocephaly 1,3867
+ankylosis,3868
+cutis gyrata syndrome of beare and stevenson,3869
+"plagiocephaly, nonsynostotic",3870
+"scaphocephaly, maxillary retrusion, and mental retardation",3871
+achondroplasia,3872
+catshl syndrome,3873
+crouzon syndrome with acanthosis nigricans,3874
+hypochondroplasia,3875
+muenke syndrome,3876
+"nevus, epidermal",3877
+thanatophoric dysplasia,3878
+"thanatophoric dysplasia, type 1",3879
+"thanatophoric dysplasia, type 2",3880
+fumaric aciduria,3881
+"leiomyomatosis and renal cell cancer, hereditary",3882
+reed&apos;s syndrome,3883
+"myopathy, reducing body, x-linked, childhood-onset",3884
+"myopathy, reducing body, x-linked, early-onset, severe",3885
+"myopathy, x-linked, with postural muscle atrophy",3886
+"scapuloperoneal myopathy, x-linked dominant",3887
+amyotrophic lateral sclerosis 11,3888
+"charcot-marie-tooth disease, type 4j",3889
+premature ovarian failure 6,3890
+"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 1",3891
+"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 5",3892
+"muscular dystrophy-dystroglycanopathy (congenital with or without mental retardation), type b, 5",3893
+"muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 5",3894
+walker-warburg syndrome,3895
+"cardiomyopathy, dilated, 1x",3896
+"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 4",3897
+"muscular dystrophy-dystroglycanopathy (congenital without mental retardation), type b, 4",3898
+"muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 4",3899
+birt-hogg-dube syndrome,3900
+"oncocytoma, renal",3901
+"pneumothorax, primary spontaneous",3902
+"dermatitis, atopic, 2",3903
+ichthyosis vulgaris,3904
+"cardiac valvular dysplasia, x-linked",3905
+congenital idiopathic intestinal pseudoobstruction,3906
+frontometaphyseal dysplasia,3907
+"heterotopia, periventricular, ehlers-danlos variant",3908
+"heterotopia, periventricular, x-linked dominant",3909
+oto-palato-digital syndrome type 1,3910
+"oto-palato-digital syndrome, type 2",3911
+terminal osseous dysplasia,3912
+"atelosteogenesis, type 1",3913
+"atelosteogenesis, type iii",3914
+boomerang dysplasia,3915
+"larsen syndrome, dominant type",3916
+spondylocarpotarsal synostosis,3917
+"filaminopathy, autosomal dominant",3918
+"lymphedema, hereditary, ia",3919
+posterior column ataxia with retinitis pigmentosa,3920
+encephaloclastic proliferative vasculopathy,3921
+"amyotrophic lateral sclerosis, sporadic",3922
+fragile x mental retardation syndrome,3923
+fragile x tremor ataxia syndrome,3924
+glomerulopathy with fibronectin deposits,3925
+keratoconus,3926
+"brain diseases, metabolic, inborn",3927
+neurodegeneration due to cerebral folate transport deficiency,3928
+"amyloid neuropathies, familial",3929
+"embolism, amniotic fluid",3930
+"axenfeld-rieger syndrome, type 1",3931
+"axenfeld-rieger syndrome, type 3",3932
+"iridogoniodysgenesis, type 1",3933
+lymphedema distichiasis syndrome,3934
+"lymphedema, hereditary, ii",3935
+yellow nail syndrome,3936
+"aphakia, congenital primary",3937
+"rett syndrome, congenital variant",3938
+"deafness, autosomal recessive 4, with enlarged vestibular aqueduct",3939
+"blepharophimosis, ptosis, and epicanthus inversus",3940
+blepharophimosis syndrome type 1,3941
+bpes with duane retraction syndrome,3942
+premature ovarian failure 3,3943
+"t-cell immunodeficiency, congenital alopecia and nail dystrophy",3944
+mental retardation with language impairment and autistic features,3945
+speech-language disorder 1,3946
+"immunodysregulation, polyendocrinopathy, and enteropathy, x-linked",3947
+mitochondrial complex i deficiency,3948
+fraser syndrome,3949
+bifid nose,3950
+bifid nose with or without anorectal and renal anomalies,3951
+hereditary renal agenesis,3952
+marles greenberg persaud syndrome,3953
+"nystagmus 1, congenital, x- linked",3954
+retinitis pigmentosa 30,3955
+"follicle-stimulating hormone deficiency, isolated",3956
+facioscapulohumeral muscular dystrophy 1b,3957
+ovarian dysgenesis 1,3958
+glutamate formiminotransferase deficiency,3959
+"hyperferritinemia, hereditary, with congenital cataracts",3960
+neurodegeneration with brain iron accumulation 3,3961
+"growth retardation, developmental delay, coarse facies, and early death",3962
+"mental retardation, x-linked 9",3963
+fucosidosis,3964
+"amyotrophic lateral sclerosis 6, autosomal recessive",3965
+caliciviridae infections,3966
+vitamin b12 plasma level quantitative trait locus 1,3967
+exudative vitreoretinopathy 1,3968
+glycogen storage disease type i,3969
+"neutropenia, severe congenital, 4, autosomal recessive",3970
+"anemia, hemolytic, congenital nonspherocytic",3971
+favism,3972
+phagocyte bactericidal dysfunction,3973
+glycogen storage disease type ii,3974
+entropion,3975
+"generalized epilepsy with febrile seizures plus, type 1",3976
+"generalized epilepsy with febrile seizures plus, type 3",3977
+"cerebral palsy, spastic quadriplegic, 1",3978
+"leukodystrophy, globoid cell",3979
+galactosemias,3980
+mucopolysaccharidosis iv,3981
+guanidinoacetate methyltransferase deficiency,3982
+giant axonal neuropathy,3983
+"charcot-marie-tooth disease, type 2d",3984
+"thrombocytopenia with beta-thalassemia, x-linked",3985
+"thrombocytopenia, x-linked, with or without dyserythropoietic anemia",3986
+barakat syndrome,3987
+arginine:glycine amidinotransferase deficiency,3988
+"gaucher disease, perinatal lethal",3989
+gaucher-like disease,3990
+glycogen storage disease type iv,3991
+glucocorticoid deficiency 2,3992
+glutaric aciduria 1,3993
+"hyperphenylalaninemia, bh4-deficient, b",3994
+"hyperinsulinemic hypoglycemia, familial, 3",3995
+maturity-onset diabetes of the young,3996
+"maturity-onset diabetes of the young, type 2",3997
+"gamma-glutamylcysteine synthetase deficiency, hemolytic anemia due to",3998
+"cataract, congenital or juvenile",3999
+"charcot-marie-tooth disease, axonal, with vocal cord paresis, autosomal recessive",4000
+"charcot-marie-tooth disease, recessive intermediate a",4001
+"charcot-marie-tooth disease, type 2k",4002
+"charcot-marie-tooth disease, type 4a",4003
+"klippel-feil syndrome 3, autosomal dominant",4004
+"microphthalmia, isolated 7",4005
+"microphthalmia, isolated, with coloboma 6",4006
+acromesomelic dysplasia hunter-thompson type,4007
+brachydactyly type c,4008
+"chondrodysplasia, grebe type",4009
+cushing&apos;s symphalangism,4010
+fibular hypoplasia and complex brachydactyly,4011
+multiple synostoses syndrome 2,4012
+klippel-feil syndrome,4013
+klippel feil syndrome dominant type,4014
+"microphthalmia, isolated 4",4015
+"spondylocostal dysostosis 5, autosomal dominant",4016
+"mental retardation, x-linked 3",4017
+"myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay",4018
+"neutropenia, nonimmune chronic idiopathic, of adults",4019
+"neutropenia, severe congenital, 2, autosomal dominant",4020
+combined oxidative phosphorylation deficiency 1,4021
+pseudoxanthoma elasticum-like disorder with multiple coagulation factor deficiency,4022
+"vitamin k-dependent clotting factors, combined deficiency of, 1",4023
+glutathionuria,4024
+"isolated growth hormone deficiency, type ia",4025
+"isolated growth hormone deficiency, type ib",4026
+"isolated growth hormone deficiency, type ii",4027
+kowarski syndrome,4028
+"short stature, idiopathic, autosomal",4029
+turner syndrome,4030
+laron syndrome,4031
+goldenhar syndrome,4032
+digestive system neoplasms,4033
+intrinsic factor deficiency,4034
+"parkinson disease 11, autosomal dominant",4035
+"fibromatosis, gingival, 1",4036
+hallermann&apos;s syndrome,4037
+oculodentodigital dysplasia,4038
+"oculodentodigital dysplasia, autosomal recessive",4039
+"syndactyly, type 3",4040
+"cataract, zonular pulverulent 3",4041
+atrial standstill,4042
+cataract microcornea syndrome,4043
+"cataract, zonular pulverulent 1",4044
+"charcot-marie-tooth disease, x-linked, 1",4045
+"deafness, autosomal dominant 3a",4046
+"deafness, autosomal recessive 1a",4047
+"ichthyosis, hystrix-like, with deafness",4048
+"keratitis-ichthyosis-deafness syndrome, autosomal dominant",4049
+keratoderma palmoplantar deafness,4050
+"knuckle pads, leuconychia and sensorineural deafness",4051
+vohwinkel syndrome,4052
+"deafness, autosomal dominant 2a",4053
+"deafness, autosomal dominant 2b",4054
+erythrokeratodermia variabilis,4055
+"deafness, autosomal dominant 3b",4056
+"deafness, autosomal recessive 1b",4057
+"ectodermal dysplasia 2, hidrotic",4058
+"leukodystrophy, hypomyelinating, 2",4059
+"lymphedema, hereditary, ic",4060
+"spastic paraplegia 44, autosomal recessive",4061
+hyperglycerolemia,4062
+angiokeratoma,4063
+fabry disease,4064
+"gangliosidosis, gm1",4065
+lethal arthrogryposis with anterior horn cell disease,4066
+lethal congenital contracture syndrome 1,4067
+basal cell nevus syndrome,4068
+holoprosencephaly 9,4069
+greig cephalopolysyndactyly syndrome,4070
+hypothalamic hamartomas,4071
+pallister-hall syndrome,4072
+"polydactyly, postaxial, type a1",4073
+"polydactyly, preaxial 4",4074
+nephronophthisis 7,4075
+"diabetes mellitus, neonatal, with congenital hypothyroidism",4076
+glomus vagale tumors,4077
+hyperexplexia hereditary,4078
+"anemia, sideroblastic, pyridoxine-refractory, autosomal recessive",4079
+"hyperinsulinemic hypoglycemia, familial, 6",4080
+"glutamine deficiency, congenital",4081
+"tay-sachs disease, ab variant",4082
+"ventricular tachycardia, familial",4083
+albright&apos;s hereditary osteodystrophy,4084
+brachydactyly,4085
+cafe-au-lait spots,4086
+"fibrous dysplasia, polyostotic",4087
+"osseous heteroplasia, progressive",4088
+pseudohypoparathyroidism type 1b,4089
+"pseudohypoparathyroidism, type ia",4090
+pseudopseudohypoparathyroidism,4091
+"night blindness, congenital stationary, autosomal dominant 3",4092
+"distal myopathy, nonaka type",4093
+inclusion body myopathy autosomal recessive,4094
+sialic acid storage disease,4095
+glycine n-methyltransferase deficiency,4096
+"rhizomelic chondrodysplasia punctata, type 2",4097
+mucolipidosis ii alpha/beta,4098
+mucolipidosis iii alpha/beta,4099
+mucolipidosis iii gamma,4100
+fertile eunuch syndrome,4101
+gerodermia osteodysplastica,4102
+bernard-soulier syndrome,4103
+"bernard-soulier syndrome, type a2, autosomal dominant",4104
+"nonarteritic anterior ischemic optic neuropathy, susceptibility to",4105
+"von willebrand disease, platelet type",4106
+"simpson-golabi-behmel syndrome, type 1",4107
+omodysplasia type 1,4108
+brugada syndrome 2,4109
+molybdenum cofactor deficiency,4110
+"hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency",4111
+"nystagmus 6, congenital, x-linked",4112
+ocular albinism type 1,4113
+"polymicrogyria, bilateral frontoparietal",4114
+"febrile seizures, familial, 4",4115
+"usher syndrome, type 2c",4116
+chudley-mccullough syndrome,4117
+"deafness, autosomal dominant 28",4118
+primary hyperoxaluria type 2,4119
+"mental retardation, x-linked 94",4120
+"mental retardation, autosomal recessive 6",4121
+oguchi disease,4122
+"night blindness, congenital stationary, type 1b",4123
+"frontotemporal lobar degeneration with tdp43 inclusions, grn-related",4124
+meretoja syndrome,4125
+glutathione synthetase deficiency,4126
+"glutathione synthetase deficiency of erythrocytes, hemolytic anemia due to",4127
+cone dystrophy 3,4128
+"amaurosis congenita of leber, type 1",4129
+cone-rod dystrophy 5,4130
+retinal cone dystrophy 2,4131
+mucopolysaccharidosis vii,4132
+glycogen storage disease xv,4133
+"glycogen storage disease 0, muscle",4134
+"glycogen storage disease 0, liver",4135
+cortisone reductase deficiency,4136
+3-hydroxyacyl-coa dehydrogenase deficiency,4137
+"hyperinsulinemic hypoglycemia, familial, 4",4138
+long-chain 3-hydroxyacyl-coa dehydrogenase deficiency,4139
+trifunctional protein deficiency,4140
+histidinemia,4141
+biliary atresia,4142
+"hemochromatosis, type 2a",4143
+"hemochromatosis, type 2b",4144
+dwarfism,4145
+"ige responsiveness, atopic",4146
+"neutropenia, severe congenital, 3, autosomal recessive",4147
+alpha-thalassemia,4148
+heinz body anemias,4149
+"beta-thalassemia, dominant inclusion body type",4150
+hemoglobinopathies,4151
+"progressive familial heart block, type ia",4152
+"progressive familial heart block, type ib",4153
+"thyroid cancer, hurthle cell",4154
+"microphthalmia, syndromic 7",4155
+brugada syndrome 8,4156
+"sick sinus syndrome 2, autosomal dominant",4157
+high density lipoprotein cholesterol level quantitative trait locus 6,4158
+"spondylocostal dysostosis 4, autosomal recessive",4159
+hypopituitarism and septooptic &apos;dysplasia&apos;,4160
+tay-sachs disease,4161
+sandhoff disease,4162
+"microvascular complications of diabetes, susceptibility to, 7",4163
+"porphyria, south african type",4164
+alkaptonuria,4165
+"deafness, autosomal recessive 39",4166
+beta-hydroxyisobutyryl coa deacylase deficiency,4167
+inherited peripheral neuropathy,4168
+"hemolytic anemia, nonspherocytic, due to hexokinase deficiency",4169
+creutzfeldt-jakob syndrome,4170
+holocarboxylase synthetase deficiency,4171
+"lipomatosis, multiple",4172
+hmg coa lyase deficiency,4173
+3-hydroxy-3-methylglutaryl-coa synthase 2 deficiency,4174
+marie unna congenital hypotrichosis,4175
+oculoauricular syndrome,4176
+"diabetes mellitus, insulin-dependent, 20",4177
+"hepatic adenomas, familial",4178
+"maturity-onset diabetes of the young, type 3",4179
+"prostate cancer, hereditary, 11",4180
+renal cysts and diabetes syndrome,4181
+"maturity-onset diabetes of the young, type 1",4182
+"hyperoxaluria, primary, type iii",4183
+athabaskan brainstem dysgenesis,4184
+radioulnar synostosis with amegakaryocytic thrombocytopenia,4185
+hand foot uterus syndrome,4186
+"preaxial deficiency, postaxial polydactyly and hypospadias",4187
+"microtia, hearing impairment, and cleft palate",4188
+lymphatic abnormalities,4189
+"vertical talus, congenital",4190
+brachydactyly-syndactyly syndrome,4191
+"brachydactyly, type d",4192
+"brachydactyly, type e1",4193
+"syndactyly, type v",4194
+synpolydactyly 1,4195
+vater association,4196
+hawkinsinuria,4197
+"digital clubbing, isolated congenital",4198
+"hypertrophic osteoarthropathy, primary, autosomal recessive, 1",4199
+"osteoarthropathy, primary hypertrophic",4200
+"hyperpigmentation, familial progressive, 2",4201
+osteoblastoma,4202
+kelley-seegmiller syndrome,4203
+lesch-nyhan syndrome,4204
+urofacial syndrome,4205
+alopecia universalis,4206
+atrichia with papular lesions,4207
+"nevus, sebaceous of jadassohn",4208
+thrombophilia due to histidine-rich glycoprotein deficiency,4209
+"obesity, abdominal",4210
+"hydroxyacyl-coa dehydrogenase, type 2, deficiency",4211
+"mental retardation, x-linked 17",4212
+"mental retardation, x-linked, syndromic 10",4213
+17-hydroxysteroid dehydrogenase deficiency,4214
+peroxisomal disorders,4215
+adrenal hyperplasia 2,4216
+"bile acid synthesis defect, congenital, 1",4217
+"cataract, zonular",4218
+heat stress disorders,4219
+knee injuries,4220
+osteochondritis,4221
+"charcot-marie-tooth disease, type 2f",4222
+"neuronopathy, distal hereditary motor, type iib",4223
+"neuronopathy, distal hereditary motor, type iic",4224
+"charcot-marie-tooth disease, axonal, type 2l",4225
+"neuronopathy, distal hereditary motor, type iia",4226
+"leukodystrophy, hypomyelinating, 4",4227
+"spastic paraplegia 13, autosomal dominant",4228
+dyssegmental dysplasia,4229
+"macular degeneration, age-related, 7",4230
+"parkinson disease 13, autosomal dominant, susceptibility to",4231
+"mental retardation, x-linked, syndromic, turner type",4232
+mucopolysaccharidosis type ix,4233
+hydrolethalus syndrome 1,4234
+"diabetes mellitus, transient neonatal, 1",4235
+"inflammatory bowel disease 25, autosomal recessive",4236
+idiopathic basal ganglia calcification 1,4237
+endocrine-cerebroosteodysplasia,4238
+"diabetes mellitus, insulin-dependent, 10",4239
+"diabetes mellitus, insulin-dependent, 2",4240
+enchondromatosis,4241
+d-2-hydroxyglutaric aciduria 2,4242
+mucopolysaccharidosis ii,4243
+mucopolysaccharidosis i,4244
+"diabetes mellitus, insulin-dependent, 19",4245
+"hemangioendothelioma, epithelioid",4246
+appendicitis,4247
+legionnaires&apos; disease,4248
+ciliary motility disorders,4249
+cranioectodermal dysplasia,4250
+asphyxiating thoracic dystrophy 2,4251
+"corpus callosum, agenesis of, with mental retardation, ocular coloboma, and micrognathia",4252
+insulin-like growth factor i deficiency,4253
+"insulin-like growth factor i, resistance to",4254
+"agammaglobulinemia 1, autosomal recessive",4255
+spinal muscular atrophy with respiratory distress 1,4256
+dysgammaglobulinemia,4257
+"hemihyperplasia, isolated",4258
+acrocapitofemoral dysplasia,4259
+"dysautonomia, familial",4260
+"atypical mycobacteriosis, familial, x-linked 1",4261
+"ectodermal dysplasia, anhidrotic, with immunodeficiency, osteopetrosis, and lymphedema",4262
+"ectodermal dysplasia, hypohidrotic, with immune deficiency",4263
+immunodeficiency without anhidrotic ectodermal dysplasia,4264
+incontinentia pigmenti,4265
+"invasive pneumococcal disease, recurrent isolated, 2",4266
+superinfection,4267
+"inflammatory bowel disease 28, autosomal recessive",4268
+central serous chorioretinopathy,4269
+angioid streaks,4270
+anthracosis,4271
+kearns-sayre syndrome,4272
+merrf syndrome,4273
+"gastritis, atrophic",4274
+"mental retardation, x-linked 21",4275
+"microvascular complications of diabetes, susceptibility to, 4",4276
+"osteomyelitis, sterile multifocal, with periostitis and pustulosis",4277
+inflammatory bowel disease 17,4278
+"interleukin 2 receptor, alpha, deficiency of",4279
+"severe combined immunodeficiency, x-linked",4280
+x-linked combined immunodeficiency diseases,4281
+"tuberculosis, bovine",4282
+diaper rash,4283
+"deafness, autosomal recessive 42",4284
+retinitis pigmentosa 10,4285
+retinitis pigmentosa 56,4286
+joubert syndrome 1,4287
+morm syndrome,4288
+"maturity-onset diabetes of the young, type 10",4289
+telomeric 22q13 monosomy syndrome,4290
+"diabetes mellitus, insulin-resistant, with acanthosis nigricans",4291
+donohue syndrome,4292
+"hyperinsulinemic hypoglycemia, familial, 5",4293
+nephronophthisis 2,4294
+senior-loken syndrome 5,4295
+"mental retardation, x-linked 1",4296
+"asthma-related traits, susceptibility to, 5",4297
+"invasive pneumococcal disease, recurrent isolated, 1",4298
+irak4 deficiency,4299
+inflammatory bowel disease 14,4300
+"orofacial cleft 6, susceptibility to",4301
+popliteal pterygium syndrome,4302
+van der woude syndrome,4303
+"myopathy with lactic acidosis, hereditary",4304
+"autoimmune disease, syndromic multisystem",4305
+thrombasthenia,4306
+epidermolysis bullosa junctionalis with pyloric atresia,4307
+"muscular dystrophy, congenital, due to integrin alpha-7 deficiency",4308
+leukocyte-adhesion deficiency syndrome,4309
+"leukocyte adhesion deficiency, type i",4310
+"thrombocytopenia, neonatal alloimmune",4311
+epidermolysis bullosa simplex,4312
+"lymphoproliferative syndrome, ebv-associated, autosomal, 1",4313
+"dementia, familial british",4314
+"dementia, familial danish",4315
+spinocerebellar ataxia 15,4316
+spinocerebellar ataxia 29,4317
+"heterotaxy, visceral, 5, autosomal",4318
+"acidemia, isovaleric",4319
+thyroid dyshormonogenesis 4,4320
+alagille syndrome,4321
+"hemorrhagic destruction of the brain, subependymal calcification, and cataracts",4322
+huntington disease-like 2,4323
+"arrhythmogenic right ventricular dysplasia, familial, 12",4324
+naxos disease,4325
+"cerebral palsy, spastic quadriplegic, 2",4326
+"charcot-marie-tooth disease, recessive intermediate b",4327
+nemaline myopathy 6,4328
+"episodic ataxia, type 1",4329
+"atrial fibrillation, familial, 7",4330
+spinocerebellar ataxia 13,4331
+jervell-lange nielsen syndrome,4332
+long qt syndrome 5,4333
+"atrial fibrillation, familial, 3",4334
+"atrial fibrillation, familial, 4",4335
+long qt syndrome 6,4336
+brugada syndrome 6,4337
+"paralysis, hyperkalemic periodic",4338
+long qt syndrome 2,4339
+short qt syndrome 1,4340
+"bartter syndrome, antenatal , type 2",4341
+"seizures, sensorineural deafness, ataxia, mental retardation, and electrolyte imbalance",4342
+"diabetes mellitus, transient neonatal, 3",4343
+"hyperinsulinemic hypoglycemia, familial, 2",4344
+snowflake vitreoretinal degeneration,4345
+andersen syndrome,4346
+short qt syndrome 3,4347
+long qt syndrome 13,4348
+birk-barel mental retardation dysmorphism syndrome,4349
+generalized epilepsy and paroxysmal dyskinesia,4350
+"hypertension, diastolic, resistance to",4351
+romano-ward syndrome,4352
+short qt syndrome 2,4353
+"epileptic encephalopathy, early infantile, 7",4354
+"seizures, benign familial neonatal, 1",4355
+"seizures, benign familial neonatal, 2",4356
+retinal cone dystrophy 3b,4357
+"epilepsy, progressive myoclonic 3, with or without intracellular inclusions",4358
+"mental retardation, x-linked, syndromic, jarid1c-related",4359
+cornea plana 2,4360
+fructosuria,4361
+"spastic paraplegia 8, autosomal dominant",4362
+goldberg-shprintzen megacolon syndrome,4363
+"charcot-marie-tooth disease, axonal, type 2a1",4364
+"fibrosis of extraocular muscles, congenital, 1",4365
+"spastic paraplegia 10, autosomal dominant",4366
+hydrolethalus syndrome,4367
+"mental retardation, autosomal dominant 4",4368
+"precocious puberty, central",4369
+piebaldism,4370
+testicular germ cell tumor,4371
+"maturity-onset diabetes of the young, type 7",4372
+retinitis pigmentosa 42,4373
+amelogenesis imperfecta pigmented hypomaturation type,4374
+prekallikrein deficiency,4375
+flaujeac factor deficiency,4376
+noonan syndrome 3,4377
+"ichthyosis, cyclic, with epidermolytic hyperkeratosis",4378
+"ichthyosis hystrix, curth macklin type",4379
+"keratoderma, palmoplantar, epidermolytic",4380
+keratosis palmoplantaris striata 3,4381
+"palmoplantar keratoderma, nonepidermolytic",4382
+"erythroderma, ichthyosiform, congenital reticular",4383
+"corneal dystrophy, juvenile epithelial of meesmann",4384
+"leukokeratosis, hereditary mucosal",4385
+dermatopathia pigmentosa reticularis,4386
+"epidermolysis bullosa simplex, autosomal recessive",4387
+naegeli syndrome,4388
+pachyonychia congenita,4389
+"palmoplantar keratoderma, nonepidermolytic, focal",4390
+pachyonychia congenita jackson lawler type,4391
+steatocystoma multiplex,4392
+"cirrhosis, familial",4393
+ichthyosis bullosa of siemens,4394
+dowling-degos disease,4395
+epidermolysis bullosa simplex with migratory circinate erythema,4396
+epidermolysis bullosa simplex with mottled pigmentation,4397
+"adenoma, oxyphilic",4398
+"woolly hair, autosomal dominant",4399
+pseudofolliculitis barbae,4400
+monilethrix,4401
+"ectodermal dysplasia 4, hair/nail type",4402
+hydroxykynureninuria,4403
+"corpus callosum, partial agenesis of, x-linked",4404
+"hydrocephalus, x-linked",4405
+"masa (mental retardation, aphasia, shuffling gait, adducted thumbs) syndrome",4406
+l-2-hydroxyglutaric aciduria,4407
+"muscular dystrophy congenital, merosin negative",4408
+"epidermolysis bullosa, junctional",4409
+laryngo onycho cutaneous syndrome,4410
+"mesangial sclerosis, diffuse",4411
+pierson syndrome,4412
+pelvic organ prolapse,4413
+glycogen storage disease type iib,4414
+immunodeficiency due to defect in mapbp-interacting protein,4415
+laryngeal adductor paralysis,4416
+"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 6",4417
+"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 6",4418
+hydrops-ectopic calcification-moth-eaten skeletal dysplasia,4419
+pelger-huet anomaly,4420
+reynolds syndrome,4421
+"amaurosis congenita of leber, type 5",4422
+lecithin acyltransferase deficiency,4423
+blue cone monochromatism,4424
+"lactase deficiency, congenital",4425
+"lactose intolerance, adult type",4426
+"myopathy, myofibrillar, 4",4427
+lactate dehydrogenase deficiency type a,4428
+splenic rupture,4429
+"hypercholesterolemia, autosomal recessive",4430
+buschke-ollendorff syndrome,4431
+melorheostosis,4432
+overweight,4433
+"osteogenesis imperfecta, type viii",4434
+wolf-hirschhorn syndrome,4435
+"spondylocostal dysostosis 3, autosomal recessive",4436
+"epilepsy, familial temporal lobe, 1",4437
+familial testotoxicosis,4438
+"leydig cell hypoplasia, type i",4439
+"deafness, autosomal recessive 67",4440
+"pituitary hormone deficiency, combined, 2",4441
+winkelman bethge pfeiffer syndrome,4442
+"pituitary hormone deficiency, combined, 4",4443
+stuve-wiedemann syndrome,4444
+lig4 syndrome,4445
+lysosomal acid lipase deficiency,4446
+high density lipoprotein cholesterol level quantitative trait locus 12,4447
+"charcot-marie-tooth disease, type 1c",4448
+"factor v and factor viii, combined deficiency of, 1",4449
+acheiropodia,4450
+"polydactyly, preaxial ii",4451
+"syndactyly, type iv",4452
+"methylmalonic aciduria and homocystinuria, cblf type",4453
+lipase deficiency combined,4454
+"charcot-marie-tooth disease, type 2b1",4455
+"heart-hand syndrome, slovenian type",4456
+hutchinson gilford progeria syndrome,4457
+"limb-girdle muscular dystrophy, type 1b",4458
+"lipodystrophy, familial partial, type 2",4459
+mandibuloacral dysplasia with type a lipodystrophy,4460
+"muscular dystrophy, congenital, lmna-related",4461
+progeria,4462
+"tight skin contracture syndrome, lethal",4463
+pelizaeus-merzbacher disease,4464
+"lipodystrophy, partial, acquired, susceptibility to",4465
+nail-patella syndrome,4466
+"vohwinkel syndrome, variant form",4467
+"myoglobinuria, acute recurrent, autosomal recessive",4468
+majeed syndrome,4469
+leber congenital amaurosis 14,4470
+donnai-barrow syndrome,4471
+syndactyly cenani lenz type,4472
+exudative vitreoretinopathy 4,4473
+"hyperostosis corticalis generalisata, benign form of worth, with torus palatinus",4474
+osteopetrosis autosomal dominant type 1,4475
+van buchem disease type 2,4476
+"vitreoretinopathy, proliferative",4477
+"coronary artery disease, autosomal dominant 2",4478
+"leigh syndrome , french canadian type",4479
+"parkinson disease 8, autosomal dominant",4480
+"deafness, autosomal recessive 63",4481
+"glaucoma 3, primary congenital, d",4482
+"tooth agenesis, selective, 6",4483
+"cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities",4484
+chediak-higashi syndrome,4485
+"cataract, pulverulent, juvenile-onset",4486
+major affective disorder 1,4487
+"mental retardation, x-linked 95",4488
+"hypospadias 2, x-linked",4489
+alpha-mannosidosis,4490
+beta-mannosidosis,4491
+brunner syndrome,4492
+progressive supranuclear palsy atypical,4493
+"deafness, autosomal recessive 49",4494
+masp2 deficiency,4495
+methionine adenosyltransferase deficiency,4496
+"epiphyseal dysplasia, multiple, 5",4497
+"spondyloepimetaphyseal dysplasia, matrilin-3 related",4498
+"mental retardation, autosomal dominant 1",4499
+ichthyosis follicularis atrichia photophobia syndrome,4500
+"melanoma, cutaneous malignant, susceptibility to, 5",4501
+oculocutaneous albinism type 2,4502
+protein-losing enteropathies,4503
+glucocorticoid deficiency 1,4504
+body mass index quantitative trait locus 9,4505
+3-methylcrotonyl coa carboxylase 1 deficiency,4506
+3-methylcrotonyl coa carboxylase 2 deficiency,4507
+methylmalonyl-coa epimerase deficiency,4508
+"factor v and factor viii, combined deficiency of, 2",4509
+medullary cystic kidney disease 1,4510
+mucolipidoses,4511
+mucolipidosis iv,4512
+"microcephaly 1, primary, autosomal recessive",4513
+"autism, susceptibility to, x-linked 3",4514
+"encephalopathy, neonatal severe, due to mecp2 mutations",4515
+lubs x-linked mental retardation syndrome,4516
+"mental retardation, x-linked, syndromic 13",4517
+lujan fryns syndrome,4518
+"transposition of the great arteries, dextro-looped 1",4519
+"microcephaly, postnatal progressive, with seizures and brain atrophy",4520
+"charcot-marie-tooth disease, type 2b2",4521
+"coronary artery disease, autosomal dominant, 1",4522
+"mental retardation, autosomal dominant 20",4523
+"familial mediterranean fever, autosomal dominant",4524
+gastrinoma,4525
+glucagonoma,4526
+multiple endocrine neoplasia type 1,4527
+"spondylocostal dysostosis 2, autosomal recessive",4528
+"charcot-marie-tooth disease, axonal, type 2a2",4529
+hereditary motor and sensory neuropathy vi,4530
+"microphthalmia, isolated 5",4531
+nanophthalmos 2,4532
+"ceroid lipofuscinosis, neuronal, 7",4533
+congenital disorder of glycosylation type 2a,4534
+keutel syndrome,4535
+"opitz gbbb syndrome, x-linked",4536
+laurin-sandrow syndrome,4537
+"deafness, autosomal dominant 50",4538
+albinism ocular late onset sensorineural deafness,4539
+"albinism, oculocutaneous",4540
+tietz syndrome,4541
+waardenburg syndrome type 2,4542
+waardenburg syndrome type 2a,4543
+mckusick kaufman syndrome,4544
+meckel syndrome type 1,4545
+megalencephalic leukoencephalopathy with subcortical cysts,4546
+"cafe au lait spots, multiple",4547
+lynch syndrome ii,4548
+muir-torre syndrome,4549
+kabuki syndrome,4550
+griscelli syndrome type 3,4551
+methylmalonic aciduria cbla type,4552
+methylmalonic aciduria cblb type,4553
+methylmalonic acidemia with homocystinuria,4554
+"methylmalonic aciduria and homocystinuria, cbld type",4555
+cryopyrin-associated periodic syndromes,4556
+"spondyloepimetaphyseal dysplasia, missouri type",4557
+torg-winchester syndrome,4558
+"amelogenesis imperfecta, hypomaturation type, iia2",4559
+"histiocytoma, benign fibrous",4560
+actinobacillus infections,4561
+fusobacterium infections,4562
+metaphyseal anadysplasia 2,4563
+"meningioma, familial",4564
+classical lissencephalies and subcortical band heterotopias,4565
+currarino triad,4566
+"congenital disorder of glycosylation, type iib",4567
+congenital disorder of glycosylation type 1f,4568
+congenital disorder of glycosylation type 1b,4569
+congenital amegakaryocytic thrombocytopenia,4570
+amish brittle hair brain syndrome,4571
+myeloperoxidase deficiency,4572
+mitochondrial dna depletion syndrome 6 (hepatocerebral type),4573
+"charcot-marie-tooth disease, dominant intermediate d",4574
+"charcot-marie-tooth disease, type 2i",4575
+"charcot-marie-tooth disease, type 2j",4576
+roussy-levy hereditary areflexic dystasia,4577
+ataxia-telangiectasia-like disorder,4578
+combined oxidative phosphorylation deficiency 2,4579
+combined oxidative phosphorylation deficiency 5,4580
+"mental retardation, autosomal recessive 4",4581
+"mental retardation, x-linked 72",4582
+neurofibromatosis 1,4583
+"prostate cancer, hereditary, 13",4584
+"deafness, autosomal recessive 74",4585
+keratoacanthoma familial,4586
+myostatin-related muscle hypertrophy,4587
+orofacial cleft 5,4588
+"tooth agenesis, selective, 1",4589
+witkop syndrome,4590
+"craniosynostosis, type 2",4591
+parietal foramina with cleidocranial dysplasia,4592
+eye burns,4593
+nevus,4594
+"blood coagulation disorders, inherited",4595
+"homocystinuria due to deficiency of n(5,10)-methylenetetrahydrofolate reductase activity",4596
+orofacial cleft 1,4597
+"myopathy, centronuclear, x-linked",4598
+"charcot-marie-tooth disease, type 4b1",4599
+"spastic ataxia 4, autosomal recessive",4600
+"methylcobalamin deficiency, cblg type",4601
+"homocystinuria-megaloblastic anemia due to defect in cobalamin metabolism, cble complementation type",4602
+abetalipoproteinemia,4603
+methylmalonic aciduria due to methylmalonyl-coa mutase deficiency,4604
+"colorectal adenomatous polyposis, autosomal recessive",4605
+mevalonate kinase deficiency,4606
+"porokeratosis, disseminated superficial actinic 1",4607
+influenza in birds,4608
+"cardiomyopathy, familial hypertrophic, 4",4609
+"cardiomyopathy, hypertrophic, familial",4610
+oculodigitoesophagoduodenal syndrome,4611
+myd88 deficiency,4612
+"aortic aneurysm, familial thoracic 4",4613
+"deafness, autosomal dominant 4a",4614
+"inclusion body myopathy, autosomal dominant",4615
+distal arthrogryposis type 2b,4616
+freeman-sheldon syndrome,4617
+"cardiomyopathy, dilated, 1ee",4618
+"cardiomyopathy, familial hypertrophic, 14",4619
+"cardiomyopathy, dilated, 1s",4620
+"myopathy, myosin storage",4621
+"scapuloperoneal myopathy, myh7-related",4622
+carney complex variant,4623
+hecht syndrome,4624
+"deafness, autosomal dominant 17",4625
+epstein syndrome,4626
+fechtner syndrome,4627
+macrothrombocytopenia progressive deafness,4628
+may-hegglin anomaly,4629
+sebastian syndrome,4630
+"cardiomyopathy, familial hypertrophic, 10",4631
+"cardiomyopathy, familial hypertrophic, 8",4632
+"deafness, autosomal recessive 3",4633
+"deafness, autosomal dominant 48",4634
+"deafness, autosomal recessive 30",4635
+griscelli syndrome type 1,4636
+microvillus inclusion disease,4637
+"deafness, autosomal dominant 22;dfna22 deafness, autosomal dominant 22, with hypertrophic cardiomyopathy,",4638
+"deafness, autosomal recessive 37",4639
+"deafness, autosomal dominant 11",4640
+"deafness, autosomal recessive 2",4641
+usher syndromes,4642
+"usher syndrome, type 1b",4643
+"muscular dystrophy, limb-girdle, type 1a",4644
+"myopathy, myofibrillar, 3",4645
+spheroid body myopathy,4646
+solitary fibrous tumors,4647
+kanzaki disease,4648
+"schindler disease, type 1",4649
+n-acetyl glutamate synthetase deficiency,4650
+gray platelet syndrome,4651
+nijmegen breakage syndrome,4652
+"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type i",4653
+"granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type ii",4654
+"hidradenitis suppurativa, familial",4655
+"optic atrophies, hereditary",4656
+"exudative vitreoretinopathy 2, x-linked",4657
+norrie disease,4658
+"neuropathy, hereditary motor and sensory, lom type",4659
+nemaline myopathy 2,4660
+"charcot-marie-tooth disease, type 1f",4661
+"charcot-marie-tooth disease, type 2e",4662
+never in mitosis gene a-related kinase 1,4663
+neuraminidase 1 deficiency,4664
+"maturity-onset diabetes of the young, type 6",4665
+"diarrhea 4, malabsorptive, congenital",4666
+"cardiomyopathy, dilated, 1cc",4667
+neurofibromatoses,4668
+"neurofibromatosis, familial spinal",4669
+neurofibromatosis-noonan syndrome,4670
+watson syndrome,4671
+neurofibromatosis 2,4672
+schwannomatosis,4673
+"ectodermal dysplasia, anhidrotic, with t-cell immunodeficiency, autosomal dominant",4674
+"neuropathy, hereditary sensory and autonomic, type v",4675
+"severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation",4676
+"dyskeratosis congenita, autosomal recessive",4677
+nance-horan syndrome,4678
+"spastic paraplegia 6, autosomal dominant",4679
+"ichthyosis, congenital, autosomal recessive 6",4680
+de lange syndrome,4681
+"choreoathetosis, hypothyroidism, and neonatal respiratory distress",4682
+atrial septal defect 7 with or without atrioventricular conduction defects,4683
+"hypothyroidism, congenital, nongoitrous, 5",4684
+spondylo-megaepiphyseal-metaphyseal dysplasia,4685
+"asperger syndrome, x-linked, susceptibility to, 1",4686
+"autism, susceptibility to, x-linked 1",4687
+"asperger syndrome, x-linked, susceptibility to, 2",4688
+"autism, susceptibility to, x-linked 2",4689
+vitiligo-associated multiple autoimmune disease susceptibility 1,4690
+familial cold autoinflammatory syndrome 2,4691
+familial cold autoinflammatory syndrome 1,4692
+muckle-wells syndrome,4693
+hydatidiform mole,4694
+"ciliary dyskinesia, primary, 6",4695
+hereditary macular coloboma,4696
+premature ovarian failure 5,4697
+"sarcoidosis, early-onset",4698
+synovitis granulomatous with uveitis and cranial neuropathies,4699
+"brachydactyly, type b2",4700
+multiple synostoses syndrome 1,4701
+stapes ankylosis with broad thumb and toes,4702
+tarsal carpal coalition syndrome,4703
+"pyloric stenosis, infantile hypertrophic, 1",4704
+hajdu-cheney syndrome,4705
+cadasil,4706
+"niemann-pick disease, type c2",4707
+joubert syndrome 4,4708
+"nephronophthisis, familial juvenile",4709
+senior-loken syndrome 1,4710
+nephronophthisis 3,4711
+renal-hepatic-pancreatic dysplasia,4712
+renal hepatic pancreatic dysplasia dandy walker cyst,4713
+nephronophthisis 4,4714
+senior-loken syndrome 4,4715
+"nephrotic syndrome, idiopathic, steroid-resistant",4716
+"atrial fibrillation, familial, 6",4717
+"acromesomelic dysplasia, maroteaux type",4718
+"asthma-related traits, susceptibility to, 2",4719
+dosage-sensitive sex reversal,4720
+enhanced s-cone syndrome,4721
+retinitis pigmentosa 37,4722
+"46, xx disorders of sex development",4723
+acanthosis nigricans,4724
+"hypertension, early-onset, autosomal dominant, with severe exacerbation in pregnancy",4725
+"chondrosarcoma, extraskeletal myxoid",4726
+"46,xy sex reversal 3",4727
+"gonadal dysgenesis, 46,xx",4728
+"gonadal dysgenesis, 46,xy",4729
+premature ovarian failure 7,4730
+neurofibrosarcoma,4731
+noonan syndrome 6,4732
+sotos syndrome,4733
+weaver syndrome,4734
+ck syndrome,4735
+congenital hemidysplasia with ichthyosiform erythroderma and limb defects,4736
+"uridine 5-prime monophosphate hydrolase deficiency, hemolytic anemia due to",4737
+calcification of joints and arteries,4738
+"glaucoma 1, open angle, o",4739
+familial medullary thyroid carcinoma,4740
+striatonigral degeneration infantile,4741
+"night blindness, congenital stationary, type 1a",4742
+ornithine aminotransferase deficiency,4743
+three m syndrome 2,4744
+band-like calcification with simplified gyration and polymicrogyria,4745
+dent disease 2,4746
+oculocerebrorenal syndrome,4747
+joubert syndrome 10,4748
+orofaciodigital syndrome type1,4749
+"simpson-golabi-behmel syndrome, type 2",4750
+alpha-ketoglutarate dehydrogenase deficiency,4751
+"glaucoma, normal tension, susceptibility to",4752
+optic atrophy 1 and deafness,4753
+costeff optic atrophy syndrome,4754
+"optic atrophy and cataract, autosomal dominant",4755
+"mental retardation, x-linked, with cerebellar hypoplasia and distinctive facial appearance",4756
+"colorblindness, partial, deutan series",4757
+tritanopia,4758
+hip contracture,4759
+lordosis,4760
+"osteoarthritis, spine",4761
+shoulder dislocation,4762
+amyotrophic lateral sclerosis 12,4763
+immune dysfunction with t-cell inactivation due to calcium entry defect 1,4764
+amyloidosis ix,4765
+"osteopetrosis, autosomal recessive 1",4766
+"osteopetrosis, autosomal recessive 5",4767
+"ornithine transcarbamylase deficiency, hyperammonemia due to",4768
+"deafness, autosomal recessive 22",4769
+"deafness, autosomal recessive 9",4770
+"microphthalmia, syndromic 5",4771
+succinyl-coa:3-oxoacid coa transferase deficiency,4772
+"bleeding disorder, platelet-type, 8",4773
+"muscular dystrophy, oculopharyngeal",4774
+lissencephaly,4775
+phenylketonurias,4776
+"mental retardation, x-linked 30",4777
+"fanconi anemia, complementation group n",4778
+"hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration",4779
+pantothenate kinase-associated neurodegeneration,4780
+"spondyloepimetaphyseal dysplasia, pakistani type",4781
+"parkinson disease 4, autosomal dominant lewy body",4782
+"parkinson disease 7, autosomal recessive early-onset",4783
+papillorenal syndrome,4784
+craniofacial deafness hand syndrome,4785
+waardenburg syndrome,4786
+"maturity-onset diabetes of the young, type 9",4787
+aniridia,4788
+aniridia cerebellar ataxia mental deficiency,4789
+"aniridia, type 2",4790
+coloboma of optic nerve,4791
+ectopia pupillae,4792
+foveal hypoplasia and presenile cataract syndrome,4793
+"keratitis, hereditary",4794
+"optic nerve hypoplasia, bilateral",4795
+"hypothyroidism, congenital, nongoitrous, 2",4796
+"tooth agenesis, selective, 3",4797
+pyruvate carboxylase deficiency disease,4798
+"hyperphenylalaninemia, bh4-deficient, d",4799
+propionic acidemia,4800
+"deafness, autosomal recessive 23",4801
+"usher syndrome, type 1f",4802
+"epileptic encephalopathy, early infantile, 9",4803
+phosphoenolpyruvate carboxykinase deficiency,4804
+phosphoenolpyruvate carboxykinase 2 deficiency,4805
+"microcephalic osteodysplastic primordial dwarfism, type ii",4806
+seckel syndrome 2,4807
+body mass index quantitative trait locus 12,4808
+proprotein convertase 1/3 deficiency,4809
+tracheoesophageal fistula,4810
+"hypercholesterolemia, autosomal dominant, 3",4811
+cerebral cavernous malformations 3,4812
+"pigmented nodular adrenocortical disease, primary, 2",4813
+"night blindness, congenital stationary",4814
+"night blindness, congenital stationary, autosomal dominant 2",4815
+cone dystrophy 4,4816
+retinitis pigmentosa 57,4817
+retinal cone dystrophy 3a,4818
+"striatal degeneration, autosomal dominant",4819
+"hypereosinophilic syndrome, idiopathic",4820
+"leigh syndrome, x-linked",4821
+pyruvate dehydrogenase complex deficiency disease,4822
+"pyruvate metabolism, inborn errors",4823
+pyruvate dehydrogenase e3-binding protein deficiency,4824
+pyruvate dehydrogenase phosphatase deficiency,4825
+"maturity-onset diabetes of the young, type 4",4826
+"pancreatic agenesis, congenital",4827
+spinocerebellar ataxia 23,4828
+prolidase deficiency,4829
+"advanced sleep-phase syndrome, familial",4830
+peroxisome biogenesis disorder 2b,4831
+peroxisome biogenesis disorders,4832
+"refsum disease, infantile",4833
+"chondrodysplasia punctata, rhizomelic",4834
+"rhizomelic chondrodysplasia punctata, type 1",4835
+glycogen storage disease type vii,4836
+dimauro disease,4837
+phosphoglycerate kinase 1 deficiency,4838
+glycogen storage disease xiv,4839
+borjeson-forssman-lehmann syndrome,4840
+siderius x-linked mental retardation syndrome,4841
+phosphoglycerate dehydrogenase deficiency,4842
+"glycogen storage disease, type ixd",4843
+glycogen storage disease ixa1,4844
+glycogen storage disease ixb,4845
+glycogen storage disease ixc,4846
+"fibrosis of extraocular muscles, congenital, 2",4847
+hyperphosphatasia with mental retardation syndrome 1,4848
+"corneal dystrophy, fleck",4849
+"parkinson disease 6, autosomal recessive early-onset",4850
+lethal congenital contractural syndrome 3,4851
+"iridogoniodysgenesis, type 2",4852
+ring dermoid of cornea,4853
+"cataract, posterior polar, 4",4854
+"polycystic kidney disease, type 2",4855
+"adenosine triphosphate, elevated, of erythrocytes",4856
+pyruvate kinase deficiency of red cells,4857
+ectodermal dysplasia/ skin fragility syndrome,4858
+"arrhythmogenic right ventricular dysplasia, familial, 9",4859
+neurodegeneration with brain iron accumulation 2a,4860
+neurodegeneration with brain iron accumulation 2b,4861
+"parkinson disease 14, autosomal recessive",4862
+"salivary gland adenoma, pleomorphic",4863
+"thrombophilia, familial, due to decreased release of tissue plasminogen activator;thph9 hyperfibrinolysis, familial, due to increased release of tissue plasminogen",4864
+"epileptic encephalopathy, early infantile, 12",4865
+"nephrotic syndrome, type 3",4866
+epidermolysa bullosa simplex and limb girdle muscular dystrophy,4867
+"epidermolysis bullosa simplex, ogna type",4868
+epidermolysis bullosa simplex with pyloric atresia,4869
+"muscular dystrophy, limb-girdle, type 2q",4870
+"spinal muscular atrophy, distal, autosomal recessive, 4",4871
+"osteopetrosis, autosomal recessive 6",4872
+pulmonary function,4873
+"plasminogen deficiency, type i",4874
+"cardiomyopathy, dilated, 1p",4875
+ehlers-danlos syndrome type 6,4876
+nevo syndrome,4877
+bruck syndrome 2,4878
+"bone fragility with contractures, arterial rupture, and deafness",4879
+"spastic paraplegia 2, x-linked",4880
+congenital disorder of glycosylation type 1a,4881
+"charcot-marie-tooth disease, demyelinating, type 1e",4882
+"neuropathy, hereditary, with liability to pressure palsies",4883
+dna repair-deficiency disorders,4884
+"epileptic encephalopathy, early infantile, 10",4885
+purine nucleoside phosphorylase deficiency,4886
+neutral lipid storage disease with myopathy,4887
+"spastic paraplegia 39, autosomal recessive",4888
+pyridoxamine 5-prime-phosphate oxidase deficiency,4889
+premature ovarian failure 2b,4890
+diffuse cerebral sclerosis of schilder,4891
+mitochondrial dna depletion syndrome 1 (mngie type),4892
+mitochondrial dna depletion syndrome 4a (alpers type),4893
+mitochondrial dna depletion syndrome 4b (mngie type),4894
+"progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 1",4895
+"progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal recessive",4896
+"progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 4",4897
+"xeroderma pigmentosum, variant type",4898
+mandibulofacial dysostosis,4899
+"mandibulofacial dysostosis, treacher collins type, autosomal recessive",4900
+treacher collins syndrome 2,4901
+"acth syndrome, ectopic",4902
+"aortic stenosis, subvalvular",4903
+proopiomelanocortin deficiency,4904
+rhabdomyoma,4905
+"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 3",4906
+"muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 3",4907
+keratosis linearis with ichthyosis congenita and sclerosing keratoderma,4908
+"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 1",4909
+"muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 1",4910
+"muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 2",4911
+"muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 2",4912
+"muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 2",4913
+"microvascular complications of diabetes, susceptibility to, 5",4914
+"adrenal hyperplasia, congenital, due to cytochrome p450 oxidoreductase deficiency",4915
+antley-bixler syndrome with genital anomalies and disordered steroidogenesis,4916
+disordered steroidogenesis due to cytochrome p450 oxidoreductase deficiency,4917
+focal dermal hypoplasia,4918
+chromosome disorders,4919
+"dwarfism, pituitary",4920
+"pituitary hormone deficiency, combined, 1",4921
+progressive hearing loss stapes fixation,4922
+"deafness, autosomal dominant 15",4923
+gestational trophoblastic disease,4924
+carotid intimal medial thickness 1,4925
+"lipodystrophy, familial partial, type 3",4926
+juvenile osteoporosis,4927
+"osteogenesis imperfecta, type ix",4928
+spinocerebellar ataxia 12,4929
+"ceroid lipofuscinosis, neuronal, 1",4930
+renpenning syndrome 1,4931
+pierre robin syndrome,4932
+"hemophagocytic lymphohistiocytosis, familial, 2",4933
+jacobs syndrome,4934
+"epilepsy, progressive myoclonic, 1b",4935
+"cardiomyopathy, familial hypertrophic, 6",4936
+"glycogen storage disease of heart, lethal congenital",4937
+"carbohydrate metabolism, inborn errors",4938
+"atrial myxoma, familial",4939
+"pigmented nodular adrenocortical disease, primary, 1",4940
+spinocerebellar ataxia 14,4941
+gerstmann-straussler-scheinker disease,4942
+huntington disease-like 1,4943
+"insomnia, fatal familial",4944
+spongiform encephalopathy with neuropsychiatric features,4945
+"congenital thrombotic disease, due to protein c deficiency",4946
+"thrombophilia due to protein c deficiency, autosomal recessive",4947
+hyperprolinemia,4948
+cone-rod dystrophy 12,4949
+"macular dystrophy, retinal, 2",4950
+retinitis pigmentosa 41,4951
+stargardt disease 4,4952
+"thrombophilia due to protein s deficiency, autosomal dominant",4953
+retinitis pigmentosa 18,4954
+retinitis pigmentosa 11,4955
+retinitis pigmentosa 13,4956
+"choroidal dystrophy, central areolar 2",4957
+fundus albipunctatus,4958
+patterned dystrophy of retinal pigment epithelium,4959
+retinitis pigmentosa 7,4960
+arts syndrome,4961
+"deafness, x-linked 1",4962
+optic atrophy polyneuropathy deafness,4963
+phosphoribosylpyrophosphate synthetase superactivity,4964
+retrognathia,4965
+"mental retardation, autosomal recessive 1",4966
+combined saposin deficiency,4967
+"gaucher disease, atypical, due to saposin c deficiency",4968
+"krabbe disease, atypical, due to saposin a deficiency",4969
+metachromatic leukodystrophy due to saposin b deficiency,4970
+phosphoserine aminotransferase deficiency,4971
+linitis plastica,4972
+"alzheimer disease, familial, 3, with spastic paraparesis and apraxia",4973
+"cardiomyopathy, dilated, 1u",4974
+alzheimer disease type 4,4975
+"cardiomyopathy, dilated, 1v",4976
+"pyogenic arthritis, pyoderma gangrenosum, and acne",4977
+holoprosencephaly 7,4978
+duodenal diseases,4979
+leopard syndrome,4980
+macrocephaly autism syndrome,4981
+proteus syndrome,4982
+vacterl hydrocephaly,4983
+"diabetes mellitus, permanent neonatal, with cerebellar agenesis",4984
+"asthma-related traits, susceptibility to, 1",4985
+"asthma, nasal polyps, and aspirin intolerance",4986
+"chondrodysplasia, blomstrand type",4987
+eiken skeletal dysplasia,4988
+"failure of tooth eruption, primary",4989
+jansen type metaphyseal chondrodysplasia,4990
+"brachydactyly, type e2",4991
+potocki-lupski syndrome,4992
+"leopard syndrome, 1",4993
+metachondromatosis,4994
+osteochondroma,4995
+choanal atresia and lymphedema,4996
+"deafness, autosomal recessive 84a",4997
+"lipodystrophy, congenital generalized, type 4",4998
+6-pyruvoyl-tetrahydropterin synthase deficiency,4999
+myopathy with lactic acidosis and sideroblastic anemia,5000
+poliomyelitis,5001
+rosselli-gulienetti syndrome,5002
+zlotogora-ogur syndrome,5003
+ectodermal dysplasia-syndactyly syndrome 1,5004
+"cutis laxa, autosomal recessive, type iib",5005
+glycogen storage disease type vi,5006
+"hyperphenylalaninemia, bh4-deficient, c",5007
+acrocephalopolysyndactyly type ii,5008
+griscelli syndrome type 2,5009
+warburg sjo fledelius syndrome,5010
+martsolf syndrome,5011
+"charcot-marie-tooth disease, type 2b",5012
+neutrophil immunodeficiency syndrome,5013
+nijmegen breakage syndrome-like disorder,5014
+"breast-ovarian cancer, familial, susceptibility to, 3",5015
+"fanconi anemia, complementation group o",5016
+"leopard syndrome, 2",5017
+noonan syndrome 5,5018
+"alpha/beta t-cell lymphopenia with gamma/delta t-cell expansion, severe cytomegalovirus infection, and autoimmunity",5019
+combined cellular and humoral immune defects with granulomas,5020
+"severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-negative, nk cell-positive",5021
+"encephalopathy, acute, infection-induced, susceptibility to, 3",5022
+pontocerebellar hypoplasia type 6,5023
+capillary malformation-arteriovenous malformation,5024
+port-wine stain,5025
+"microphthalmia, isolated 3",5026
+cone-rod dystrophy 11,5027
+tarp syndrome,5028
+"cardiomyopathy, dilated, 1dd",5029
+"alopecia, neurologic defects, and endocrinopathy syndrome",5030
+absent radii and thrombocytopenia,5031
+keratomalacia,5032
+leber congenital amaurosis 12,5033
+leber congenital amaurosis 13,5034
+leber congenital amaurosis 3,5035
+retinal dystrophies,5036
+"deafness, autosomal recessive 24",5037
+craniosynostosis radial aplasia syndrome,5038
+rapadilino syndrome,5039
+rothmund-thomson syndrome,5040
+"spastic paraplegia 31, autosomal dominant",5041
+norman roberts lissencephaly syndrome,5042
+"hyperuricemic nephropathy, familial juvenile, 2",5043
+otitis externa,5044
+multiple endocrine neoplasia type 2a,5045
+multiple endocrine neoplasia type 2b,5046
+simpson-golabi-behmel syndrome,5047
+"congenital disorder of glycosylation, type in",5048
+prolonged electroretinal response suppression,5049
+"rh-null, regulator type",5050
+"anemia, hemolytic, congenital",5051
+"night blindness, congenital stationary, autosomal dominant 1",5052
+retinitis pigmentosa 4,5053
+cone-rod dystrophy 7,5054
+"macrocephaly, alopecia, cutis laxa, and scoliosis",5055
+bothnia retinal dystrophy,5056
+newfoundland rod-cone dystrophy,5057
+anauxetic dysplasia,5058
+cartilage-hair hypoplasia,5059
+metaphyseal dysplasia without hypotrichosis,5060
+aicardi-goutieres syndrome 4,5061
+aicardi-goutieres syndrome 3,5062
+"prostate cancer, hereditary, 1",5063
+"leukoencephalopathy, cystic, without megalencephaly",5064
+riddle syndrome,5065
+"meningitis, viral",5066
+"gaze palsy, familial horizontal, with progressive scoliosis",5067
+"brachydactyly, type b1",5068
+"robinow syndrome, autosomal recessive",5069
+retinitis pigmentosa 1,5070
+retinitis pigmentosa 2,5071
+retinitis pigmentosa 9,5072
+"amaurosis congenita of leber, type 2",5073
+"cone-rod dystrophy, x-linked, 1",5074
+retinitis pigmentosa 3,5075
+"retinitis pigmentosa, x-linked, and sinorespiratory infections, with or without deafness",5076
+cone-rod dystrophy 13,5077
+joubert syndrome 7,5078
+"meckel syndrome, type 5",5079
+ribose 5-phosphate isomerase deficiency,5080
+diamond-blackfan anemia 7,5081
+diamond-blackfan anemia 5,5082
+diamond-blackfan anemia 6,5083
+diamond-blackfan anemia 9,5084
+diamond-blackfan anemia 4,5085
+"anemia, diamond-blackfan, 3",5086
+diamond-blackfan anemia 10,5087
+coffin-lowry syndrome,5088
+diamond-blackfan anemia 8,5089
+mitochondrial dna depletion syndrome 8a (encephalomyopathic type with renal tubulopathy),5090
+"progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 5",5091
+retinoschisis,5092
+"ciliary dyskinesia, primary, 11",5093
+"ciliary dyskinesia, primary, 12",5094
+"palmoplantar hyperkeratosis with squamous cell carcinoma of skin and 46,xx sex reversal",5095
+anonychia congenita,5096
+"platelet disorder, familial, with associated myeloid malignancy",5097
+cleidocranial dysplasia,5098
+stomatognathic system abnormalities,5099
+malignant hyperthermia susceptibility type 1,5100
+minicore myopathy with external ophthalmoplegia,5101
+"myopathy, central core",5102
+"arrhythmogenic right ventricular dysplasia, familial, 2",5103
+spastic ataxia charlevoix-saguenay type,5104
+ehlers-danlos syndrome,5105
+townes-brocks syndrome,5106
+oculootoradial syndrome,5107
+"tumoral calcinosis, normophosphatemic, familial",5108
+aicardi-goutieres syndrome 5,5109
+chylomicron retention disease,5110
+sarcosinemia,5111
+"keratosis follicularis spinulosa decalvans, x-linked",5112
+"cleft palate, isolated, and mental retardation",5113
+shwachman syndrome,5114
+"charcot-marie-tooth disease, type 4b2",5115
+lathosterolosis,5116
+"epilepsy, progressive myoclonic 4, with or without renal failure",5117
+"generalized epilepsy with febrile seizures plus, type 2",5118
+"migraine, familial hemiplegic, 3",5119
+brugada syndrome 5,5120
+"epilepsy, benign neonatal, 3",5121
+"epileptic encephalopathy, early infantile, 11",5122
+brugada syndrome 7,5123
+"hypokalemic periodic paralysis, type 2",5124
+paramyotonia congenita of von eulenburg,5125
+potassium aggravated myotonia,5126
+long qt syndrome 10,5127
+"cardiomyopathy, dilated, 1e",5128
+long qt syndrome 3,5129
+long qt syndrome type 3,5130
+"sick sinus syndrome 1, autosomal recessive",5131
+"indifference to pain, congenital, autosomal recessive",5132
+paroxysmal extreme pain disorder,5133
+bronchiectasis with or without elevated sweat chloride 2,5134
+bronchiectasis with or without elevated sweat chloride 3,5135
+"cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency",5136
+leukoencephalopathy with dystonia and motor neuropathy,5137
+mitochondrial complex ii deficiency,5138
+carney-stratakis syndrome,5139
+cowden-like syndrome,5140
+"carcinoid tumors, intestinal",5141
+craniolenticulosutural dysplasia,5142
+"thyroid hormone metabolism, abnormal",5143
+cone-rod dystrophy 10,5144
+retinitis pigmentosa 35,5145
+rigid spine syndrome,5146
+neuritis with brachial predilection,5147
+"panniculitis, nodular nonsuppurative",5148
+corticosteroid-binding globulin deficiency,5149
+"deafness, autosomal recessive 91",5150
+heparin cofactor ii deficiency,5151
+plasminogen activator inhibitor-1 deficiency,5152
+"anti-plasmin deficiency, congenital",5153
+"complement component 4, partial deficiency of",5154
+familial encephalopathy with neuroserpin inclusion bodies,5155
+schinzel-giedion syndrome,5156
+"amyotrophic lateral sclerosis 4, juvenile",5157
+"spinocerebellar ataxia, autosomal recessive 1",5158
+"surfactant metabolism dysfunction, pulmonary, 2",5159
+"limb-girdle muscular dystrophy, type 2d",5160
+"limb-girdle muscular dystrophy, type 2e",5161
+"cardiomyopathy, dilated, 1l",5162
+limb-girdle muscular dystrophy type 2f,5163
+"limb-girdle muscular dystrophy, type 2c",5164
+cherubism,5165
+ter haar syndrome,5166
+"charcot-marie-tooth disease, type 4c",5167
+"mononeuropathy of the median nerve, mild",5168
+split hand foot deformity 1,5169
+holoprosencephaly 3,5170
+"microphthalmia, isolated, with coloboma 5",5171
+single upper central incisor,5172
+noonan syndrome-like disorder with loose anagen hair,5173
+langer mesomelic dysplasia,5174
+leri-weil syndrome,5175
+"short stature, idiopathic, x-linked",5176
+stocco dos santos syndrome,5177
+"sucrase-isomaltase deficiency, congenital",5178
+branchiootic syndrome 3,5179
+"deafness, autosomal dominant 23",5180
+holoprosencephaly 2,5181
+branchiootorenal syndrome 2,5182
+"microphthalmia, isolated, with cataract 2",5183
+"bile acid malabsorption, primary",5184
+buruli ulcer,5185
+"anemia, hypochromic microcytic, with iron overload",5186
+"bartter syndrome, antenatal type 1",5187
+gitelman syndrome,5188
+corpus callosum agenesis neuronopathy,5189
+erythrocyte lactate transporter defect,5190
+"hyperinsulinemic hypoglycemia, familial, 7",5191
+"cataract, juvenile, with microcornea and glucosuria",5192
+allan-herndon-dudley syndrome,5193
+"deafness, autosomal dominant 25",5194
+thiamine responsive megaloblastic anemia syndrome,5195
+"episodic ataxia, type 6",5196
+pleuropneumonia,5197
+"hypomyelination, global cerebral",5198
+adult-onset citrullinemia type 2,5199
+neonatal-onset citrullinemia type 2,5200
+hhh syndrome,5201
+amish lethal microcephaly,5202
+carnitine-acylcarnitine translocase deficiency,5203
+"epileptic encephalopathy, early infantile, 3",5204
+mitochondrial phosphate carrier deficiency,5205
+"progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 2",5206
+achondrogenesis type 1b,5207
+atelosteogenesis type 2,5208
+diastrophic dysplasia,5209
+"epiphyseal dysplasia, multiple, 4",5210
+pendred syndrome,5211
+ichthyosis prematurity syndrome,5212
+"histiocytosis, sinus",5213
+histiocytosis with joint contractures and sensorineural deafness,5214
+de vivo disease,5215
+glut1 deficiency syndrome 2,5216
+arterial tortuosity syndrome,5217
+fanconi-bickel syndrome,5218
+"hypouricemia, renal, 2",5219
+"spastic paraplegia 42, autosomal dominant",5220
+"nephrolithiasis/osteoporosis, hypophosphatemic, 1",5221
+pulmonary alveolar microlithiasis,5222
+testicular microlithiasis,5223
+"hypophosphatemic rickets with hypercalciuria, hereditary",5224
+"congenital disorder of glycosylation, type iif",5225
+"congenital disorder of glycosylation, type 2c",5226
+schneckenbecken dysplasia,5227
+hyperglycinuria,5228
+iminoglycinuria,5229
+glycogen storage disease ib,5230
+glycogen storage disease ic,5231
+"spondylocheirodysplasia, ehlers-danlos syndrome-like",5232
+"hemochromatosis, type 4",5233
+"oculocutaneous albinism, type iv",5234
+"folate malabsorption, hereditary",5235
+autosomal dominant distal renal tubular acidosis,5236
+"elliptocytosis, hereditary",5237
+"renal tubular acidosis, distal, with hemolytic anemia",5238
+"spherocytosis, type 4",5239
+corneal dystrophy and perceptive deafness,5240
+"corneal dystrophy, fuchs endothelial, 4",5241
+corneal endothelial dystrophy type 2,5242
+"renal tubular acidosis, proximal, with ocular abnormalities and mental retardation",5243
+brown-vialetto-van laere syndrome,5244
+glucose/galactose malabsorption,5245
+thyroid dyshormonogenesis 1,5246
+body mass index quantitative trait locus 11,5247
+hartnup disease,5248
+"parkinsonism-dystonia, infantile",5249
+superior mesenteric artery syndrome,5250
+lysinuric protein intolerance,5251
+"nephrolithiasis/osteoporosis, hypophosphatemic, 2",5252
+"mental retardation, x-linked, syndromic, christianson type",5253
+loeys-dietz syndrome,5254
+growth mental deficiency syndrome of myhre,5255
+juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome,5256
+nicolaides baraitser syndrome,5257
+rhabdoid tumor predisposition syndrome 2,5258
+schimke immunoosseous dysplasia,5259
+rhabdoid tumor predisposition syndrome 1,5260
+"cdls, x-linked",5261
+spinal muscular atrophies of childhood,5262
+spinal muscular atrophy 4,5263
+niemann-pick diseases,5264
+"niemann-pick disease, type a",5265
+"niemann-pick disease, type b",5266
+snyder robinson syndrome,5267
+"waardenburg syndrome, type 2d",5268
+"cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome",5269
+"parkinson disease 1, autosomal dominant",5270
+retinitis pigmentosa 33,5271
+long qt syndrome 12,5272
+"microcephaly, microphthalmia, ectrodactyly of lower limbs, and prognathism",5273
+"mental retardation, anterior maxillary protrusion, and strabismus",5274
+"dermatitis, atopic, 4",5275
+"microvascular complications of diabetes, susceptibility to, 6",5276
+noonan syndrome 4,5277
+sclerosteosis,5278
+"peripheral demyelinating neuropathy, central dysmyelination, waardenburg syndrome, and hirschsprung disease",5279
+"waardenburg syndrome, type 4c",5280
+yemenite deaf-blind hypopigmentation syndrome,5281
+hypotrichosis-lymphedema-telangiectasia syndrome,5282
+"microphthalmia, syndromic 3",5283
+"mental retardation, x-linked, with panhypopituitarism",5284
+panhypopituitarism x-linked,5285
+campomelic dysplasia,5286
+hepatic venoocclusive disease with immunodeficiency,5287
+"spastic paraplegia 4, autosomal dominant",5288
+"spastic paraplegia 11, autosomal recessive",5289
+"spastic paraplegia 20, autosomal recessive",5290
+mast syndrome,5291
+"spastic paraplegia 7, autosomal recessive",5292
+tropical calcific pancreatitis,5293
+netherton syndrome,5294
+"diarrhea 3, secretory sodium, congenital",5295
+"dystonia, dopa-responsive, due to sepiapterin reductase deficiency",5296
+legius syndrome,5297
+elliptocytosis 2,5298
+"pyropoikilocytosis, hereditary",5299
+"spherocytosis, type 3",5300
+"epileptic encephalopathy, early infantile, 5",5301
+"neuropathy, hereditary sensory and autonomic, type ia",5302
+"neuropathy, hereditary sensory and autonomic, type ic",5303
+pseudovaginal perineoscrotal hypospadias,5304
+"congenital disorder of glycosylation, type iq",5305
+perisylvian syndrome,5306
+"rolandic epilepsy, mental retardation, and speech dyspraxia, x-linked",5307
+"46,xx gonadal dysgenesis, complete, sry-positive",5308
+"46,xy sex reversal 1",5309
+"ichthyosis with hypotrichosis, autosomal recessive",5310
+amish infantile epilepsy syndrome,5311
+"hyper-ige recurrent infection syndrome, autosomal dominant",5312
+growth hormone insensitivity with immunodeficiency,5313
+"microcephaly 7, primary, autosomal recessive",5314
+immune dysfunction with t-cell inactivation due to calcium entry defect 2,5315
+"microphthalmia, syndromic 9",5316
+"polyhydramnios, megalencephaly, and symptomatic epilepsy",5317
+"deafness, autosomal recessive 16",5318
+"hemophagocytic lymphohistiocytosis, familial, 4",5319
+"epileptic encephalopathy, early infantile, 4",5320
+mitochondrial dna depletion syndrome 2 (myopathic type),5321
+mitochondrial dna depletion syndrome 5 (encephalomyopathic with methylmalonic aciduria),5322
+mitochondrial dna depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria),5323
+multiple sulfatase deficiency disease,5324
+orofacial cleft 10,5325
+"diabetes mellitus, insulin-dependent, 5",5326
+sulfite oxidase deficiency,5327
+spermatogenic failure 4,5328
+"epilepsy, x-linked, with variable learning disabilities and behavior disorders",5329
+"spinocerebellar ataxia, autosomal recessive 8",5330
+"mental retardation, autosomal dominant 5",5331
+"mental retardation, x-linked 96",5332
+"corneal dystrophy, gelatinous drop-like",5333
+"dystonia 3, torsion, x-linked",5334
+"diabetes mellitus, insulin-dependent, 21",5335
+transaldolase deficiency,5336
+"myeloproliferative syndrome, transient",5337
+"bare lymphocyte syndrome, type i",5338
+amyotrophic lateral sclerosis 10,5339
+thiourea tasting,5340
+barth syndrome,5341
+hypoparathyroidism-retardation-dysmorphism syndrome,5342
+kenny caffey syndrome,5343
+"kenny-caffey syndrome, type 1",5344
+spinocerebellar ataxia 17,5345
+cousin syndrome,5346
+pelviscapular dysplasia,5347
+atrial septal defect 4,5348
+cleft palate x-linked,5349
+ulnar-mammary syndrome,5350
+ischiopatellar dysplasia,5351
+holt-oram syndrome,5352
+ghosal hematodiaphyseal dysplasia,5353
+"cardiomyopathy, dilated, 1n",5354
+"muscular dystrophy, limb-girdle, type 2g",5355
+transcobalamin ii deficiency,5356
+"spinocerebellar ataxia, autosomal recessive, with axonal neuropathy",5357
+sveinsson chorioretinal atrophy,5358
+"deafness, autosomal dominant 12",5359
+"deafness, autosomal recessive 21",5360
+"venous malformations, multiple cutaneous and mucosal",5361
+"dyskeratosis congenita, autosomal dominant",5362
+congenital atransferrinemia,5363
+char syndrome,5364
+"hemochromatosis, type 3",5365
+arenaviridae infections,5366
+thyroid dyshormonogenesis 3,5367
+camurati-engelmann syndrome,5368
+"arrhythmogenic right ventricular dysplasia, familial, 1",5369
+"corneal dystrophy, epithelial basement membrane",5370
+"corneal dystrophy, lattice type iiia",5371
+"corneal dystrophy of bowman layer, type 1",5372
+groenouw type i corneal dystrophy,5373
+lattice corneal dystrophy type 1,5374
+"loeys-dietz syndrome, type 1a",5375
+"loeys-dietz syndrome, type 2a",5376
+"aortic aneurysm, familial thoracic 3",5377
+"hernia, inguinal",5378
+"loeys-dietz syndrome, type 1b",5379
+holoprosencephaly 4,5380
+"lamellar ichthyosis, type 1",5381
+peeling skin syndrome,5382
+"peeling skin syndrome, acral type",5383
+"dystonia 6, torsion",5384
+"thyroid hormone resistance, generalized, autosomal dominant",5385
+"thyroid hormone resistance, generalized, autosomal recessive",5386
+"thyroid hormone resistance, selective pituitary",5387
+jensen syndrome,5388
+mohr-tranebjaerg syndrome,5389
+"fundus dystrophy, pseudoinflammatory, of sorsby",5390
+revesz debuse syndrome,5391
+korsakoff syndrome,5392
+atrial septal defect 6,5393
+"macular degeneration, age-related, 10",5394
+"deafness, autosomal dominant 36",5395
+"deafness, autosomal recessive 7",5396
+epidermodysplasia verruciformis,5397
+optic atrophy 7,5398
+joubert syndrome 2,5399
+meckel syndrome type 2,5400
+"arrhythmogenic right ventricular dysplasia, familial, 5",5401
+joubert syndrome 6,5402
+meckel syndrome type 3,5403
+nephronophthisis 11,5404
+"deafness, autosomal recessive 6",5405
+"cardiomyopathy, dilated, 1t",5406
+enterokinase deficiency,5407
+"deafness, autosomal recessive 8",5408
+iron-refractory iron deficiency anemia,5409
+"osteopetrosis, autosomal recessive 7",5410
+"polyostotic osteolytic dysplasia, hereditary expansile",5411
+"paget disease, juvenile",5412
+immunoglobulin a deficiency 2,5413
+"periodic fever, familial, autosomal dominant",5414
+"osteopetrosis, autosomal recessive 2",5415
+"cardiomyopathy, dilated, 1z",5416
+"cardiomyopathy, familial hypertrophic, 13",5417
+"cardiomyopathy, dilated, 1ff",5418
+"cardiomyopathy, dilated, 2a",5419
+"cardiomyopathy, familial hypertrophic, 7",5420
+"cardiomyopathy, familial restrictive, 1",5421
+nemaline myopathy 5,5422
+"cardiomyopathy, dilated, 1d",5423
+"cardiomyopathy, familial hypertrophic, 2",5424
+"cardiomyopathy, familial restrictive, 3",5425
+ehlers-danlos syndrome caused by tenascin-x deficiency,5426
+keratosis palmoplantaris with esophageal cancer,5427
+retinitis pigmentosa 31,5428
+dystonia musculorum deformans type 1,5429
+"adrenocortical carcinoma, hereditary",5430
+"papilloma, choroid plexus",5431
+ectrodactyly-cleft lip/palate syndrome,5432
+"ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3",5433
+hay-wells syndrome,5434
+limb-mammary syndrome,5435
+propping zerres syndrome,5436
+rapp-hodgkin syndrome,5437
+split-hand/foot malformation 4,5438
+"cardiomyopathy, dilated, 1y",5439
+"cardiomyopathy, familial hypertrophic, 3",5440
+"arthrogryposis, distal, type 1a",5441
+nemaline myopathy 4,5442
+nemaline myopathy 1,5443
+thiopurine s-methyltransferase deficiency,5444
+thyroid dyshormonogenesis 2a,5445
+"ceroid lipofuscinosis, neuronal, 2",5446
+"deafness, autosomal recessive 79",5447
+"spondyloepiphyseal dysplasia tarda, x-linked",5448
+"mental retardation, autosomal recessive 13",5449
+trehalase deficiency,5450
+polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy,5451
+chilblain lupus,5452
+"vasculopathy, retinal, with cerebral leukodystrophy",5453
+"coma, post-head injury",5454
+thyrotropin-releasing hormone deficiency,5455
+limb-girdle muscular dystrophy type 2h,5456
+mulibrey nanism,5457
+"deafness, autosomal recessive 28",5458
+achondrogenesis type 1a,5459
+"deafness, aminoglycoside-induced",5460
+"liver failure, infantile, transient",5461
+"night blindness, congenital stationary, type 1c",5462
+"hypomagnesemia 1, intestinal",5463
+amyotrophic lateral sclerosis-parkinsonism/dementia complex 1,5464
+langer-giedion syndrome,5465
+trichorhinophalangeal syndrome type 2,5466
+"trichorhinophalangeal syndrome, type i",5467
+"trichorhinophalangeal syndrome, type iii",5468
+brachyolmia type 3,5469
+"hereditary motor and sensory neuropathy, type iic",5470
+metatropic dwarfism,5471
+parastremmatic dwarfism,5472
+scapuloperoneal spinal muscular atrophy,5473
+sodium serum level quantitative trait locus 1,5474
+"spondyloepiphyseal dysplasia, maroteaux type",5475
+focal cortical dysplasia of taylor,5476
+"pontocerebellar hypoplasia, type 2b",5477
+"pontocerebellar hypoplasia, type 2c",5478
+"pontocerebellar hypoplasia, type 2a",5479
+"pontocerebellar hypoplasia, type 4",5480
+combined oxidative phosphorylation deficiency 3,5481
+"hypothyroidism, congenital, nongoitrous, 4",5482
+"hyperthyroidism, familial gestational",5483
+"hyperthyroidism, nonautoimmune",5484
+exudative vitreoretinopathy 5,5485
+"mental retardation, x-linked 58",5486
+sudden infant death with dysgenesis of the testes syndrome,5487
+spinocerebellar ataxia 11,5488
+retinitis pigmentosa 51,5489
+"cardiomyopathy, dilated, 1g",5490
+"cardiomyopathy, familial hypertrophic, 9",5491
+distal myopathy markesbery-griggs type,5492
+hereditary myopathy with early respiratory failure,5493
+"muscular dystrophy, limb-girdle, type 2j",5494
+"myopathy, early-onset, with fatal cardiomyopathy",5495
+"amyloidosis, hereditary, transthyretin-related",5496
+dystransthyretinemic euthyroidal hyperthyroxinemia,5497
+polymicrogyria with optic nerve hypoplasia,5498
+"macrothrombocytopenia, autosomal dominant, tubb1-related",5499
+"polymicrogyria, symmetric or asymmetric",5500
+combined oxidative phosphorylation deficiency 4,5501
+leber congenital amaurosis 15,5502
+retinitis pigmentosa 14,5503
+"mental retardation, autosomal recessive 7",5504
+saethre-chotzen syndrome with eyelid anomalies,5505
+tyrosine kinase 2 deficiency,5506
+mitochondrial neurogastrointestinal encephalopathy syndrome,5507
+oculocutaneous albinism type 1,5508
+oculocutaneous albinism type 1b,5509
+oculocutaneous albinism type 3,5510
+"arthrogryposis multiplex congenita, distal, x-linked",5511
+"corneal dystrophy, crystalline, of schnyder",5512
+johanson blizzard syndrome,5513
+"parkinson disease 5, autosomal dominant",5514
+gilbert disease,5515
+"crigler najjar syndrome, type 1",5516
+"crigler najjar syndrome, type 2",5517
+"hyperbilirubinemia, transient familial neonatal",5518
+glomerulocystic kidney disease with hyperuricemia and isosthenuria,5519
+"hyperuricemic nephropathy, familial juvenile, 1",5520
+medullary cystic kidney disease 2,5521
+oroticaciduria 1,5522
+"hemophagocytic lymphohistiocytosis, familial, 3",5523
+"immunodeficiency with hyper-igm, type 5",5524
+beta-ureidopropionase deficiency,5525
+"mental retardation, x-linked, syndromic 14",5526
+urocanase deficiency,5527
+"porphyria, erythropoietic",5528
+poikiloderma with neutropenia,5529
+"deafness, autosomal recessive 18a",5530
+"usher syndrome, type 1c",5531
+"usher syndrome, type ig",5532
+"usher syndrome, type 2a",5533
+sertoli cell-only syndrome,5534
+cystocele,5535
+sacral defect and anterior sacral meningocele,5536
+amyotrophic lateral sclerosis 8,5537
+"spinal muscular atrophy, proximal, adult, autosomal dominant",5538
+"cardiomyopathy, dilated, 1w",5539
+"cardiomyopathy, familial hypertrophic, 15",5540
+inclusion body myopathy with early-onset paget disease and frontotemporal dementia,5541
+"vitamin d-dependent rickets, type 2a",5542
+arthrogryposis renal dysfunction cholestasis syndrome,5543
+"vitamin k-dependent clotting factors, combined deficiency of, 2",5544
+dysequilibrium syndrome,5545
+"myopathy, x-linked, with excessive autophagy",5546
+neuroacanthocytosis,5547
+cohen syndrome,5548
+"corneal dystrophies, hereditary",5549
+keratoconus 1,5550
+"microphthalmia, isolated 2",5551
+"microphthalmia, isolated, with coloboma 3",5552
+"von willebrand disease, type 1",5553
+"von willebrand disease, type 2",5554
+"von willebrand disease, type 3",5555
+"neutropenia, severe congenital, x-linked",5556
+wiskott-aldrich syndrome,5557
+cranioectodermal dysplasia 2,5558
+"glaucoma 1, open angle, g",5559
+"pachygyria with mental retardation, seizures, and arachnoid cysts",5560
+"amelogenesis imperfecta, hypomaturation type, iia3",5561
+"deafness, autosomal dominant 6",5562
+"arthropathy, progressive pseudorheumatoid, of childhood",5563
+"neuropathy, hereditary sensory and autonomic, type iia",5564
+odontoonychodermal dysplasia,5565
+schopf-schulz-passarge syndrome,5566
+split-hand/foot malformation 6,5567
+tetra-amelia autosomal recessive,5568
+"46,xx sex reversal with dysgenesis of kidneys, adrenals, and lungs",5569
+mullerian aplasia and hyperandrogenism,5570
+rokitansky kuster hauser syndrome,5571
+al awadi syndrome,5572
+"fibular aplasia or hypoplasia, femoral bowing and poly-, syn-, and oligodactyly",5573
+denys-drash syndrome,5574
+frasier syndrome,5575
+meacham winn culler syndrome,5576
+"nephrotic syndrome, type 4",5577
+wilson-turner x-linked mental retardation syndrome,5578
+major affective disorder 7,5579
+"xanthinuria, type i",5580
+"xeroderma pigmentosum, complementation group c",5581
+nephronophthisis-like nephropathy 1,5582
+"charcot-marie-tooth disease, dominant intermediate c",5583
+t cell immunodeficiency primary,5584
+"skeletal defects, genital hypoplasia, and mental retardation",5585
+"mental retardation, x-linked 91",5586
+"mental retardation, x-linked, syndromic, raymond type",5587
+"corneal dystrophy, fuchs endothelial, 6",5588
+"corneal dystrophy, posterior polymorphous, 3",5589
+mowat-wilson syndrome,5590
+diaphragmatic hernia 3,5591
+"spastic paraplegia 15, autosomal recessive",5592
+"spastic paraplegia 33, autosomal dominant",5593
+holoprosencephaly 5,5594
+"heterotaxy, visceral, x-linked",5595
+acro-osteolysis,5596
+mandibuloacral dysplasia with type b lipodystrophy,5597
+"nephrolithiasis, uric acid, susceptibility to",5598
+ehlers-danlos syndrome 6b,5599
+retinitis pigmentosa 58,5600
+"spinocerebellar ataxia, autosomal recessive 5",5601
+seborrhea-like dermatitis with psoriasiform elements,5602
+"mental retardation, x-linked 45",5603
