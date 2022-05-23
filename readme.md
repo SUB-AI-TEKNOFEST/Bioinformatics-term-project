@@ -1,11 +1,8 @@
-# Dr_Tiger
 **Contributers and Contact Information: **
 
 Utku Sağlam saglmutku@gmail.com
 
 Beytullah Aksoy beytullah557@gmail.com
-
-Alper Özcan alper.ozcan@gmail.com
 
 **Problem Statement:**
 GRAPH FOR BETTER HEALTH
