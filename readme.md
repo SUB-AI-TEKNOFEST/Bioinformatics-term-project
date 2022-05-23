@@ -46,11 +46,13 @@ The total trade volume of the pharmaceutical industry in the world was over US$ 
 - **Technology Stack**:
   Flask, JS, torch, pytorch, pytigergraph, pandas, torchdrug, matplotlib, uvicorn.
 - **Visuals**:
+- ![MicrosoftTeams-image](https://user-images.githubusercontent.com/58150504/169796178-ef93fdf0-c0a1-4aef-9c6d-37a28b8c8ca9.png)
 -  https://www.youtube.com/watch?v=5r-vlL_daG4
 ![Ekran Resmi 2022-04-14 00 41 19](https://user-images.githubusercontent.com/58150504/163575916-51990326-055e-4621-9a22-8952c5e839e9.png)
 
 ![Ekran Resmi 2022-04-14 00 41 26](https://user-images.githubusercontent.com/58150504/163575952-970e947b-4933-4f16-a17a-f4b76a2709fd.png)
 ![Ekran Resmi 2022-04-20 12 41 28](https://user-images.githubusercontent.com/58150504/164199961-f9be9a7d-cfaf-44dc-9a7f-1d3e0a650fe5.png)
+
 
 
 ## Dependencies
