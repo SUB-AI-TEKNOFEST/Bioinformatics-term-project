@@ -1,0 +1,10 @@
+pyTigerGraph
+pandas
+numpy
+torch
+fastapi
+uvicorn
+flask
+matplotlib
+networkx
+pyvis
