@@ -5,9 +5,7 @@ Utku Sağlam saglmutku@gmail.com
 Beytullah Aksoy beytullah557@gmail.com
 
 **Problem Statement:**
-GRAPH FOR BETTER HEALTH
-Find Novel Drug Treatments
-
+Drug Target Interaction.
 **Description**:
 Diseases are a complex set of phenomena that have various relationships with drugs, cells, and organisms. Each of these relationships creates more complexity to find the proper drug for the disease. To find the proper drug for the disease, designing and developing it is an expensive process. As we know, drugs can cure a variety of diseases but usually, they use just for one or two diseases. People are inclined to use drugs not according to the prospectus to solve their diseases. Unapproved use of an approved drug is often called “off-label” use. Off-label usage of drugs has increased dramatically in the last ten years. 
 
